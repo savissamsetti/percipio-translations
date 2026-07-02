@@ -1,0 +1,15 @@
+{
+  "name": "percipio-translations",
+  "version": "1.0.0",
+  "description": "Generate translation JSON from a CSV file",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "to-csv": "node src/json-to-csv.js",
+    "download": "node src/download-from-s3.js",
+    "to-csv-multi": "node src/json-to-csv-multi.js",
+    "combined": "node src/combined.js"
+  },
+  "license": "MIT"
+}

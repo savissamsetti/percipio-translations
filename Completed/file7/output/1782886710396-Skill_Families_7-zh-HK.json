@@ -1,0 +1,3002 @@
+[
+  {
+    "messageId": "b3ecff63-f621-4d15-b2e0-c93f9e66828a:name",
+    "message": "心理急救與危機介入",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e496ec97-49a5-47a0-bb22-60420648b26d:name",
+    "message": "心理學",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0e696888-3bda-4073-8e68-0248a496e19e:name",
+    "message": "心理測量學與測量理論",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "42157b10-74bd-4319-9e43-4247c83d8abe:name",
+    "message": "PsychoPy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "28a63376-99e3-45c1-b5ce-e15f62a7e97f:name",
+    "message": "公共倫理與誠信培訓",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "35dbbed9-a920-417a-98d7-6552aedc693c:name",
+    "message": "公共財政規例及治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d93f7efc-d426-4523-99f4-bc1d2392df93:name",
+    "message": "公共財務報告與透明度",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c6d61e81-e7f6-4283-81d0-1215b80dac6b:name",
+    "message": "公共政策倡導與代表",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85cc3057-bb03-45d8-88c0-aa4ae6c42cc4:name",
+    "message": "公共政策傳播與倡導",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74750eab-141e-4fbe-8377-3764f11c6d0d:name",
+    "message": "公共政策實施支援",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0281538e-26ad-4904-b851-4ec77b4d2ee8:name",
+    "message": "公共關係及媒體關係",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4eb8eee-f3a7-4147-a2a3-dd60d0601d11:name",
+    "message": "公共安全教育及培訓",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e533ccc-11e0-4bd5-800b-4c3332345286:name",
+    "message": "公共部門財務系統和工具",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5aecc819-66c5-4e60-a01c-3da9b2c95478:name",
+    "message": "公共部門人力資源科技應用",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a980c9aa-81f9-415b-a282-f29f5f607cd7:name",
+    "message": "公共部門領導發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d533b40c-3c33-413f-9edb-1db37ae0dd00:name",
+    "message": "公共服務市場推廣及外展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "be4ec9e4-eb7e-42a2-bab1-731f8fe527cb:name",
+    "message": "公共工程協調",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ffbf3ba-1782-4a81-978a-b9d37cb52d7f:name",
+    "message": "PubMed",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f76b045-0e65-4df8-be9d-af8598dc12dc:name",
+    "message": "Pulumi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ec1b90f5-1ade-4f01-bcea-eb7b5f40d03d:name",
+    "message": "木偶",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04c97b17-5ef6-46c2-bff8-6dbb5f68e0bd:name",
+    "message": "採購及訂單管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e4f3e507-540e-421f-804f-202ee6315222:name",
+    "message": "PX4 自動駕駛",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "737df134-3362-4afe-957c-dfa5ca00a633:name",
+    "message": "Pyomo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f70782d-c778-4e60-adab-1b7cd6528ab4:name",
+    "message": "pytest",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a998f437-3699-4ec3-b43e-9f93e57730d9:name",
+    "message": "Python",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99f7042a-94f0-4b58-8b73-4bd9d58099b0:name",
+    "message": "Python 程式設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "24b5bf98-c11d-4dac-92fe-ea72c19199bc:name",
+    "message": "Python 程式設計 (DSAI)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ca03eb5-59f2-4317-9743-3c7bad41809c:name",
+    "message": "數據科學的 Python 程式設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc918bc9-c019-41ae-a230-d8608cca9a0b:name",
+    "message": "PyTorch",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ec251e8-857b-41a9-8ab8-77ec133e921f:name",
+    "message": "Q#",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9cc6cef-ea61-42b7-bb64-e0f32ab158a7:name",
+    "message": "QDA Miner",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04ccdc61-06c7-4067-9e7a-db9800e22c6c:name",
+    "message": "QGIS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4e24725-184f-4386-b79c-46b501c7abc4:name",
+    "message": "QGroundControl",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f86ad01-6b8d-475b-8fd8-6d08abba6d0c:name",
+    "message": "QI Macros",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57df4f0b-12f9-4d7a-957a-b697bc9158e6:name",
+    "message": "Qiskit",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dfcfeb97-fa77-46e6-94e4-f476c12cf3e9:name",
+    "message": "Qlik Sense",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00cee705-0ca4-4c3f-8270-2d87851d58aa:name",
+    "message": "Qt",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9e262d5-dffd-45e0-b2f6-be0c72089aea:name",
+    "message": "Qt 框架",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "66d25985-b1ca-42d4-92a2-5f0bbdd4f432:name",
+    "message": "qTest",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8c9090e0-6909-44e0-a9d9-bdc9359e54d4:name",
+    "message": "質性分析與詮釋",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "246eaa10-c882-48b2-8396-6071095e3ba9:name",
+    "message": "教育中的質性數據分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "60ac0b55-49f7-46e8-98da-4dadecca8d1b:name",
+    "message": "質量保證和合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a1149c46-b18e-4d08-8907-bca9c2baa350:name",
+    "message": "採購中的質量保證和合規性",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d191dd17-5943-44c0-9002-d6e90c8ad823:name",
+    "message": "質量保證與持續課程改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ea2e36f-7a54-45dc-b9dd-7a3633419950:name",
+    "message": "質量保證與持續改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3d08a2db-99d5-4eff-a88d-43b5f7543fd8:name",
+    "message": "質量保證與持續改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3a5fd10-6e94-4071-a3f8-b5f7e903558e:name",
+    "message": "設施管理的質量保證與持續改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ee394711-db23-499f-a2f5-7fdf70bf25b0:name",
+    "message": "評估中的質量保證與持續改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "565276f3-3788-448c-a58e-16dcdf012eaf:name",
+    "message": "質量保證與流程改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4dab1a4-050a-43b0-bf2e-7eb22cc82c18:name",
+    "message": "質量保證和質量控制",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b482c1e8-c9c7-42e8-925c-49cf05c43893:name",
+    "message": "探索數據的質量保證和質量控制",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "41f31d3a-a468-4b23-b44b-f7d76a90cbd9:name",
+    "message": "質量保證及服務改善",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99166eff-464f-414a-af2e-ea4cfbfffe4e:name",
+    "message": "教育科技的質量保證與測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c332645b-f191-4245-a37f-454f7d8ccc5b:name",
+    "message": "新興科技的質量保證與測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4d728976-08a1-4a49-892f-39f0aed29998:name",
+    "message": "數碼健康解決方案的質量保證和驗證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e8862fa-fdaf-4fc6-9a11-d6aa8704a32c:name",
+    "message": "自動系統中的質量保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ee783e2-67b2-454e-a379-4292a2ca006d:name",
+    "message": "作物生產的質量保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5de0e94-807f-409b-bb73-bd9efc54158d:name",
+    "message": "客戶支持中的質量保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "268377b7-210f-4528-84bc-f62e37116709:name",
+    "message": "質量保證流程管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cd84c82e-ff1f-4f51-aa8c-3f1df0270ef4:name",
+    "message": "質量控制與保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "010b30ef-99e1-41b4-b930-b57ca41f097d:name",
+    "message": "材料的質量控制和保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22591b1a-ff2e-42bc-b863-2fdb75b633d2:name",
+    "message": "臨床前研究的質量控制與保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93e37b17-225e-4da9-89ed-8d5c67a40372:name",
+    "message": "質量控制及過程測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1eb6660c-b24c-495a-9623-fdb511fa904d:name",
+    "message": "質量控制和檢查",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ef81130-d36b-4eaf-8af0-1fa02ce15a8d:name",
+    "message": "質量控制和測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "56ee2644-0e9d-498b-85d9-ad2acc6b367d:name",
+    "message": "質量檢查和測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef1ccbdc-e197-4734-a7a4-1dbaa5b1479b:name",
+    "message": "質量管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "17c9f750-5ed1-481c-8660-d7419fabd292:name",
+    "message": "質量管理系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47b8be5f-5897-4af1-a3c1-73943348519f:name",
+    "message": "合規的質量管理系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1198ddb7-8e51-4f9f-b5dc-e8699e174107:name",
+    "message": "質量管理系統整合於監管事務",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc1aa8b4-20e0-4825-adab-ad8fb151b8c4:name",
+    "message": "質量指標和報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "da369852-a9ca-4627-99a7-689d2ed5e9cb:name",
+    "message": "質量系統和標準合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f8be8a3c-9f0c-4f74-9c9f-44b437e4c6eb:name",
+    "message": "Qualtrics",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7debc742-c871-4224-b9a9-980fa0c6e5d4:name",
+    "message": "Qualtrics CustomerXM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c237d81f-8ba0-48f4-9424-0a9ee6349430:name",
+    "message": "Qualtrics 員工體驗",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0f2262c1-5774-46dc-815f-da27779e6387:name",
+    "message": "Qualtrics 病人體驗",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c0618a4-65e7-46f0-87fe-ebcd72b1a603:name",
+    "message": "Qualys 漏洞管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "76df3707-24f7-4b29-811f-29bca7385bb7:name",
+    "message": "定量分析同統計方法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f8ae29b-ac8f-451b-91ee-ab002c49ba02:name",
+    "message": "量子開發工具包 (QDK)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ccf0b632-d3ae-47f3-9703-cc118201a725:name",
+    "message": "量子纏繞",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b72440f8-72e1-4f72-b9a4-fe8ce403a62c:name",
+    "message": "量子錯誤修正",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1895e92a-78d4-4f65-af76-4e3bb5d27ba8:name",
+    "message": "量子ESPRESSO",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1aaf2fbe-270d-4a95-9892-bcdc0ae6d0f2:name",
+    "message": "量子信息處理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0e4f2a3d-369d-4a03-a607-c1cc770c1fb7:name",
+    "message": "量子傳送",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c26ef529-9d8f-4837-87fb-5548753e6aeb:name",
+    "message": "質疑和探究技巧",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a26bfe1-e2c1-47a7-be9c-507bc468378d:name",
+    "message": "QuickBooks",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6dba5f40-0126-46a3-a220-09dab68dd77a:name",
+    "message": "R",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4823fb0-fc5b-4d82-92ec-d91421fb0cf7:name",
+    "message": "R 程式語言",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "814432ae-82b1-4bd9-8be0-1a3cc97711d5:name",
+    "message": "R 語言統計分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2264e4dc-29cd-4543-bd8d-5c95c4d091c6:name",
+    "message": "R Shiny",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "25e6fc13-d4dc-4651-a854-c96cdebb6917:name",
+    "message": "RabbitMQ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "54e12536-dd71-4deb-a745-828f83877754:name",
+    "message": "Racket 程式設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07fe3ef8-1b8e-49c4-a088-31bf1eab95a0:name",
+    "message": "雷達成像",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1a112354-39d4-482b-ae91-bdde405f0ea6:name",
+    "message": "雷達信號處理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae13cf42-fd2b-4053-98cc-aa357367f07b:name",
+    "message": "輻射和激光安全",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4551c57b-05ad-461d-86b0-3320abb698fc:name",
+    "message": "木筏",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d07ae8c4-076d-466b-8ce8-ec54f01278f8:name",
+    "message": "Rally Software (Broadcom Agile Central)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f66bbace-3fdd-4ece-be8a-e1bd29e4f57d:name",
+    "message": "快速應用開發方法論",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b461bae3-a832-4ea0-b1b1-829375ab9fd2:name",
+    "message": "Ray RLlib",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3735f13-b614-4f15-b95e-8099b221b8ec:name",
+    "message": "RDF (資源描述框架)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9fa1bcea-8ec4-4560-acd4-55493642ea56:name",
+    "message": "RDKit",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d028b2b4-c14d-4ab0-aeaf-06b963c1ecb9:name",
+    "message": "React Native",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e20d3a2c-34b9-464b-89de-62cec37a45f7:name",
+    "message": "React.js",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e85b3e9-02f0-45be-9fe8-95d3d3fc64f2:name",
+    "message": "閱讀文檔",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8cf1969-09f8-402d-bbd5-5d6d78af8e1e:name",
+    "message": "閱讀參與和識字發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6ce5e823-412b-40a8-b514-861446b56768:name",
+    "message": "即時決策支援系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c36b364b-341b-4939-8785-34d424a111b3:name",
+    "message": "實時監控及控制系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "40d0e4e9-7572-46ba-b7b2-75956b9b6cad:name",
+    "message": "實時運營監控與控制",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fab81498-ec87-4f5e-8d7d-a15e6d66eb4e:name",
+    "message": "實證數據 (RWE) 生成與應用",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a7b0c7b5-3d19-43c1-94f6-018c849a007e:name",
+    "message": "實證數據分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d414a489-d792-4615-adbb-bfbdc4e861c8:name",
+    "message": "Rebar3",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4658ea1-6b5b-4a07-8e0e-b220de22b399:name",
+    "message": "記錄未來",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e4936fbd-0cdb-477b-80fc-9d0f54cd5b0b:name",
+    "message": "記錄保存及檔案管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "10621a25-e39a-4ee2-ba23-38c1d2fde5fa:name",
+    "message": "復甦方法實施及現場發展規劃",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "465f3a25-fc47-48e3-a036-be3048ea471a:name",
+    "message": "招聘與選拔策略",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e6b4a3c6-2a01-40f1-a2f3-894da61f487e:name",
+    "message": "Red Hat OpenShift",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "da8841e7-7149-4db2-b764-78d856e2e58d:name",
+    "message": "REDCap",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "44b4f561-db32-42ae-9933-0cb68495d3c1:name",
+    "message": "Redgate SQL 變更自動化",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dfb7a3d6-5f39-4a18-b8cf-8e95cbbe883c:name",
+    "message": "反思實踐與持續專業成長",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3cf0fb57-35c1-4f23-a30f-61821bffda81:name",
+    "message": "再造林及植樹管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b6fdfc06-8943-4818-b09c-39c44938edb1:name",
+    "message": "監管事務及提交",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3487b1a1-4956-4fb4-be48-ec88fa30fe51:name",
+    "message": "監管事務管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b98f8a9e-6756-4454-b55f-b79a8d52617c:name",
+    "message": "監管事務管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab76d772-4bc7-492f-8b59-7eb90bd24163:name",
+    "message": "監管機構互動及聯絡",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "24cdac9c-c6c7-4142-a044-db8da8cde6bb:name",
+    "message": "網絡設計的監管和合規意識",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "535fccb3-27a5-4e76-934e-a30fc7a2cf09:name",
+    "message": "醫療事務的監管和合規知識",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8eae0317-72d4-4335-8918-01f29c0de3e1:name",
+    "message": "臨床前研究的監管和合規知識",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b6c8cfb-f1ba-4687-8a9a-667a0d3684a1:name",
+    "message": "監管及合規測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a7f0cec0-f5ce-41a7-9710-76e43eaf5ffe:name",
+    "message": "監管及環境掃描",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2c868ca0-f55f-4dd2-9ebd-deeab687b809:name",
+    "message": "數碼科技的監管和倫理合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3033a9a0-de1b-46c5-9160-0516ad1b4dd7:name",
+    "message": "監管及行業標準合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e4a0541-ed80-42c5-ab51-557c2001108b:name",
+    "message": "電信安全的監管和法律框架",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ea36404-346f-46fe-96d6-bb6414d35931:name",
+    "message": "物流中的法規和安全合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07604c9e-5177-4309-809b-6bf63814c0f5:name",
+    "message": "監管及標準合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "de9b2320-387c-49cc-b1a8-d3715dae7bcf:name",
+    "message": "監管及標準合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6c4e62a1-dc59-48d0-80ca-78018d3d68cf:name",
+    "message": "礦山及井設計工程的法規及標準合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4f08db3-8f54-43a7-b565-e74f11d53af7:name",
+    "message": "監管批准及合規管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c10c6add-f2fb-41f0-a0e8-cdcf2e082cdf:name",
+    "message": "監管變更管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b1f2527d-b76b-4a8c-b162-69dd8278ce58:name",
+    "message": "監管變更管理 (RAFG)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "83d2b5ab-c881-47c1-832e-c12958331c2b:name",
+    "message": "監管合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5d0ea6a3-e861-4554-bc2e-52b24730cd92:name",
+    "message": "監管合規及認證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8787b0f5-f5b2-45ab-9b3d-ddf8cf4859e3:name",
+    "message": "監管合規與動物健康法例",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "12a78cb7-2b1e-4975-a2e1-1ab25496af93:name",
+    "message": "法規遵從與建築法規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aa898237-7231-4da7-93a4-779068203382:name",
+    "message": "監管合規及文件",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "065cb981-ca30-4df1-b91a-dda6dc5329b5:name",
+    "message": "監管合規與環境法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6eeaf9cd-00f4-46cb-a119-ceeea69273f4:name",
+    "message": "環境修復的法規遵從與環境法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "08aa9bba-783a-45c9-974e-988f19edea4b:name",
+    "message": "可持續發展及環境風險管理的法規遵從與環境法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ca261cc-7411-472b-bc13-51346b1fef29:name",
+    "message": "監管合規與道德治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "75ba7428-1faa-4639-99c8-1c3ab4abe047:name",
+    "message": "監管合規與漁業政策",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "89c2849c-76fc-4b1c-bb6e-d3b8f6952adb:name",
+    "message": "監管合規性及良好臨床實踐 (GCP)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2c5eab16-3261-4271-9b0f-4b271d85ec5d:name",
+    "message": "監管合規性及治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b45f0922-23e1-43f1-9b80-6d8a702e78d7:name",
+    "message": "服務交付中的監管合規性和治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4202b9d-c11b-4863-8e35-da47e3e2050d:name",
+    "message": "服務管理中的法規遵從與資訊科技治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a6b2b5d-e267-438c-a5b8-2b04b8ef5072:name",
+    "message": "監管合規性及法律遵從",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "90d0e71a-8db4-4ad2-b785-9d42484e024d:name",
+    "message": "區塊鏈的監管合規性和法律框架",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e142a79-ba33-4c79-b891-80e1189180b2:name",
+    "message": "監管合規與質量保證",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4e079993-dd52-4f11-8450-b0b287be6335:name",
+    "message": "監管合規與質量管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0308e400-fe8d-4d90-9387-23a11a97cdb2:name",
+    "message": "監管合規及報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0265a51c-e7ca-4403-bb4a-76f0a9e38afb:name",
+    "message": "探索的監管合規與報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "91ffda42-250b-4efa-84c7-e80a593f045e:name",
+    "message": "提取和生產操作的監管合規性及報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09883265-668a-4497-822f-0fa841e304c9:name",
+    "message": "監管合規與風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47a718f8-c1db-41fd-86c1-1e4567272c62:name",
+    "message": "法規遵從與安全管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6da3eb4d-0079-430e-9c29-15ba82d3d87f:name",
+    "message": "設施管理的法規遵從與安全管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a7f11508-0ae1-4444-b61c-bc79a953a02f:name",
+    "message": "資產完整性及維護管理的法規遵從與標準遵循",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "15efa321-97f3-44f9-b267-477c08fe751f:name",
+    "message": "監管合規審計及報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "941cbc2b-f858-42a7-9bc3-f7c59f0f2794:name",
+    "message": "大宗及危險物料的法規遵從",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e37c1aac-f0b2-4936-99cc-7c6078e6cad8:name",
+    "message": "新興科技的監管合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e35ca155-b320-4a2a-b07a-af697a4247da:name",
+    "message": "醫療界的環境可持續性法規遵從",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "63567f01-5e79-480b-91d9-f5ea1f75bfe3:name",
+    "message": "公共部門人力資源的法規遵從",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "36c828c9-05be-4385-aca5-0738c9ecfbcf:name",
+    "message": "客戶支持中的法規遵從",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ac750930-1f5b-4fce-839a-159a8efbbe04:name",
+    "message": "質量保證中的監管合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06f9d833-036c-45f9-9cdc-797bcad28e30:name",
+    "message": "運輸及分配的監管合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f91a9fc-2e04-4762-ac75-8d07bbe284ae:name",
+    "message": "監管合規管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2931b152-c88f-4dee-bba9-067ee636f2bc:name",
+    "message": "監管合規管理 (FRMC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5c55cb96-c4e2-49ac-8e8f-2a652ac2006a:name",
+    "message": "教育政策的監管合規管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b89f55a3-6e9c-48c1-b6ce-23dceb731af6:name",
+    "message": "健康、安全及環境合規管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "87929336-dc67-4a75-8984-da8f2ea7408b:name",
+    "message": "醫療質量和安全的監管合規管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1347cbe8-1bcf-4f6d-ac2c-0de11fa13389:name",
+    "message": "運輸安全的監管合規管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb2cf7e6-aaef-4946-974a-23cc8b864cc0:name",
+    "message": "監管合規監察",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d237dd4f-da49-4ebf-8ee6-b34ede5d247a:name",
+    "message": "監管合規監察及執法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a54a7abe-6e73-4fc5-a7c3-959bd1c9ddef:name",
+    "message": "監管合規軟件及工具用於治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d6d936a7-9fa5-40dc-bb79-a0a00d8b4da6:name",
+    "message": "監管合規軟件及工具，用於監管合規和風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "013c6971-08f9-413c-ae35-a951c03262f7:name",
+    "message": "監管合規軟件使用",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d28c183c-c43f-482d-b192-7842effd6d02:name",
+    "message": "藝術、娛樂及康樂的法規合規軟件使用",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e741bf2-b1ec-4e6a-ae0e-2a82794664d2:name",
+    "message": "監管數據公司 (RDC) 合規雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3bbc9ec8-4afe-4fd4-8cd5-e4a1947f301e:name",
+    "message": "監管文件及合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b2d1d3c-eca9-49f0-87e4-a7971b0a172b:name",
+    "message": "監管文件及許可證管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "19d579d0-dc60-4300-824c-9be9bd812c32:name",
+    "message": "監管文件及紀錄管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8d25e713-4b59-4544-8916-6ba657c2714f:name",
+    "message": "監管文件及記錄保存",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "01961ea5-7bfc-47c1-923b-710bd6d7998a:name",
+    "message": "監管框架分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22881e36-533e-47a8-844a-74cb32aadd4b:name",
+    "message": "監管框架發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9d43d055-6b51-461f-81e1-fce83b05130f:name",
+    "message": "監管框架和法律解釋",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f5c90f2-abf4-42cd-8016-576daad7da9a:name",
+    "message": "合規及安全管理的監管框架和標準",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ace8923f-bae7-4a45-8d00-7dcf0e719df7:name",
+    "message": "監管框架及標準解釋",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b872dc82-d7d1-4d33-aceb-49196c6f9587:name",
+    "message": "監管框架及標準管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1537def1-c016-4cb9-a38c-b5428cb3b1ce:name",
+    "message": "監管影響評估及報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cd7a0a7f-5392-4022-b192-bad42f0b95f5:name",
+    "message": "監管情報與變更管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c6406b2-abdb-41a6-a4bc-268c97de8bfc:name",
+    "message": "監管情報與變更管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "122d49d7-8ae5-445f-9412-4abba50b3e3a:name",
+    "message": "監管知識與法律合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "87fbbae2-2690-49ba-a823-0b6d5cca373e:name",
+    "message": "監管監察及解釋",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d20307bc-1933-4403-935a-d01a4abc175a:name",
+    "message": "監管政策的制定與實施",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a2adef3-3964-478e-9fc5-5dc9a81675cf:name",
+    "message": "監管報告及合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "973ea9fd-aa53-40f8-9513-2761ef12aacc:name",
+    "message": "監管報告及文件",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "888d6d2e-413b-4d07-ae45-f81168e9d970:name",
+    "message": "監管報告及文件以確保合規及治理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e27125e-bd93-4045-bd37-d16bc35e0da9:name",
+    "message": "監管風險評估及減輕",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "346c51f7-0256-43f7-b460-12e9d5903ac6:name",
+    "message": "監管風險合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c3a32126-a192-4cc0-b3a7-2fc107f4540e:name",
+    "message": "監管風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fb67dd78-4276-4e2f-a0c9-5b0760e7221f:name",
+    "message": "監管策略發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f82b2e68-ff33-4d26-a717-247bf862cbb8:name",
+    "message": "監管提交準備",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8de2ef0-0d88-4209-b1f8-469058ee664b:name",
+    "message": "監管科技 (RegTech) 解決方案",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1dcfbb07-de20-42a6-b68a-cc29caab57c3:name",
+    "message": "監管科技工具及系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1f262d84-1745-48d8-8180-87f2642773bb:name",
+    "message": "復康與功能恢復",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99bf7684-0c56-46e0-bde2-3b2c027cd188:name",
+    "message": "排練協調及舞台管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3fa05cf-5e28-4f20-9db3-ce9899edd947:name",
+    "message": "強化學習",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e2124168-e9d2-4d41-86cd-f7714c6d07e1:name",
+    "message": "再保險及風險轉移管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93e6d9a9-fab7-4bb0-baa7-7fb9284989e6:name",
+    "message": "相對論",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e1f4c77b-f52a-4b92-bff1-725614014aae:name",
+    "message": "發佈和部署管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "594abc95-4fc7-47ee-861b-50500381678f:name",
+    "message": "可靠性工程",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6cb14ae5-9581-444c-809b-cbb793b2742e:name",
+    "message": "Relux",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a2eae134-84d0-4cf2-9c3a-4c7a3dba22d9:name",
+    "message": "修復技術應用",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "709f56ad-9a5b-486d-8f7c-ebb1404ec48c:name",
+    "message": "ReMetrica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4350e46-55d3-4cf3-acb4-d726d5bc65f9:name",
+    "message": "遠程操作和遙測",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5cc5fb91-d257-4d9d-8d09-bdf766d91984:name",
+    "message": "遠程病人監察及數據分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c645319b-ebfa-49e1-9071-3f1ee14ffce9:name",
+    "message": "遙感與地理空間分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "673a795e-f44c-4b97-ab0e-e6c2a87ed9b5:name",
+    "message": "遙感與衛星影像分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3273cbf-cd2e-437d-95c1-c69020894703:name",
+    "message": "可再生能源整合",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4771837-ba33-434f-bd1a-33fc9f334b91:name",
+    "message": "建築中的可再生能源整合",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55cf94ba-4b50-420d-9d3b-463c16fb45a8:name",
+    "message": "報告及行政文件",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "389e4f79-7f71-4781-93c4-302b9754ab8a:name",
+    "message": "報告和文件",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a57c9181-1ac3-4d58-bb67-2f85a9165bc8:name",
+    "message": "需求分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58c80b0f-af0c-4449-be6c-dd285506107f:name",
+    "message": "RescueTime",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0e098cdb-08cb-46ec-ad4a-4db00e6b9fc6:name",
+    "message": "研究合作與多學科團隊合作",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4f3ac88-bff6-443d-a5f0-7889c5d152c3:name",
+    "message": "研究傳播與擴散",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b14a536e-e200-42f2-b9bf-6b95dbce75b6:name",
+    "message": "研究數據管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "20c14757-e74b-4033-b75d-0af95d234baf:name",
+    "message": "研究數據私隱與安全",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e246c77-bb77-4f4c-b2a4-e8b743e32d1f:name",
+    "message": "研究設計與方法論",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3fb81c3d-6ffd-42e8-922b-2e419dc23b6c:name",
+    "message": "教育中的研究倫理與合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ba9268bf-13fd-40b6-8646-c7522403d76b:name",
+    "message": "研究倫理與人類受試者保護",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "05262429-502b-4b78-97dd-068cfe6474e0:name",
+    "message": "教育及學習科學的研究方法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "95342e6f-c607-41fd-a274-1ff53e0a6695:name",
+    "message": "教育評估中的研究方法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06231f2a-b22b-4c5d-9ac6-1c535a60afa5:name",
+    "message": "水庫特徵描述",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06cffa59-c1fd-4375-b22f-e8e91e22f775:name",
+    "message": "水庫數據管理及軟件熟練度",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ee698e11-7a3e-4db9-a6e2-82325c26a346:name",
+    "message": "水庫工程與模擬",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7da17f07-022d-434a-971b-37284665531e:name",
+    "message": "水庫監測及監控",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc958359-e607-4adb-82d6-6e4e9d91ca13:name",
+    "message": "水庫模擬建模",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b73411e-c570-424c-b29a-faded9f45e1b:name",
+    "message": "Resilinc",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9ed47d7-d649-4d75-b381-4ab0d11d5caf:name",
+    "message": "資源分配與資產優化",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c686f478-3339-4ae9-bb14-f1ce9ee37e1d:name",
+    "message": "資源分配及預算管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e9e7d90-d879-40c4-aada-1d45141c385f:name",
+    "message": "資源分配與預算",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bf48caf3-4cb5-496c-b749-e84166aa48b4:name",
+    "message": "資源分配與投資組合管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ef4dfba-f304-41c4-9f3d-5e24e2aa1af1:name",
+    "message": "資源及能力管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e66f4536-b0dc-4a77-a9e8-efd138ded3a5:name",
+    "message": "資源及投資規劃",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "20b1985e-a584-4fad-8e95-5cdde1ac2259:name",
+    "message": "資源和儲備估算",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5a76432e-b3df-4f9d-8ea7-5cfde6523b7a:name",
+    "message": "資源與儲備管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "91668d05-aecd-4f95-a917-104eabce906d:name",
+    "message": "資源保護與效率",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7535f100-ffc5-4e35-b985-b50625ab2451:name",
+    "message": "資源效率與循環經濟實踐",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bd15649c-85d9-4fb5-b1e7-430fe368ed7f:name",
+    "message": "資源管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a73c2dac-29fc-4427-b91f-d403a7aecf70:name",
+    "message": "資源管理與物流",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6639eabb-cf32-42de-8018-d9b37b4dbda5:name",
+    "message": "響應式網頁設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "73b9d38e-3f13-49ae-92cc-9723d2be9129:name",
+    "message": "REST Assured",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f0934dd3-7b33-42b5-925d-b53aaaad58a5:name",
+    "message": "零售業務策略發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4297a7a4-d342-4bf4-93f9-31c42e1dcee4:name",
+    "message": "零售格式及渠道管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1751d751-6824-43d1-8390-0a286c6f3644:name",
+    "message": "零售業界景觀分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f88fa4fa-4e53-40b0-a0d1-6fe8079af272:name",
+    "message": "零售市場技術與平台",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3633d778-3cf4-4f81-88ee-d1d903f81721:name",
+    "message": "零售運營管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "86a08ad9-11b1-4ca5-9803-53309b9e4c5a:name",
+    "message": "零售安全文化及行為安全",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7ba2b178-5337-4b30-bcb0-011ce6cd1a52:name",
+    "message": "RETScreen",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "797a3199-d3a0-471d-807b-c9fabbfb8e2f:name",
+    "message": "RETScreen 專家",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9d47f4a-bc4c-4a99-8a78-1fe881c8965b:name",
+    "message": "里瓦尔",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "80b2bdfa-d6d2-45ae-8b09-e70d665129a8:name",
+    "message": "收入預測與管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1f740052-0ea2-45c3-98f5-5ebc06d88262:name",
+    "message": "收入確認",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "02077d59-bee2-43c0-93ce-265f9e334c91:name",
+    "message": "逆向工程",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85a83f80-2152-47db-a783-587389181568:name",
+    "message": "Revionics",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9cdb3439-3fa3-4ec0-9491-8c2c3d54bcbe:name",
+    "message": "射頻及微波設備設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc0dea6c-b9bc-4e45-8195-c60c3898ea04:name",
+    "message": "遊樂設施及景點管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c29bc9d8-0067-420a-8baa-b649cfc98154:name",
+    "message": "正確資本",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "477cf57a-79fd-42af-a346-1da80666414b:name",
+    "message": "風險分析及分析報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c8857d6a-eabd-43c4-9704-88d9db6be434:name",
+    "message": "風險評估與分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4bbbc890-57c7-4a7d-87a3-fab69408a660:name",
+    "message": "風險評估及分析以符合規管要求及風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d982ae7-ecb2-4a5b-94f7-2f5eee54e3db:name",
+    "message": "風險評估和危害分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c5d94fdb-d822-4f12-9a6a-a2715b4f289e:name",
+    "message": "緊急管理的風險評估和危害分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2535b463-e3c4-48d5-aa9e-d71f5adedf8a:name",
+    "message": "風險評估及事件管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d0cab276-4581-403b-9d65-4ec20f0eb024:name",
+    "message": "風險評估與管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f94d584-cd1f-4495-9ef7-837023137335:name",
+    "message": "風險評估與管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb68435a-871e-4c42-b599-9833c0fe6afe:name",
+    "message": "政策發展中的風險評估與管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5bd17e1-25ed-4f21-b2eb-ea7865099340:name",
+    "message": "風險評估與緩解",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "782c7700-5092-491b-a012-c29a554c9d60:name",
+    "message": "風險評估及減輕措施以符合監管要求及安全",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0e318d8f-9738-41b4-aa01-d04aa1c51755:name",
+    "message": "教育中的風險評估與減輕",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "373b162e-03ed-43b0-8484-89a6ee16e5d8:name",
+    "message": "礦井及井設計中的風險評估與減輕",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce8197e3-dd1d-40f2-bffe-8e2506a0bcf9:name",
+    "message": "產品開發中的風險評估與減輕",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b7399d79-5015-4087-89df-847c1cf015c7:name",
+    "message": "供應鏈中的風險評估與減輕",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d9c54ec0-b49b-4795-81ec-623c2bc35396:name",
+    "message": "風險評估與安全管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9aa653bc-05d0-4caf-b8ee-a7b9f06a81a2:name",
+    "message": "數據分析中的風險評估",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a7dc5394-9255-489f-82fb-1466713e407e:name",
+    "message": "設計和規劃中的風險評估",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9dfc3b27-5e11-49a0-a5b5-506e993a8aff:name",
+    "message": "建築風險管理的風險傳達和利益相關者參與",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "66fdf140-ac62-497a-9c79-4bfd4b6e9f7b:name",
+    "message": "風險文化與意識",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "703c9279-f6d9-4692-8412-8001fda460f2:name",
+    "message": "風險文化與意識發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "33cbd6cd-55b7-45d7-b2cb-f2a9d2a31259:name",
+    "message": "風險治理與政策發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a9e4f1ae-88bf-4da9-b4b7-f237560dd665:name",
+    "message": "風險識別及分析評估",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "86cbb086-a71b-421d-834c-ab0e058249dd:name",
+    "message": "風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ec3a3973-0f8a-485a-854b-7f2184f944b2:name",
+    "message": "製造策略中的風險管理與合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b51e599-e3b2-4894-8b32-0282490de5e2:name",
+    "message": "風險管理及減輕以符合規範",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2fc66f7e-b82a-4922-85ed-fbe6f5db6f5c:name",
+    "message": "風險管理與安全工程",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "232955a6-d2cc-49f8-a3ba-8ee3d03e7984:name",
+    "message": "教育運作中的風險管理與安全",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1d00f05a-21cb-43ed-b0a7-8f04fe277d10:name",
+    "message": "供應鏈中的風險管理與安全",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b71286e2-7ce9-4ad1-b9c5-1d4bbfd8623f:name",
+    "message": "水庫工程中的風險管理與不確定性分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "41840bf3-b948-4eb1-baf8-938d4871aaa8:name",
+    "message": "醫療供應鏈的風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2c572a64-78df-4b40-89d3-dd365ad8e24c:name",
+    "message": "製造業的風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6ccd61f2-0140-4419-80e8-311e5a7700b4:name",
+    "message": "質量保證中的風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f017050d-48f5-4cfe-965f-1957e147a411:name",
+    "message": "監管合規的風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "baa779f5-4fa0-423a-a20f-c30af49e0a55:name",
+    "message": "供應鏈風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96402e78-743a-4648-91e5-a2ab8ba9ac6f:name",
+    "message": "風險管理計劃與實施",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7536a76e-25b9-4f2a-9491-9ebeaae2ebda:name",
+    "message": "風險緩解及控制實施",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b5100af-62c5-4681-9778-82cafb453141:name",
+    "message": "風險建模與量化分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9a2e2ef7-f681-48e3-aef2-4d82f8d12b08:name",
+    "message": "風險監察及報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c11f6e4f-8316-4933-aa25-e2804c3fcced:name",
+    "message": "風險科技及系統管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aef074bf-9fce-4d3f-acca-b456fe83f555:name",
+    "message": "Riskalyze",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "817a9120-2766-40af-bc3e-4cfb4ac92ecc:name",
+    "message": "RiskLens",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9ecc7dc-a43c-453c-9fae-fe9be8a4d938:name",
+    "message": "風險方法",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "65c48efd-7c2d-44c8-a212-6d12d4ada9fb:name",
+    "message": "風險指標 (RiskMetrics)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e24b322c-8ee6-40d0-a3a0-09be75dde8aa:name",
+    "message": "風險觀察",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "607588ba-eb53-40c2-9c3a-e596968cb147:name",
+    "message": "高風險項目",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7af8f8ee-b67b-447b-9b1d-c90ddbbe771f:name",
+    "message": "RNA 干擾 (RNAi)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9e66b04-d96d-4535-b85a-83bed9009d87:name",
+    "message": "Roadmunk",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47e42f74-5f2c-473e-bb46-33215a767587:name",
+    "message": "Roblox 遊戲開發",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8fc5fd9-1137-4e88-ab74-f4082b23a37a:name",
+    "message": "Roblox Studio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ba13ace-2017-4f53-94cd-b57f1499f6c3:name",
+    "message": "機械人框架",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "79a84f95-04a5-4f67-984e-169404d749ac:name",
+    "message": "機械流程自動化和流程自動化",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c80dc71c-ede7-4692-94be-f084bacbabcd:name",
+    "message": "建築中的機械人技術與自動化",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3087e88-ca75-4f82-876d-ba6db98cf89a:name",
+    "message": "機械人技術及自動設備操作",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9a851d0-375e-487e-b423-b89fe37280a9:name",
+    "message": "機械人技術與實驗室自動化",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "27f89337-4092-48fc-a3b9-ea76f097e1bc:name",
+    "message": "醫療應用中的機械人技術",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "174ed8d0-0872-49fe-bddd-80d159f80e8e:name",
+    "message": "Rockwell Automation FactoryTalk",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4c1a46c7-25dc-46a3-ba8c-3fab18c2ff61:name",
+    "message": "Rockwell Automation Studio 5000",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9a7f795e-bf72-4eec-af81-fb552039c186:name",
+    "message": "紅色",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f7fcbfa5-001f-4bb3-ad71-fd4010175dc7:name",
+    "message": "根本原因分析及糾正措施",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "13f0baf0-b954-49c5-8352-92945013e300:name",
+    "message": "根本原因分析與問題解決",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "314d1320-fd9c-4002-894d-30e115de704a:name",
+    "message": "根本原因分析和風險評估",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf9fd81c-557d-4bd0-a8c6-3158898e9688:name",
+    "message": "ROS（機械人操作系統）",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a38e438a-5414-4026-8797-185614c091af:name",
+    "message": "羅塞塔",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "878d62b4-3dc1-4076-ab34-1048069235bc:name",
+    "message": "旋翼機氣動力學",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ee5c527-bcfb-4327-a788-83d46d23afb2:name",
+    "message": "路線優化和交通管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "27433e6d-eaa4-4444-8fc1-6c8ddda4516d:name",
+    "message": "RSA Archer",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a2207b42-b402-400e-a02b-e0779729cfd3:name",
+    "message": "RSpec",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5cf49a84-5154-4a27-9357-d56235e1bdb1:name",
+    "message": "RSS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7962f295-1dc2-4be3-9604-303467a2cafa:name",
+    "message": "RStudio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bde9094c-a60b-4554-ae61-1ca920288582:name",
+    "message": "標題",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7535c9e9-a909-4545-86cc-0e559898f7c8:name",
+    "message": "Ruby 程式設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ee4ecfa-9b4c-49e4-9808-7f9122843d9b:name",
+    "message": "Rust 分析器",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d27973a4-05cb-4cf2-85da-3585646f1391:name",
+    "message": "S::CAN",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cc4393fe-10c2-4060-bcff-97639768ce03:name",
+    "message": "安全食品 360°",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "326ca9f4-78b9-491d-9caa-22e03011ccc4:name",
+    "message": "數碼系統中的安全性與合規性",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "745a3f4a-ac35-4f58-94fb-a6bc71827307:name",
+    "message": "安全及環境數據管理與報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dbf69ad1-6830-4b86-a91b-75abff630144:name",
+    "message": "安全及環境法規執行",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ed6d39c5-3fd2-4cc3-b408-1c31885cc755:name",
+    "message": "質量控制中的安全與風險評估",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6c8d873d-d1df-49b7-9c5f-19f7623244b5:name",
+    "message": "安全與風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a5b3a96b-7a1d-4722-a839-724cb3ca0b34:name",
+    "message": "維修中的安全與風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f25dafe7-b210-42f2-8443-a00a110f2a12:name",
+    "message": "廢物處理的安全與風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4bfab236-83ae-4c5b-bcb0-aebd53e0f875:name",
+    "message": "安全審核及檢查",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3be425a7-eca0-449b-ac2a-cabe2b006f9c:name",
+    "message": "安全溝通與持份者參與",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "034490e7-3d9e-4d36-a0cf-cf7e3341e1a3:name",
+    "message": "安全文化發展與領導",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ec0f9252-a880-4d90-bccf-408ff2391ffc:name",
+    "message": "交通安全的安全文化發展與領導",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd020f86-f37b-4fef-bd76-5df03f95600a:name",
+    "message": "安全數據管理及數據庫管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "18a9dc80-ce2f-4a08-a892-57ae030f8a62:name",
+    "message": "安全數據管理及報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad80d448-d51d-4d1a-94a0-d0406e905eef:name",
+    "message": "安全文件及紀錄保存",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f3d2069-a77c-466f-8cdb-23cea2390e6d:name",
+    "message": "安全設備操作及維護",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e336870-82c7-4591-a9a7-0b86e7186e79:name",
+    "message": "安全管理與合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e13e6e1-3703-4a92-a223-e2216409395b:name",
+    "message": "安全管理系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f6b747ca-1a29-45fd-aafa-29bbe4e5b955:name",
+    "message": "安全管理系統實施",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b918fc58-b8a9-4ea2-9e9b-b4bfd088b3ce:name",
+    "message": "安全報告及藥物監察整合",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3d04e26-faef-4e2f-9442-096b41298b43:name",
+    "message": "安全風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "78cb5c7b-9530-4d10-b5aa-d821ea65020f:name",
+    "message": "農業設備的安全標準和合規性",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c22cec3e-f874-4e28-badb-4015498eecf5:name",
+    "message": "安全培訓與意識",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa502998-c7bd-4b69-ab37-e6c6a25bf5fe:name",
+    "message": "安全培訓及意識計劃",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a92f1276-ff4f-4b11-9dd3-3e442f959061:name",
+    "message": "安全培訓及意識計劃 (WHS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bef50fe7-077d-4113-9052-016df5c2132c:name",
+    "message": "交通安全的安全培訓和意識計劃",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1f0c8a1f-8ab0-440e-a2de-c4322c60b62f:name",
+    "message": "Sage 固定資產",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "68c58290-d9a2-430a-a16f-3f16f48769b4:name",
+    "message": "Sage Intacct",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e50d744-bfdd-4a37-8d2c-b1c90422d1d5:name",
+    "message": "SageMath",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2170bc13-3c7d-4ff6-a541-e13dffb7e014:name",
+    "message": "SailPoint IdentityIQ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aec37077-4cdb-4beb-8ea7-1df0619d8119:name",
+    "message": "SailPoint IdentityNow",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3215e03a-186a-477c-a8b9-8b35ca54ff81:name",
+    "message": "銷售溝通與演示",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0f9efa67-c90d-4347-8162-38ca494245a6:name",
+    "message": "銷售談判與成交",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cdc9d48c-a85d-43d9-9b9a-b0d66ac8b1e4:name",
+    "message": "銷售運營及流程管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d00ce33c-51db-453b-bd55-0a487a81c786:name",
+    "message": "銷售表現管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f8108852-0e3c-4161-a6d9-c6b973403903:name",
+    "message": "銷售策略發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b760e42b-2409-4b44-ba17-55a3530f4db6:name",
+    "message": "銷售培訓與發展",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca1d5e13-8b59-48cf-92c5-956866e3a501:name",
+    "message": "Salesforce",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "94c866e7-f562-47a5-94a1-804796c3dfd0:name",
+    "message": "Salesforce CPQ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3cff1e8e-0410-4cd2-ab53-f5c8dd4d98ac:name",
+    "message": "Salesforce CRM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a51c568a-64c6-43e3-abcb-3d4faf784031:name",
+    "message": "Salesforce 客戶 360",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "12295d29-e620-4cd1-b03b-3ca4efc87fd9:name",
+    "message": "Salesforce 財務 Services 雲端",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ccf2970f-4b7f-4222-86eb-0d052e7b3075:name",
+    "message": "Salesforce 健康雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8ac0d24-1f97-4dd8-839a-518e48208c59:name",
+    "message": "Salesforce 營銷雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a0c4f2bd-f367-4eb0-b31b-f9ba9ebdda02:name",
+    "message": "Salesforce 夥伴關係管理 (PRM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8eff2d15-dee4-421b-bae7-45bd93f16ff9:name",
+    "message": "Salesforce 銷售雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1350d7eb-e4c7-4098-8428-ca0a8f1dc2e6:name",
+    "message": "Salesforce 服務雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4306a8f9-765e-4d16-8e59-cf67d5a5b3fb:name",
+    "message": "Salesforce 可持續性雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "18e42b93-d775-48c8-8117-a85d7de59a57:name",
+    "message": "Salesforce 地區管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "239782ed-c9c6-4bb7-b6a7-a91ff933188b:name",
+    "message": "SalesLoft",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "77014070-e5ef-4982-a8ce-ecd0f1351558:name",
+    "message": "SaltStack",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e264f6b-73bf-48a2-93cc-afbe8234b6ce:name",
+    "message": "取樣及實驗室測試",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "625f8214-cb96-432c-a2f7-d600671cc1c1:name",
+    "message": "衛生和清潔",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ebf6686-db92-4497-aa69-abf0f6ffb5c3:name",
+    "message": "SAP Activate",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5cbe440b-c8b2-4f3f-96bf-028107386168:name",
+    "message": "SAP 先進藥品追蹤系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "69b66113-49ee-454b-8a87-5c8ccfe9e7d5:name",
+    "message": "SAP 分析雲",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd9605b7-7ff4-461f-9f49-6c0fd7622790:name",
+    "message": "SAP Ariba",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "84407f93-8fe1-4851-b965-d195e518d644:name",
+    "message": "SAP Ariba 供應商風險",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8bbecb2c-43d3-435a-be23-d7f90f01fd4d:name",
+    "message": "SAP 資產會計 (FI-AA)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ead6408a-285b-4190-80bd-82e9a9b060ae:name",
+    "message": "SAP BusinessObjects",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f85bbffb-ed03-4556-8b95-82d92cf6e777:name",
+    "message": "SAP 佣金",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2fee2032-89f4-4db1-812c-f977c928568b:name",
+    "message": "SAP Concur",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "38e98e73-469e-4215-89c6-609533a546ec:name",
+    "message": "SAP 控制 (CO)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "73e57834-40cb-4f00-9dc4-9f1a169cd3fc:name",
+    "message": "SAP 客戶體驗 (SAP CX)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "939079ec-38ab-4591-96f5-a0b53b37e7e5:name",
+    "message": "SAP 客戶體驗 (SAP CX) - 訂單管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "edde1fd1-d7eb-4b38-88dd-771f5b502d60:name",
+    "message": "SAP 環境、健康及安全管理 (SAP EHS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "56b473bb-a725-4bae-b9c1-4de52ce2efd7:name",
+    "message": "SAP ERP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2ad06079-5ec6-437f-a58b-d282cbb3fcef:name",
+    "message": "SAP 擴展倉庫管理 (EWM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4405f60-682d-43e4-9049-cf2695f68ddf:name",
+    "message": "SAP 擴展倉庫管理 (SAP EWM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "80ce2e92-ebb9-452f-868c-db36d04a4fcb:name",
+    "message": "SAP 財務會計 (FI)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f55d6ad4-c04c-4423-82cb-35fc6b119965:name",
+    "message": "SAP 財務會計 (SAP FI)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4d37db99-59c3-4e52-b37a-095c2e1a1dc6:name",
+    "message": "SAP 財務結算控制台",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f48cc0a-3732-428d-bff1-60f57c6854b2:name",
+    "message": "SAP Fiori",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef73ff03-fadc-4322-85cb-bdf306224bed:name",
+    "message": "SAP 全球貿易 Services (GTS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f4b41fc-f9e5-4795-b3b6-10b89fe6f7da:name",
+    "message": "SAP 全球貿易 Services (SAP GTS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f62dce70-d98a-4bcd-be69-adf07a09bc56:name",
+    "message": "SAP GRC",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ba0748bb-a953-4203-97ab-33ca2fb38d42:name",
+    "message": "SAP GRC（治理、風險及合規）",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f125ce40-ff24-4bfe-b4a2-42f7ece0d384:name",
+    "message": "SAP 綜合業務規劃 (IBP)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b507792b-4a4a-489d-87fa-410150881044:name",
+    "message": "SAP 整合業務規劃 (IBP) 針對臨床供應",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c75a07d1-4f4a-42c7-b1dd-10081590945b:name",
+    "message": "SAP 整合業務規劃 (SAP IBP)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6dca93de-85dd-4b1b-b6ca-e8120d046d14:name",
+    "message": "SAP 景觀轉型 (SLT)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e6a45e1-a868-49f0-9e71-f57ec399178d:name",
+    "message": "SAP Litmos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f342311-54ba-4da5-850d-e96c18c7abfa:name",
+    "message": "SAP 製造執行",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74c6a458-bfab-4f9f-b84d-e367afeddf39:name",
+    "message": "SAP MM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "946b95b4-9321-4af4-9c8b-c873d1912851:name",
+    "message": "SAP 產品召回管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e8bb18df-5dab-4e1b-b684-1561e4c60c49:name",
+    "message": "SAP 生產計劃 (SAP PP)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5464a119-82a7-421f-a805-f2e5eabab49e:name",
+    "message": "SAP 項目系統 (PS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2006d4dd-151c-4d02-a724-39a75b1229d5:name",
+    "message": "SAP 收入會計及報告 (RAR)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9973773d-9945-4560-a321-e2ab9fc6b1a5:name",
+    "message": "SAP 風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e5c6b297-711b-40ee-af38-fd98dd6441cd:name",
+    "message": "SAP S/4HANA 財務",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8aefdc53-1ced-444d-bfbb-2644b5c16407:name",
+    "message": "SAP S/4HANA 實施策略",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "db950f39-024d-4403-b08d-4515c62c9c25:name",
+    "message": "SAP 銷售與分銷",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9d687487-16b4-48e4-bdec-4f3df2bb5c25:name",
+    "message": "SAP 解決方案經理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc24c70d-b85a-441d-9b43-3c2af3c91d1e:name",
+    "message": "SAP SuccessFactors ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "25250e36-aa9e-45b6-84e6-ec5ee732431f:name",
+    "message": "SAP SuccessFactors 薪酬管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a42afe32-7c50-4490-893d-df785e1660e0:name",
+    "message": "SAP SuccessFactors 員工中央",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "17aab5da-7ac2-411c-8b84-0645bfb419a3:name",
+    "message": "SAP SuccessFactors 學習",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d5a80f5-eb05-4233-bd91-cd3ba882a12c:name",
+    "message": "SAP SuccessFactors 學習管理系統",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "62e44a32-ea91-4e37-bad1-a8833c409d0d:name",
+    "message": "SAP SuccessFactors 入職",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22712c1d-d5c3-4236-b2ac-c98181fea836:name",
+    "message": "SAP SuccessFactors 表現與目標",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0521f8a7-3887-418e-bbf0-e262665c65a9:name",
+    "message": "SAP SuccessFactors 人才管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74589efa-b450-4193-b042-5f42c141c274:name",
+    "message": "SAP SuccessFactors 勞動力分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f1bb08ab-5795-4a80-b9f3-4e3b6886adcc:name",
+    "message": "SAP 供應商關係管理 (SRM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07a18e85-3de5-422c-81cf-7d81a41b340b:name",
+    "message": "SAP 稅務合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "295a75bb-97f9-4dff-bc8e-08dbb711c9ca:name",
+    "message": "SAP 運輸管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "966b6a53-21e7-4df7-9616-3f902b7dd216:name",
+    "message": "SAP 交通管理 (SAP TM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d018597b-c508-4a87-96b0-5bc28f163483:name",
+    "message": "SAP 財務及風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f8995cb8-3930-4be0-9e99-cadecab0d0cc:name",
+    "message": "Sapiens CoreSuite 供 P&C",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf5e9e23-4291-44f3-8114-ecd42aa29415:name",
+    "message": "SAS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b404ba2-ff4e-41a5-9862-f23f6b4f94b4:name",
+    "message": "SAS 反洗錢",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e5be040-7cd9-429a-98ce-83f3c8ea38c0:name",
+    "message": "SAS 基本編程",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4c0f2fd9-6e09-4916-aa39-0ec264044d44:name",
+    "message": "SAS 臨床數據整合",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "159ab0e3-a413-4dbe-9c23-2c3eda95fdcb:name",
+    "message": "SAS 臨床決策支持",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3ce2050-d529-4a8c-87f6-84858ec2e9cb:name",
+    "message": "SAS 信貸評分",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "51f4fdc9-1ba9-45fc-b639-3e41e582af47:name",
+    "message": "SAS 藥物開發安全分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e10779c-36a9-4f30-a1ad-a069d946b824:name",
+    "message": "SAS 藥物安全分析",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3eaaf9fb-22b2-40a1-b304-d6f5d46b3193:name",
+    "message": "SAS 企業指南",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "635a48b6-cce4-4c5c-bdb1-d2b4afb0fee6:name",
+    "message": "SAS 欺詐框架",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9afceee9-e935-4a1d-960c-ec2deae13426:name",
+    "message": "SAS 欺詐管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ad8a9db-b560-4715-b4dc-a4a90552d16a:name",
+    "message": "SAS JMP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d559c4c3-92db-4a27-a3c0-638b104ffa62:name",
+    "message": "SAS 宏語言",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "545a8c21-9843-4ae8-8fac-a9228650eeda:name",
+    "message": "SAS 操作風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aa042e0f-3b03-418c-8a98-e302c874fb96:name",
+    "message": "SAS 監管合規",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "977e114c-14b5-4988-8d23-5d8f8155f534:name",
+    "message": "SAS 監管報告",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fe0d8bfd-2d4d-4520-9f75-16281878a409:name",
+    "message": "SAS 風險管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55c35813-5106-474a-84d1-bb622a4bfcb6:name",
+    "message": "SAS 舉報者管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8fce3277-afe2-4fe2-afcf-944d86a9496d:name",
+    "message": "SASB 導航器",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e0f1e67e-d858-4a87-9980-862535757e17:name",
+    "message": "Sass",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1a89b054-8b96-4160-8f79-418c851cd8ca:name",
+    "message": "Sauce Labs",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "79df1a00-b0c0-40c6-a6a5-c6473df34609:name",
+    "message": "撒克遜",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "92b3af98-23c2-4e20-92a2-fd48ae54e5c6:name",
+    "message": "Scala",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "64d42255-2533-456e-a18a-f62672bf676f:name",
+    "message": "ScaNN",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3be1eb1f-0437-4a2f-9a8c-78b8d270561b:name",
+    "message": "Scapy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "722b8cff-b6a1-467a-93ad-8acdac651f3f:name",
+    "message": "情景規劃與預測",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d75f2c3c-fb3e-4bb5-b497-d299c6f8ddc6:name",
+    "message": "情景規劃與策略預測",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f0a7746-eb82-4cda-a298-37cc2d83f346:name",
+    "message": "日程安排及日曆管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "43314e2f-4c7e-4e2f-8882-12fa3e61eba6:name",
+    "message": "薛丁格套件",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8475ae0-5892-4b5c-a04b-32b78ac0690b:name",
+    "message": "科學傳播與文獻",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9933a366-c74e-4668-b484-8b88c6b65c7e:name",
+    "message": "科學傳播與出版",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30b1edfc-14c0-4986-a772-8f56a660aafd:name",
+    "message": "科學資助寫作及資金獲取",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce476c45-b578-4ee7-b892-187eeae1b236:name",
+    "message": "scikit-learn",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e384a0d-e543-4101-b302-f47b4225f1ce:name",
+    "message": "尖叫青蛙 SEO 蜘蛛",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c946d57f-6d4f-41e6-a046-10db6d688f9e:name",
+    "message": "搜尋引擎優化 (SEO)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e780016-5141-459b-8f19-08918df5457d:name",
+    "message": "證券分析與估值",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6a29d331-d76c-46f0-9752-c604aecb1063:name",
+    "message": "安全及存取控制管理",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f7e9b290-8716-41b8-92e6-469db7d6b541:name",
+    "message": "區塊鏈的安全性與審計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "78622d06-a819-4455-9474-f7bfbd887133:name",
+    "message": "安全架構與設計",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1c9d2f07-403a-4055-ad4e-3f5033ed0bb8:name",
+    "message": "安全自動化與協調",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3f86037-b636-4a9e-b69e-ea5e115fbcfe:name",
+    "message": "安全自動化與協調 (NSC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0d8d86c4-8e69-4a8c-935b-929187b9f3c1:name",
+    "message": "安全意識與培訓",
+    "metadata": null,
+    "status": "success"
+  }
+]

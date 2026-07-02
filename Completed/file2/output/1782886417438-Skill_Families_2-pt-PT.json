@@ -1,0 +1,3002 @@
+[
+  {
+    "messageId": "f891dfa4-76b8-4add-89e6-39b9d7ec2185:name",
+    "message": "Charles River IMS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b92611b0-9e15-4dc9-a75e-cff3da488d72:name",
+    "message": "Checkmarx",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00d7e6c6-92e9-466f-82bd-0ac60e6c2777:name",
+    "message": "Checkstyle",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06bba650-589f-4b07-ae02-9d470334432f:name",
+    "message": "Chef",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9fd29e66-541f-418c-bf72-77c645493b33:name",
+    "message": "Chef InSpec",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e582c4ad-b304-4241-bd07-a7373a82b433:name",
+    "message": "CHEMCAD",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa65f172-c43c-45ea-a70e-a0b380e76c37:name",
+    "message": "ChemDraw",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab0f36e0-5c01-4573-a28f-387c68f56314:name",
+    "message": "Análise Química e Técnicas de Laboratório",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bbfde9bc-4d8a-49c0-9230-15b6225d666e:name",
+    "message": "ChemTracker",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a341e58-1fd1-457c-b9f0-cb1ae8ee99ff:name",
+    "message": "Gestão de Mudanças Cherwell",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9ecb4411-c1d1-4ee9-b4dc-80e94c71a87a:name",
+    "message": "Gestão de Serviços Cherwell",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d7c983b8-52d4-47ca-a8f2-893a5d34c95a:name",
+    "message": "Módulo SLA do Cherwell Service Management",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5c5e7768-43fe-4a80-9c7d-4ee0d251ff9e:name",
+    "message": "Coreografia e Direção de Movimento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e64eb3d2-aa40-4a3c-bbc0-1161d6bde318:name",
+    "message": "Chromeleon",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dab97f4a-a35a-4472-a04a-9d16c06d947e:name",
+    "message": "Gestão de Doenças Crónicas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85613363-f6d8-4304-b40f-79abf08a0223:name",
+    "message": "ChurnZero",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "51551c1a-bcb6-40bc-972e-98c249117706:name",
+    "message": "CircleCI",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c1c51fb-4e58-4ec6-8fbb-228b3abe106d:name",
+    "message": "Cirq",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0c9b529d-5100-439f-912a-d9c9c96c70f2:name",
+    "message": "Controles CIS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b2e5d964-4a4d-4fdc-b772-160058ecd682:name",
+    "message": "Cisco ACI",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5b29b154-3c95-4f22-b94d-6072fb0d46dc:name",
+    "message": "Cisco ASA",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f56ba6d-1189-494d-a0ac-b2f1abb61bcf:name",
+    "message": "Cisco Nuvem Services Router (CSR) 1000V",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb094f8d-3cf9-433f-b563-2b77a6d877b4:name",
+    "message": "Cisco Centro de DNA",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "21d65626-98d6-4b40-8a11-41ff5c2d89e1:name",
+    "message": "Cisco Firepower",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c906421e-bab8-4434-9d68-a4e2bd1e3717:name",
+    "message": "Cisco Identidade Services Motor (ISE)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b82b6aa-9f87-4be6-98ba-e3301b1738bb:name",
+    "message": "Cisco IOS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a277ad61-a040-4624-8170-6fbc9b137286:name",
+    "message": "Cisco Defesa contra Ameaças IoT",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93ba4520-2827-4073-b1bb-29e860b838ef:name",
+    "message": "Cisco Jabber",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "971e6fe3-4e2a-4aad-8f23-3c4c532b8fc9:name",
+    "message": "Cisco Rede Services Orquestrador (NSO)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "05a851d1-f9ac-43fb-b64a-5bb1a9f78efa:name",
+    "message": "Cisco Packet Tracer",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b9c3c3c-b3e1-493a-ae82-9398ee6b2208:name",
+    "message": "Cisco Prime Infrastructure",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0c5f28a5-86f4-4513-96fb-42af6282593c:name",
+    "message": "Cisco Tetration",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2ffea723-4a87-4320-a2b2-9edc785af3c4:name",
+    "message": "Cisco WebEx",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "52944d8a-240b-48a0-a6d2-fcd672a0152c:name",
+    "message": "Cisco Webex",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d6de47d5-e4b4-4520-a2d2-dd3e03502033:name",
+    "message": "Cision",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3b6fa996-f809-4a79-8da9-e89e5793928a:name",
+    "message": "Engajamento e Comunicação Cidadã",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "82a437c4-9bb9-40e6-a1c0-a6a29404b8f3:name",
+    "message": "Engajamento Cidadão e Tecnologias de Comunicação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1bb35a0a-7daa-48ab-ba23-9403f55fbfb5:name",
+    "message": "Cidadania e Competências Cívicas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f831a79f-8cbe-4125-96d2-c1672e396527:name",
+    "message": "Projeto de Engenharia Civil e Estrutural",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "526ce6e1-574e-48bb-bb45-ad9e79d0794e:name",
+    "message": "Projeto de Engenharia Civil",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "652df8a4-fa61-4b00-bc20-3da842066dd0:name",
+    "message": "Gestão de Sistemas da Função Pública",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d5791ef7-cdae-4283-85a2-f2d3d090af44:name",
+    "message": "Gestão e Adjudicação de Reclamações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4e6b215b-dfd5-4290-8505-2f8098e4f45d:name",
+    "message": "Técnicas de Investigação de Reclamações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "92eb042b-d720-4ce4-b78f-c11e268f8ac3:name",
+    "message": "Litígios de Reclamações e Gestão de Disputas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d5fc1fbf-9f43-4878-82c0-335989a46a7a:name",
+    "message": "Clarabridge",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e279e4c1-1669-4c0a-9e5c-8b72cf1f8f22:name",
+    "message": "Clarity PPM (Broadcom)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "64423287-c090-4354-a456-1f9e1c8568e0:name",
+    "message": "Gestão de Sala de Aula e Facilitação do Ambiente de Aprendizagem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9793ee81-6785-4424-b952-f9bc96bcc03c:name",
+    "message": "Avaliação e Perfilagem das Necessidades do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5075a37a-6f5f-41a5-9241-46943a05173b:name",
+    "message": "Gestão de Relacionamento com o Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57d9b81f-a847-48d7-8c53-79a13f29691d:name",
+    "message": "Adaptação e Mitigação às Alterações Climáticas na Silvicultura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c3cf6895-9442-472d-aec7-5843b6e9feca:name",
+    "message": "Adaptação às Alterações Climáticas e Planeamento de Resiliência",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e12362c-dc2b-48cc-b924-308da3824780:name",
+    "message": "Mitigação e Adaptação às Alterações Climáticas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0535fd3b-93c4-4539-bb11-12a90c1dfe28:name",
+    "message": "Mitigação e Adaptação ao Impacto Climático",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00da3900-92e1-4f29-9458-613c7419be99:name",
+    "message": "Análise de Dados Clínicos e Operacionais de Saúde",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6126dcd2-fa66-4dee-9832-ff70d0c60a64:name",
+    "message": "Auditoria Clínica e Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a67634cb-73a5-4125-b09f-b87f4283fdf6:name",
+    "message": "Disseminação e Interpretação de Dados Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e41dd3d-bfa2-4e4e-9ec4-b6052daf0c2d:name",
+    "message": "Gestão de Dados Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8bbfee4c-c1e1-43d1-af8b-af60c01972b0:name",
+    "message": "Tomada de Decisão Clínica e Pensamento Crítico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "33b3e70e-99c1-45fa-bc9c-55d8d6214a5b:name",
+    "message": "Sistemas de Apoio à Decisão Clínica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "228a1e45-e30a-470a-ac59-1cfabc1bc155:name",
+    "message": "Desenvolvimento de Sistemas de Apoio à Decisão Clínica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d37d625c-5935-4aaf-9a5c-b770e4e0cd73:name",
+    "message": "Documentação Clínica e Gestão de Registos de Saúde Eletrónicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e9efb90f-ad2c-46f5-98ad-68198c8c9a4c:name",
+    "message": "Operação e Manutenção de Equipamento Clínico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eeb56459-dc63-435b-a517-4c63a12c7464:name",
+    "message": "Ética Clínica e Direitos dos Pacientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74072582-d16e-4ef4-9569-ed55efd9dafa:name",
+    "message": "Avaliação Clínica e Engenharia de Usabilidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f87ea39-32ec-4026-b3e6-881fcc2a451d:name",
+    "message": "Exame Clínico e Competências Diagnósticas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9ec65199-2ba5-4651-b606-2a6c702e9b68:name",
+    "message": "Monitorização Clínica e Gestão de Locais",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0d6369d-091b-4425-869a-9b359ad83567:name",
+    "message": "Melhoria da Qualidade Clínica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a3b4a99-4bf5-4c34-9b86-60a2b5270ce4:name",
+    "message": "Investigação Clínica e Prática Baseada em Evidências",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0920394c-2d7b-4a77-8f46-3c548090326a:name",
+    "message": "Avaliação e Gestão de Risco Clínico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f058cc84-e98e-4c02-9c8d-fa833b422243:name",
+    "message": "Formação e Educação Clínica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4265a202-399c-4c83-ac7e-98c8e07af84e:name",
+    "message": "Orçamentação e Gestão Financeira de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bf3e77da-ddcc-4ae7-a861-8bd069adc56f:name",
+    "message": "Comunicação em Ensaios Clínicos e Gestão de Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "232b611c-5266-4e20-b702-eeda053817ad:name",
+    "message": "Privacidade e Segurança dos Dados de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e103b385-3bed-4e0c-a681-a820575a5df6:name",
+    "message": "Desenho e Gestão de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ec5db2f-986f-4903-8e44-d09f604db81d:name",
+    "message": "Desenho de Ensaios Clínicos e Desenvolvimento de Protocolos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "645db05d-4899-4abf-a17a-e9f45bcd9408:name",
+    "message": "Documentação e Relato de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a30a6ffe-8b80-491f-ae0a-dc589d1c53de:name",
+    "message": "Informática e Utilização de Tecnologia em Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "626a825a-032b-48cc-ab5e-b292e742f562:name",
+    "message": "Gestão e Supervisão de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "90fa6a8f-9f47-41a9-abd7-5c43419ec748:name",
+    "message": "Gestão de Projetos de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2ec87d43-e66d-4426-9775-d3355a15603a:name",
+    "message": "Garantia de Qualidade e Auditoria em Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1958a52-5ba2-4e1a-b83f-94de4ce27c04:name",
+    "message": "Gestão Regulatória de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a8e7269-938d-42b4-bc6a-4c21ae693d82:name",
+    "message": "Gestão Regulatória de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a82b9b12-5241-42e9-a7ce-b40018ea5cf4:name",
+    "message": "Gestão de Segurança em Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "384c6d2c-eadb-4e25-8534-f7d617edb1ee:name",
+    "message": "Programação Estatística de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3cf6568-7b39-435a-bb86-a8a5842174f3:name",
+    "message": "Gestão de Fornecimento e Logística de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4274fc3-00c4-4f01-b109-4bd9cfcd590c:name",
+    "message": "Gestão de Fornecedores e Outsourcing de Ensaios Clínicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aff69914-0e7c-42fe-9101-004293e56240:name",
+    "message": "Análise e Otimização do Fluxo de Trabalho Clínico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "efb3a206-9480-4810-8cff-6d8d85efc76f:name",
+    "message": "Clintrak",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0fa06d2d-3eff-4092-9f50-b082d3abc142:name",
+    "message": "CLM (Gestão do Ciclo de Vida do Contrato) da Icertis",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93f33de8-1a66-4310-b166-345892b82e47:name",
+    "message": "Computação em Nuvem e Edge para Operações de Extração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7be92f3e-f85f-4f07-bb25-26ca437d11c7:name",
+    "message": "Segurança de Nuvem e Rede Virtual",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96a5918e-c9ae-40c8-b2f9-dbf5f851f0ba:name",
+    "message": "Arquitetura de Nuvem e Integração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b655f0f1-c2f5-4bb2-9ab1-aa494305f891:name",
+    "message": "Design de Arquitetura em Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "27b4509b-6a25-47a8-a06a-85b2ae7b3bf5:name",
+    "message": "Computação em Nuvem e Tecnologias de Borda",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e9639494-0186-41b7-8a71-0c9d4d00f96a:name",
+    "message": "Computação em Nuvem e Infraestrutura para a Saúde Digital",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa741438-fd97-4a58-80ee-2d5004e4311a:name",
+    "message": "Computação em Nuvem e Infraestrutura para Fintech",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1d83bf54-4bae-4e0f-83a5-8b9b5e3a198d:name",
+    "message": "Computação em Nuvem e Plataforma Services ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b06d085f-c110-4579-b162-c17e7c9fc7e3:name",
+    "message": "Computação em Nuvem e Serviços de Plataforma para Transporte",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ac5d802-92a2-4cbe-b0d7-a26d71292242:name",
+    "message": "Computação em Nuvem e Virtualização",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8d7505df-afeb-46ab-be3e-3384a3acc95a:name",
+    "message": "Computação em Nuvem para o Setor Público",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "252e367e-bb00-41d6-ac53-298649304c85:name",
+    "message": "Gestão e Otimização de Custos na Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e49c0d0-b290-46b6-ae43-94d69faf3e0b:name",
+    "message": "Governança e Gestão de Políticas na Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7f326ee6-c3a4-4522-a2b1-010c220b9f70:name",
+    "message": "Planeamento de Capacidade da Infraestrutura Cloud e Escalabilidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47671b2c-a776-4c40-9347-8a8534ed36b6:name",
+    "message": "Auditoria de Conformidade da Infraestrutura em Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f74d5da-18ca-46c7-9706-76290feac452:name",
+    "message": "Documentação de Infraestrutura em Nuvem e Gestão do Conhecimento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c95030e-dd6a-4420-a095-4636ab0ed113:name",
+    "message": "Provisionamento e Automação de Infraestrutura em Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3de94190-9540-405a-a859-1cc944704cbf:name",
+    "message": "Operações de Segurança de Infraestrutura em Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8970cade-9de4-4032-9f12-36ed1630fe09:name",
+    "message": "Resolução de Problemas e Suporte de Infraestrutura em Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a9f2f40-e723-40ba-8522-8083d30ef70f:name",
+    "message": "Especialização em Fornecedores e Plataformas de Infraestrutura Cloud",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1308a077-e489-475e-8743-251a241d1ae5:name",
+    "message": "Estratégias e Execução de Migração para a Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "626e98a3-2665-4a14-ab3b-686f2c25b3bb:name",
+    "message": "Monitorização de Nuvem e Gestão de Desempenho",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c58d22b4-74cc-461d-abaa-3a9056473148:name",
+    "message": "Rede de Nuvem e Conectividade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b15bf175-c8ef-4ca4-bf69-fe094f2ff740:name",
+    "message": "Eficiência Operacional na Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04b6d090-4830-4027-a056-e139e5d28c37:name",
+    "message": "Segurança na Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ba7cdae5-9de0-460a-8404-24b2b78af4a7:name",
+    "message": "Segurança e Conformidade na Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b89258e9-a2a4-4740-b065-58245df18e41:name",
+    "message": "Integração de Serviços em Nuvem e Gestão de APIs",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "afacc333-f00c-42d0-9b2b-a28a6cade703:name",
+    "message": "Armazenamento em Nuvem e Gestão de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1311525c-8f48-4367-9213-667848249861:name",
+    "message": "Desenvolvimento de Aplicações Nativas na Nuvem para Finanças",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6bdfac65-8fbf-48d2-b8d8-4aa0d4900342:name",
+    "message": "Práticas DevOps Nativas da Nuvem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d97a667-a75f-429f-a247-d184ed00b3e9:name",
+    "message": "CloudEndure Migração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "183c376a-c7e8-426c-9ccd-663a54a0032b:name",
+    "message": "Cloudera Data Platform",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eca4e394-7a7f-46b1-9153-ee1d043cdcfb:name",
+    "message": "CloudHealth by VMware ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3cac831a-86a2-4291-941b-e306522fe01b:name",
+    "message": "Agrupamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9fa1c353-7cb8-4b14-a336-b5b33c28ffa0:name",
+    "message": "CMake",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce6360c1-a02d-4ab0-bb0f-481e1c543154:name",
+    "message": "CoAP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a8765f0-f59b-4d06-9ee3-b6a7273c55f5:name",
+    "message": "COBIT",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a0fd989-c73c-4415-a4ea-e38542235d86:name",
+    "message": "Verificação de Conformidade do Código",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "31ff4435-7a42-4a9f-99b6-e4e7efbd43b7:name",
+    "message": "Execução do Código de Conduta",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb3cd9c3-8e2b-4951-8f6c-97933c07daaa:name",
+    "message": "Qualidade do Código e Análise Estática",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "af62aff9-0217-45a1-bca2-b191f6726dde:name",
+    "message": "Cofense PhishMe",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cffa37fc-c728-489f-885e-8186ae7e2bf0:name",
+    "message": "Técnicas Cognitivas e Psicológicas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f788435d-0fdd-41b9-99e6-da94b6f754c2:name",
+    "message": "Psicologia Cognitiva",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b7566c03-a5b0-45d3-a51a-f5c0a9d91bd3:name",
+    "message": "Ciência Cognitiva",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "446f0f84-b1e1-4fac-86a4-88644fb9638a:name",
+    "message": "Cognizant TriZetto ClaimsSphere",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "26cffdd2-3b0e-4977-92f2-e85caf7915ee:name",
+    "message": "API Cohere",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5192431a-469c-49b9-8b70-2c1ae366c0ff:name",
+    "message": "Cadeia Fria e Logística Controlada por Temperatura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0465c5bd-9c2b-4ae8-ba59-6f18e6833dd5:name",
+    "message": "Gestão de Logística da Cadeia Fria",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85678cb9-9000-49bb-a5f2-178caf020b8c:name",
+    "message": "Software de Gestão da Cadeia Fria (por exemplo, Sensitech)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b6d2d520-d79d-4490-8f40-9c2ad72e443a:name",
+    "message": "Formação e Gestão de Conformidade da Cadeia Fria",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a45675b3-9e0a-4654-8cd8-f838f1239313:name",
+    "message": "Gestão de Armazenagem Fria e Especializada",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d15d1391-6d22-4af8-a1d2-a9bb322eef23:name",
+    "message": "Colaboração e Comunicação em DevOps",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2846d265-3d8e-4e54-954b-ea75219ef5a3:name",
+    "message": "Colaboração e Comunicação em Equipas Digitais",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d75dc88f-260a-4956-90d0-b91aff515107:name",
+    "message": "Colaboração e Comunicação em Aquisições",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4c667a61-7165-415f-b7ae-5cac748e2c13:name",
+    "message": "Colaboração e Trabalho em Equipa Multidisciplinar",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ea92a8e-cd9e-486b-9733-8be956eb1ac4:name",
+    "message": "Colaboração e Envolvimento das Partes Interessadas na Investigação Educacional",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "08f65561-3e74-4c0d-9083-7cd258195bc7:name",
+    "message": "Colaboração e Coordenação de Equipa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99fcf07c-0a37-490d-8fc0-cb6fd0058aa9:name",
+    "message": "Colaboração e Trabalho em Equipa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5481dbc4-477d-4ac5-a968-bfe1398a139c:name",
+    "message": "Gestão de Coleções",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9c17828-b58b-4438-b715-09e2555a9879:name",
+    "message": "Collibra",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0dc2aaa5-5b61-4a02-bc27-b4107cfb6ad5:name",
+    "message": "Collibra Privacidade de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1db73a41-8563-46cf-b924-87705b10c991:name",
+    "message": "Collibra Privacidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0a2701b3-12d1-4412-87dc-44a0cfa13e80:name",
+    "message": "Colónia",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b90e94b2-5888-4c6c-8621-fcc750d6ee69:name",
+    "message": "Imagens a Cores",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "528632b8-7d7e-4ba8-9a49-95f4e09d4f4c:name",
+    "message": "Medição de Cor e Instrumentação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3399f7c7-476f-4516-9cbc-80d5f4f1a090:name",
+    "message": "Ciência da Cor",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b2df8f13-50bc-4a2d-a009-7bec2bb6340a:name",
+    "message": "Automação de Linha de Comando",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9c0a4943-3e89-4b94-9dd6-5bc14bc96a8f:name",
+    "message": "Comando e Tratamento de Eventos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "86757ae4-2369-4e71-8b88-06b201479cf8:name",
+    "message": "Adaptabilidade e Flexibilidade na Comunicação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "da385082-64bf-4a4e-9508-1d4e94bb066c:name",
+    "message": "Comunicação e Colaboração em Garantia de Qualidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae2534e0-f29f-494d-a81e-e1e05ffc2e25:name",
+    "message": "Comunicação e Coordenação nas Operações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1b0fc62-6de5-4ac0-a6c0-3ac19be31cdf:name",
+    "message": "Normas de Comunicação e Documentação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b85922c1-e61e-41f2-bd2f-1dead2a11fe9:name",
+    "message": "Comunicação e Competências Interpessoais para Aconselhamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4e89a5ab-21d4-4f60-aa08-a3bba1be4f99:name",
+    "message": "Comunicação e Competências Interpessoais para o Desenvolvimento de Educadores",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ce80d4e-21bb-4c2e-91ca-ec362c01ee72:name",
+    "message": "Comunicação e Competências Interpessoais para Apoio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5cb39e70-29a1-48d6-a829-730094fe0a50:name",
+    "message": "Comunicação e Apresentação para Líderes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "df2b1832-ea00-4989-8c36-c4ee0f93b7f5:name",
+    "message": "Competências de Comunicação e Apresentação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f6bcffdf-ddf0-4cbc-8ea8-98de89dfde9e:name",
+    "message": "Competências de Comunicação e Apresentação para Assuntos Médicos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "42812604-b752-459c-ab6d-3bd09afd0663:name",
+    "message": "Comunicação e Colaboração com Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3adc2400-c853-4540-a074-abad3b880cc7:name",
+    "message": "Comunicação e Envolvimento das Partes Interessadas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0f5d1089-683f-458b-b218-5383171cb78e:name",
+    "message": "Comunicação e Envolvimento das Partes Interessadas na Produção de Culturas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d4b4be18-a7eb-4566-96e1-a2b652d8b3a6:name",
+    "message": "Comunicação e Envolvimento das Partes Interessadas na Gestão de Instalações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "df2a313f-bcb0-4edf-a2c3-f6617bdf29f7:name",
+    "message": "Comunicação e Envolvimento das Partes Interessadas para Workforce Services ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6c34ed38-17bd-459a-8826-34c74499e333:name",
+    "message": "Comunicação e Envolvimento das Partes Interessadas na Exploração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45948b7a-f319-42d8-bd03-f24edc1c708f:name",
+    "message": "Ética da Comunicação e Confidencialidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "be5092fe-9b2d-4f32-a204-c67b510da626:name",
+    "message": "Gestão da Comunicação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "124c2c1e-12bc-4dc1-9d1c-c433e9cf9242:name",
+    "message": "Planeamento e Estratégia de Comunicação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ebc81ef7-fb6d-47b8-8f3f-be21b6d88175:name",
+    "message": "Envolvimento da Comunidade e das Partes Interessadas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cbfcdb16-3a11-46a9-a5e1-82c5863a0d52:name",
+    "message": "Envolvimento e Consulta da Comunidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7df2323c-fb97-42a8-be8b-3e80f7e78c59:name",
+    "message": "Envolvimento da Comunidade e Educação Ambiental",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b6738a5e-6513-4ae5-8f57-86effd7ec6d9:name",
+    "message": "Envolvimento da Comunidade e Educação Ambiental para a Sustentabilidade Ambiental",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "118c4185-99cf-4931-9137-6991b4e52cd6:name",
+    "message": "Envolvimento Comunitário e Responsabilidade Social",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ff92bbb-1d29-417c-9d59-0b3be3f6f0e6:name",
+    "message": "Envolvimento da Comunidade e Comunicação com os Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b8badbba-74e4-4671-a146-ce341a27559a:name",
+    "message": "Envolvimento da Comunidade e Comunicação com os Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e4c9af90-3e16-4786-b333-21d05db97b6c:name",
+    "message": "Avaliação das Necessidades da Comunidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aaa56a17-4130-45a5-a295-97b521ef8967:name",
+    "message": "Apoio à Resiliência da Comunidade e Populações Vulneráveis",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3d042ab-3ffb-4431-a8ed-c86fa5a62625:name",
+    "message": "Commvault",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf1311db-5b36-47b5-bc3c-af227ea7c050:name",
+    "message": "Commvault Complete Backup & Recovery",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "97c19132-278f-4897-9b67-604b6be65b75:name",
+    "message": "Extração de Parâmetros de Modelos Compactos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "723804d3-6180-4193-98b2-a3c1a812413b:name",
+    "message": "Economia Política Comparativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2f92723b-4768-4cb8-ba6d-54782d247b4d:name",
+    "message": "Administração de Compensações e Benefícios",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f904fbf-9ed0-43ec-8e5a-2b2d9264c286:name",
+    "message": "Gestão de Compensações e Benefícios",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5be0efc3-b11f-4cce-9315-edb5663f3301:name",
+    "message": "Gestão de Compensações e Benefícios (WDHC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4853a8e9-39eb-41f6-ad9b-8391d0a8fa00:name",
+    "message": "Desenvolvimento de um Quadro de Competências",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "446b889f-620b-4dd1-a972-bf8b9b4c243d:name",
+    "message": "Análise Competitiva e de Mercado",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96c300e1-6d19-4852-9c0f-c115084de56f:name",
+    "message": "Inteligência Competitiva e Planeamento de Cenários",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "25d95743-dffd-4ddb-9142-77d3f058ee0a:name",
+    "message": "Gestão de Queixas e Escalonamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "548828f6-a8e3-4002-be38-69c64dc0d8d9:name",
+    "message": "Análise Complexa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "20548f85-3861-4a99-ad8e-deac09d8f2be:name",
+    "message": "Conformidade e Governança em DevOps",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07c6716a-e4fa-49cd-964a-d33156a2424a:name",
+    "message": "Conformidade e Adesão Regulamentar nas Operações Bancárias",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cafcbf89-56de-4afe-a4a4-eb6f918e4dc9:name",
+    "message": "Conformidade e Adesão Regulamentar nas Operações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "190a22d4-ce64-41e0-bff5-f79c0b0010fd:name",
+    "message": "Conformidade e Consciência Regulamentar",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09602b25-4e8f-4947-ae37-3e3f134d9e0c:name",
+    "message": "Gestão de Conformidade e Regulatória para Instalações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1248937c-d66f-4bf5-9e40-5d8e812d3fb2:name",
+    "message": "Relatório de Conformidade e Regulamentação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "92b49ac4-6402-4dcb-92c7-ac2882ee0a29:name",
+    "message": "Conformidade e Segurança Regulatória",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c7366bfd-8af7-4f35-84b8-c0f877dcd221:name",
+    "message": "Auditoria de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "398f8f47-6104-46ed-bcd3-156dd4e5289e:name",
+    "message": "Auditoria e Monitorização de Conformidade para Conformidade Regulatória",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "41338358-e72f-4920-983c-1310ed7da41c:name",
+    "message": "Auditoria e Monitorização de Conformidade para Conformidade Regulatória e Governança Ética",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ac18348-c957-4283-931c-80505c698226:name",
+    "message": "Auditoria e Monitorização de Conformidade para Conformidade Regulatória e Gestão de Risco",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93893a42-b06a-4a47-bf22-1c62c495709b:name",
+    "message": "Auditoria e Monitorização de Conformidade para Conformidade Regulatória e Gestão de Segurança",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4b3270d3-6090-482e-8ddf-d4ed469e4815:name",
+    "message": "Monitorização e Auditoria de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f438d7ac-aa8e-4c4e-be13-446fa38b52dc:name",
+    "message": "Monitorização e Relato de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3aec10b7-ecff-4c1d-8811-b4c88d5538af:name",
+    "message": "Monitorização e Testes de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8837068c-9b21-407a-b253-47e5e8b5b593:name",
+    "message": "Desenvolvimento e Gestão de Programas de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74731ca0-c17f-4296-baf7-04a11d10f56b:name",
+    "message": "Desenvolvimento e Gestão de Programas de Conformidade para Conformidade Regulatória e Gestão de Segurança",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e66b6619-b950-4e2e-aa81-446ed2eb3ec1:name",
+    "message": "Avaliação e Gestão de Risco de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7cbd4450-2313-445e-835e-01454de62655:name",
+    "message": "Tecnologia de Conformidade e Utilização de Software",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ec6c73c-f6f8-42ba-b915-64706ed06a0f:name",
+    "message": "Utilização de Tecnologia e Ferramentas de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c53cab6c-8ae9-4635-8c72-44ff71d9d0f5:name",
+    "message": "Formação e Consciencialização em Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "70d3d5b9-b0af-45f2-b0cd-acd44625f9b6:name",
+    "message": "Programas de Formação e Sensibilização em Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "031d89c9-5ebf-47dc-a6e0-b65b366c9224:name",
+    "message": "Conformidade, Acreditação e Garantia da Qualidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5c0d08ff-c583-489e-a37a-97954029c98f:name",
+    "message": "Triagem de Compostos e Identificação de Hits",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d340dcc1-ab2a-4a1d-931a-8ed0a67fc09f:name",
+    "message": "Sensoriamento Comprimido",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4be6ac64-f760-4677-b059-8b6c41cf5c8e:name",
+    "message": "Química Computacional e Modelação Molecular",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a5e345f0-7e78-4688-bead-efe7787dd889:name",
+    "message": "Lógica Computacional e Programação Lógica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "419223df-c236-42ba-b520-d87e89f4585e:name",
+    "message": "Teoria Computacional e Autómatos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "77a69267-3c98-4fcf-a7c9-9eacbd3b1ef3:name",
+    "message": "Visão Computacional",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0bfad49b-80c3-43b8-ae01-7fece37380d3:name",
+    "message": "Desenho Assistido por Computador (CAD)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3a16527-273e-4d05-b7a5-1a32be2f2d77:name",
+    "message": "Desenho Assistido por Computador (CAD) para Engenharia Eletrotécnica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "014e9f64-447b-4a73-93ba-3ce90a0a5ccc:name",
+    "message": "Sistema de Monitorização de Espectro Comsearch",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "64e1d6e3-a9fb-47a6-9208-e8edde2a167d:name",
+    "message": "COMSOL Multiphysics",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e3d5fb0-5c1d-4693-b73b-87fbd94d24e7:name",
+    "message": "Concordar",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "004b37a6-4e91-401a-85f4-f17755e36ee4:name",
+    "message": "Teoria da Concurrência",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ea85b65-3a72-4c86-b364-edb4524066af:name",
+    "message": "Programação Concorrente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c57ffcc7-9f12-4bbb-94a8-03acf3229a32:name",
+    "message": "Monitorização de Condições e Diagnósticos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f32a6478-d51d-4802-9a98-45fa130badb4:name",
+    "message": "Confidencialidade e Segurança da Informação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6af2cb92-cdac-4393-9fbd-04da278d3fa3:name",
+    "message": "Gestão de Configuração e Ativos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f6fcca9-5c22-4476-b67a-cd5438c7d743:name",
+    "message": "Gestão de Configuração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "79c27f29-3b09-4008-8062-f93a12a4e450:name",
+    "message": "Gestão e Resolução de Conflitos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04f65bd4-5421-4be7-be22-0344ce5b407c:name",
+    "message": "Gestão de Conflitos de Interesse",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "87e7d38a-23ac-4d53-8ff6-8497c067ffe4:name",
+    "message": "Resolução de Conflitos e Relações com os Funcionários",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9be3d0bf-0bf9-4caf-a492-2972a7bf08da:name",
+    "message": "Resolução de Conflitos e Negociação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3edb3b2-8687-4712-9762-be5434948e70:name",
+    "message": "Confluência",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0b1b38c9-39d7-426d-bfcc-655f0c4cf3d5:name",
+    "message": "Confluent Platform",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c6b61cf6-d134-4c26-ab1d-cd3cea61cb08:name",
+    "message": "Algoritmos de Consenso",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3b55e133-9ce1-43f2-b772-7d3b6ce1a7e2:name",
+    "message": "ConsenSys Codefi Compliance",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "50d61cbc-fecf-4735-bf7a-2a187df3f979:name",
+    "message": "Conservação e Preservação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "08b1f377-f6e7-4999-90f2-7a2c3c7c0797:name",
+    "message": "Operação de Equipamento de Automação de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "511e9b47-db1f-4315-81b1-0ffe94c9a7cc:name",
+    "message": "Comunicação de Design de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa164ce9-2ae9-4edf-a394-133ddcc797ff:name",
+    "message": "Garantia de Qualidade do Design de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "73826c10-94ab-48f5-a722-139073924c88:name",
+    "message": "Plataformas de Colaboração e Comunicação Digital na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "38626a62-d614-476a-bc8e-1d6624a189e5:name",
+    "message": "Formação Digital em Construção e Capacitação para a Mudança",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8d1bfa95-1d5e-4b3a-802b-0210532fab10:name",
+    "message": "Operação e Manutenção de Equipamentos de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "272d65f8-959d-43ba-9fbc-72e6b4505916:name",
+    "message": "Gestão da Inovação na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e8927b42-d6f6-4861-8b66-c1337cc4ce4a:name",
+    "message": "Gestão e Supervisão de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47039884-216e-4b1b-8007-b1cec0e1449f:name",
+    "message": "Ciência dos Materiais de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fb50390b-9b92-4d96-8286-69c522c31f26:name",
+    "message": "Métodos e Materiais de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "719f43a7-4ad2-4546-9deb-5976bcfecf44:name",
+    "message": "Métodos e Técnicas de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "860095d7-2eca-4942-91dc-5cf8d96b8150:name",
+    "message": "Planeamento e Programação de Projetos de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "11460ce9-be00-4ac1-8dbc-61cb74007cf3:name",
+    "message": "Planeamento de Garantia da Qualidade na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf112941-3480-4ab6-9f3b-f16df14cd28f:name",
+    "message": "Sistemas de Gestão da Qualidade na Construção (QMS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0a0e54b8-df1b-45bc-acb4-047f599ed391:name",
+    "message": "Formação em Qualidade de Construção e Desenvolvimento de Competências",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b2b23ff-7d8d-4783-8ccb-9ca4cfdbe828:name",
+    "message": "Quadros Regulatórios de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce96fe8c-ec6e-48da-ba7e-7985b94b5ccc:name",
+    "message": "Identificação de Riscos de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1bedfa9-f0e6-47ac-bfb9-e72d83a23926:name",
+    "message": "Ferramentas e Software de Gestão de Risco na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "73b1a289-b671-4fb1-80ee-48947ce6d266:name",
+    "message": "Medição e Análise do Desempenho em Segurança na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ecfc0b6-241d-4180-8a56-b0ed99bf0e7a:name",
+    "message": "Comunicação de Risco de Segurança na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "95c1c16a-5f3f-4dd5-8797-8d056bcbb9bc:name",
+    "message": "Normas e Melhores Práticas de Segurança na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "08872e9a-83ac-47bd-830f-3346f11de08f:name",
+    "message": "Tecnologia e Ferramentas de Segurança na Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "147e1a54-3664-46bc-a7f5-16d8db388b3c:name",
+    "message": "Comunicação e Documentação em Obras",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4f727f45-3106-4fc8-8c57-ff4a6338aa92:name",
+    "message": "Logística de Obras e Gestão de Materiais",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2fccb01b-61ee-4fde-acdc-1ff82ec8d609:name",
+    "message": "Planeamento e Programação de Obras",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "054144c0-89ff-418e-9400-83909756a4b4:name",
+    "message": "Gestão de Riscos em Obras",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5b07d3b2-c1a0-4f3d-a58d-9b2bc310c5ff:name",
+    "message": "Auditoria e Inspeção de Segurança em Obras",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e9782f56-b3f7-4174-85aa-596764288499:name",
+    "message": "Gestão de Segurança em Obras",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0c08b334-0906-4a8b-a24e-5c2b125ff794:name",
+    "message": "Segurança e Controlo de Acesso em Obras",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "79c859ef-5222-4d40-ad51-b8b9d71ae7e1:name",
+    "message": "Integração e Interoperabilidade da Tecnologia de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58ef7a41-84f1-41fc-b8d1-01beb1f0a779:name",
+    "message": "Cônsul",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09780ada-0fd0-44c2-b7c5-25db31618f32:name",
+    "message": "Venda Consultiva",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "78e2bbcc-e1e7-4ec4-9671-d92dbe41b1eb:name",
+    "message": "Pesquisa e Insights do Consumidor",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fe4c17b7-1ca4-483d-bfad-f9a5d47c5755:name",
+    "message": "Containerização e Orquestração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3d9f6fad-85af-4fae-a1c5-30ab372f835b:name",
+    "message": "Containerização e Orquestração (DevOps)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "452ec8b4-73df-46dd-80e8-7206309fe6a6:name",
+    "message": "Análise e Caracterização de Contaminação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e78eee73-b0a7-4b42-8ba5-5d931d93f5e2:name",
+    "message": "Controlo de Contaminação e Processamento Asséptico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "67d4c58f-da90-44b9-bf11-9c84dbf95bf2:name",
+    "message": "Prevenção e Controlo de Contaminação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c70ee486-d6af-415b-b8e6-fda39f3fecf1:name",
+    "message": "Criação e Gestão de Conteúdo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4d8fe10f-55b0-462c-a22b-7f1beb780cf7:name",
+    "message": "Distribuição de Conteúdo e Gestão de Plataformas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9a2663c1-b756-48cc-833e-24030c708bae:name",
+    "message": "Localização de Conteúdos e Adaptação Cultural",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae549747-a9de-44f4-8e75-a8811b3ea50a:name",
+    "message": "Contentful",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2d2350d1-b9bb-4239-ad9c-9ed4220c3085:name",
+    "message": "Contiki-NG",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b574c86-9c82-4071-a144-f0168ee37aef:name",
+    "message": "Planeamento de Contingência e Continuidade de Negócios",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5624e304-653a-412d-b98d-855b036b87d5:name",
+    "message": "Planeamento de Contingência e Resposta a Crises",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a23a14e-24f2-4b7b-b339-65957510020d:name",
+    "message": "Melhoria Contínua e Otimização de Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "531845c3-816c-4866-8af2-c3f7c1017bcc:name",
+    "message": "Gestão de Programas de Melhoria Contínua e Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1d1bcf6d-5d4c-4fa9-a5be-a14df81eaed3:name",
+    "message": "Estratégia de Melhoria Contínua e Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "917fea05-4983-47f7-820b-749dfd1eefcb:name",
+    "message": "Melhoria Contínua e Produção Lean",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "447620be-273f-49dc-bf9d-f313b761aebb:name",
+    "message": "Melhoria Contínua e Lean Manufacturing na Indústria Farmacêutica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d0c0dd19-8d0f-457d-9201-9f8762539d36:name",
+    "message": "Melhoria Contínua e Armazenagem Lean",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9e5c41c-ecc8-48e8-81a0-840ad215cf20:name",
+    "message": "Melhoria Contínua e Otimização de Processos para Análise de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07abd2da-3da2-4702-9136-3e1a4650aaf5:name",
+    "message": "Melhoria Contínua e Otimização de Processos para Logística",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "917bcc86-9129-4e83-9cb8-3a029bf7ed46:name",
+    "message": "Melhoria Contínua e Avaliação de Programas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4d7b2591-80dd-480c-8535-33ee38f48bee:name",
+    "message": "Melhoria Contínua e Aumento da Qualidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f061e29f-0071-48e9-9d54-94a67a34e3d7:name",
+    "message": "Melhoria Contínua e Métricas de Qualidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "036bc091-75b3-4133-9cd6-672ce4f41340:name",
+    "message": "Gestão da Melhoria Contínua",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "803c9cf7-1a68-432d-8205-476dc7fe2feb:name",
+    "message": "Integração Contínua e Implantação Contínua (CI/CD)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef0d364b-af31-4042-bf25-8db885766ce9:name",
+    "message": "Desenvolvimento Profissional Contínuo em Gestão de Investimentos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3431e98f-de48-4c58-a5b2-84e57cf92f76:name",
+    "message": "Melhoria Contínua de Serviço",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4eca0d7-77b1-4315-9a2d-87d59e9aebca:name",
+    "message": "Testes e Integração Contínuos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ff2141ba-6e22-4a24-991e-dffd4d58350b:name",
+    "message": "Gestão de Contratos e Quadro Legal",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5c252d03-5c1a-42f8-8313-5914ec77e076:name",
+    "message": "Gestão de Contratos e Fornecedores",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0388481d-b790-4537-a6fc-764ffb0b1560:name",
+    "message": "Gestão e Negociação de Contratos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3fc42dd5-2ebf-4e8a-8cf8-19e4aabc9155:name",
+    "message": "Negociação e Gestão de Contratos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "25ca0c2d-aa05-4549-803e-14e05fa28036:name",
+    "message": "Análise de Risco Contratual",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb8d5dc8-222f-419f-952b-c926c8a9abf4:name",
+    "message": "Gestão de Conformidade de Contratantes e Subcontratantes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "94473be4-d507-415d-b9b8-97b283618042:name",
+    "message": "Gestão de Saúde, Segurança e Ambiente para Contratantes e Fornecedores",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0e24b70e-2eaa-4c9f-a3d1-bab27ef1859b:name",
+    "message": "ContractWorks",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "23f04af5-2002-411d-a55c-de868d87373b:name",
+    "message": "Planos de Controlo e Ferramentas de Controlo de Qualidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8c7edd0c-3874-474b-adf7-1667144428d5:name",
+    "message": "Convercent",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e13a43ac-cfad-43fe-9383-d5e877617139:name",
+    "message": "ConvergePoint",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9d58a1db-fba2-4635-bd2d-f7c176230613:name",
+    "message": "Cookiebot",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "de0a5bbe-ec55-42b3-b523-056cb51ff89f:name",
+    "message": "COPASI",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a470e616-0b0a-42c8-8b62-0f0108deb3dc:name",
+    "message": "Galo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "466c3526-8de3-4e31-adde-fb5639a556ce:name",
+    "message": "Corda",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "750c4290-dbe5-4105-bb50-c03186971685:name",
+    "message": "Cordova",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "88a88916-7eba-4451-8a40-6e51c5ffbf04:name",
+    "message": "Gestão de Sistemas Bancários Centrais",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "90d1b9bd-bf6b-4347-9520-ce7a8afffa4d:name",
+    "message": "Cority",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9ab43a1f-fc91-49f2-9ef7-d68897038b35:name",
+    "message": "Cornerstone OnDemand",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "357450ab-57e0-4f78-b4e0-5ffb54944c5d:name",
+    "message": "Comunicações Corporativas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3fe9e53-1a38-464e-adc4-f203f172d5d6:name",
+    "message": "Governança Corporativa e Práticas Empresariais Éticas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dcc1f57e-fc4e-4065-8fd8-0630299578ce:name",
+    "message": "Estruturas de Governança Corporativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b6a6334-bf1a-4782-9aad-126a5ec4a84a:name",
+    "message": "Práticas de Governança Corporativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "da7403c2-f39f-4789-a9f2-98b889ac5e4c:name",
+    "message": "Assessoria Jurídica Corporativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4e12ad0-27e8-4432-8878-9cc344a24075:name",
+    "message": "Responsabilidade Social Corporativa na Gestão Ambiental",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd73e67d-a947-4c48-92fe-ae25029a6362:name",
+    "message": "Desenvolvimento de Estratégia Corporativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "abb74874-6860-42a7-a922-fdba3bae264c:name",
+    "message": "Capital de Risco Corporativo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab03c80d-260b-4df7-a5cc-db10f2109e27:name",
+    "message": "Execução de Manutenção Corretiva",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e2ff75df-26e5-49f0-9df9-750fc0da37a4:name",
+    "message": "Gestão da Corrosão e Integridade dos Materiais",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb155a66-18b4-4275-ab10-8b4885c19322:name",
+    "message": "Controlo e Gestão da Corrosão",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b92d1d3-00dd-4a04-b615-c68ed1d2d099:name",
+    "message": "Tecnologias de Monitorização de Corrosão",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dbd99dd4-903a-48fd-b273-befa0e7618b5:name",
+    "message": "Cortex XSOAR",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ec7a6e5-b257-420a-ab8e-6ebbf3f621e2:name",
+    "message": "Cosmos SDK",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7f993c04-7143-4516-a49f-e457de703dfe:name",
+    "message": "Contabilidade de Custos e Expense Gestão",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29f35f81-e60a-4065-8ba6-b930c7d8cb3c:name",
+    "message": "Estimativa de Custos e Orçamentação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1462e209-fbba-4e20-80ea-36b25ca86ec0:name",
+    "message": "Redução de Custos e Engenharia de Valor",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1d32de1d-2ff4-4998-8b9e-01dc4b4b950b:name",
+    "message": "Coupa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4c99b836-8a21-4836-a26e-a6b98a564da1:name",
+    "message": "Gestão de Contratos Coupa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c3631b47-34d0-4d8c-bd85-01fd6f41d4fd:name",
+    "message": "Coupa Procurement",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f6624311-ee81-4f86-bd34-7a0d0aa7a9c5:name",
+    "message": "Gestão de Despesas Coupa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0fb8c93f-c052-419c-a7d1-d0c835d431c4:name",
+    "message": "Coupa Sustainability Cloud",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e7a79497-fe85-4032-a643-f2c4de6961d3:name",
+    "message": "Cowboy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5d8318ca-2de1-4d97-ba13-7dd35c9aee30:name",
+    "message": "CPA Global",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "24eaa8df-0ebc-4761-97b6-1296abb00264:name",
+    "message": "CPLEX",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4696992-25a3-4593-bcc8-f181e739d3a3:name",
+    "message": "CQL (Linguagem de Qualidade Clínica)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b20f4c6-da29-4cd8-82a8-89ac0fc39373:name",
+    "message": "Ofício",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc0b2627-01dc-42cd-af02-92aab3e07e9e:name",
+    "message": "Resolução Criativa e Inovadora de Problemas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0143e103-8e5e-4e55-8f86-dcd9c59e488e:name",
+    "message": "Colaboração Criativa e Comunicação em Equipa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad4ac259-d558-4106-aac9-7eadb582cdf5:name",
+    "message": "Direção Criativa e Comunicação Visual",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b2f25333-fb8a-4b88-9333-071ec730a9f6:name",
+    "message": "Escrita de Não-Ficção Criativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c268ecf8-dcfc-4f1c-92ce-7aba3dc5670f:name",
+    "message": "Avaliação e Gestão do Risco de Crédito",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2f356f3d-0cc6-4499-b1e8-3e4aacc90bd5:name",
+    "message": "Creo Parametric",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ceda475-f0dd-4482-999e-026690dceedc:name",
+    "message": "Justiça Criminal e Aplicação da Lei",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e153987-2620-429a-944e-8c83850ea397:name",
+    "message": "Preparação para Crises e Emergências",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e5c93ed1-e7c7-4285-8063-a20c697d22cf:name",
+    "message": "Coordenação de Resposta a Crises e Emergências",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "661ed807-8a0a-4677-8dbe-68b7be35a52e:name",
+    "message": "Comunicação de Crise e Informação Pública",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2acb3f93-d7b3-4d53-8f28-b21a84d8da54:name",
+    "message": "Comunicação de Crise e Gestão de Reputação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a969e9a-817f-49ff-9894-27975567763b:name",
+    "message": "Intervenção em Crises e Resposta a Emergências",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37973b07-1f53-49ea-bf4f-f79e759debd8:name",
+    "message": "Liderança em Crise e Resiliência",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "896e1bb3-9120-4cea-98f1-9526ff12afd7:name",
+    "message": "CRISPR-Cas9",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "16534890-9658-4192-abad-a2274d444e72:name",
+    "message": "Pensamento Crítico e Raciocínio Lógico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "80293d52-61b3-47e2-872c-c40f2e82aefd:name",
+    "message": "Genética e Melhoramento de Culturas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2ae08645-7475-4045-a38c-cf8d3f4c4313:name",
+    "message": "Colheita de Culturas e Manejo Pós-Colheita",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a9cbdeb3-685a-46c9-aa3d-cb053913681e:name",
+    "message": "Monitorização de Culturas e Coleta de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04bcd9e4-57d0-449d-b26b-3d2dd4aeb881:name",
+    "message": "Plantação e Estabelecimento de Culturas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dea8fdfc-1f5a-41d9-b503-6eafc9867317:name",
+    "message": "Planeamento e Programação da Produção Agrícola",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f2d27f49-3b0a-48ae-9442-94cc1a249b1c:name",
+    "message": "Gestão Jurídica e de Conformidade Transfronteiriça",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6bcb57f2-0dbd-4be8-be9c-201f0ef7f015:name",
+    "message": "Coordenação Regulatória Transfronteiriça",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c0755f4b-46b9-47be-9cc9-248455545137:name",
+    "message": "Prevenção de Contaminação Cruzada",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fe52906e-5cd4-4a66-bb9b-44032b53ab6e:name",
+    "message": "Liderança Intercultural e de Diversidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc3682b4-e279-4e73-8faa-7a35e5a6afc8:name",
+    "message": "Competências em Investigação Intercultural e de Diversidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9b7cf7d-1dd0-431f-96ce-067e343166fb:name",
+    "message": "Comunicação Intercultural",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "56fd0882-46db-4a7c-94f7-55abde8784d8:name",
+    "message": "Colaboração e Comunicação Interfuncional",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30443280-910d-4114-b27f-3ae42a2b595b:name",
+    "message": "Colaboração e Comunicação Interfuncional (DHDS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2aeab097-640b-41c5-9589-c576abfd0993:name",
+    "message": "Colaboração e Comunicação Interfuncional (PM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ebcd84e3-b0af-4c71-8fc5-554e6d75ca62:name",
+    "message": "Colaboração e Comunicação Interfuncional (TPRD)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "43dda7e2-eb6f-48c4-8d92-f5b8fd08300d:name",
+    "message": "Colaboração Interfuncional e Gestão de Projetos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cc1b3c53-207c-4a12-b2ce-ce04905f6c6e:name",
+    "message": "Colaboração Interfuncional e Gestão de Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3a3c4f1-205b-40bc-972f-c88260b508d4:name",
+    "message": "Colaboração Interfuncional para Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f4cdec32-a768-4ce8-b96f-e61cfa6b40de:name",
+    "message": "Colaboração Interfuncional para a Experiência do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fd6358cf-ca5c-476b-9b62-ff5d3c661c94:name",
+    "message": "Testes Multiplataforma e Multinavegador",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9d602657-6288-4350-a385-27cdc2038a94:name",
+    "message": "Desenvolvimento de Aplicações Móveis e Multiplataforma",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a74aecf8-616d-4e0d-9c37-e686b6da7c9f:name",
+    "message": "Gestão e Controlo de Multidões",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37d9cd57-9021-44a6-8aff-5cf45ba833e0:name",
+    "message": "Crowdsourcing",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "df44fa08-372f-4368-938a-9bd5847e5b98:name",
+    "message": "Crunchbase",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "171fd0ed-a3cd-4e75-a5b6-032d7f4289c6:name",
+    "message": "Carteiras de Criptomoedas e Gestão de Chaves",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c30b5722-82ee-4984-9f0a-3454560bf2d9:name",
+    "message": "Criptografia e Proteção de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "67f47604-79f9-4e34-b591-0e168844ad0d:name",
+    "message": "Criptografia para Blockchain",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa6c5450-1c4d-427f-a924-250fbae1b9cd:name",
+    "message": "Bola de Cristal",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9f6f7e6-332b-4ebb-ba7e-4e1bc56439c2:name",
+    "message": "CSP (Processos Sequenciais de Comunicação)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47d598d3-30d0-425a-aea7-019994cce6c8:name",
+    "message": "CSS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b1c84e9c-2142-4454-ab0b-b73d345a5f76:name",
+    "message": "Pré-processamento CSS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd20de86-c2e7-4bcf-b686-762933941da8:name",
+    "message": "CST Studio Suite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c97cdc3-35fb-45dd-b350-82baf1fbb7f8:name",
+    "message": "Cuckoo Sandbox",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8106bbfa-6749-4b6b-956d-4b6496896c76:name",
+    "message": "Pepino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55d8eb9c-9c11-4900-a6ad-cfaa6a045c7c:name",
+    "message": "CUDA",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99e649d4-2d19-441e-9cae-c3e60c2007b6:name",
+    "message": "Competência Cultural na Assistência Clínica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "effe8a7f-82b2-444d-8a7c-902273d553e3:name",
+    "message": "Competência Cultural e Inclusão da Diversidade na Formação de Professores",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58f8d034-42f1-4fe5-94c8-d0db49cb3a41:name",
+    "message": "Competência Cultural e Design Curricular Inclusivo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c5500ca9-ff1d-43e1-b229-5bce0d9f4dad:name",
+    "message": "Política e Advocacia do Património Cultural",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0aaa25d-4500-4d24-a05e-88e9016fd5c9:name",
+    "message": "Investigação do Património Cultural",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "25bef195-6dfd-4661-a943-45d37b6273b9:name",
+    "message": "Sensibilidade Cultural e Colaboração Comunitária",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "21788243-89ea-48bc-8e45-2a3c57d8c85c:name",
+    "message": "Culture Amp",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4d5de1d-5eca-47d5-b095-1f4a4419367b:name",
+    "message": "Desenvolvimento da Arquitetura e Estrutura Curricular",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d137d77b-83c6-4620-8300-6440d7911e81:name",
+    "message": "Documentação e Comunicação do Currículo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b180c0f7-9a24-4aaf-91f5-78a2ac77909a:name",
+    "message": "Implementação e Gestão da Entrega do Currículo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5fc0cb25-d26a-4667-abe3-72ee800baf2b:name",
+    "message": "Análise e Relatórios de Clientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "59bfd66f-fb6a-4b03-9329-038cab48a05c:name",
+    "message": "Apoio ao Cliente e ao Consumidor",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "70244c48-652a-4c1e-89d5-9186942db2db:name",
+    "message": "Engajamento de Clientes e Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9259b5c8-881a-4d12-878c-c1d3fa156a3e:name",
+    "message": "Privacidade e Conformidade dos Dados dos Clientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e51801ac-ae7b-451c-8977-cc0079c1b2df:name",
+    "message": "Gestão da Experiência do Cliente e Relacionamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30afd3e2-96c6-40e1-af40-40a9679f1565:name",
+    "message": "Design da Experiência do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ac39923b-60b1-4b63-8f6c-8d3ff8a785af:name",
+    "message": "Avaliação da Experiência do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29e2d94d-066a-45cb-917e-e386302e4535:name",
+    "message": "Gestão da Experiência do Cliente em Finanças Digitais",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "11b4392f-db47-4cc0-baf7-8027780853f5:name",
+    "message": "Estratégia e Governança da Experiência do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "703a9a87-7b7c-4e5d-93ed-2db4cec3f4c6:name",
+    "message": "Transformação da Experiência do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "03320014-9461-4f11-8fc0-11c7a3b8241e:name",
+    "message": "Análise de Feedback dos Clientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c1f2bf66-9bda-4867-a9fd-a785bb20e488:name",
+    "message": "Análise de Feedback e Reclamações de Clientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ccd9af0-0fdc-4f8f-801d-aaa97e576138:name",
+    "message": "Gestão de Feedback e Experiência do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ac7e4df-71e3-4d96-a2e8-8a46d8346633:name",
+    "message": "Gestão de Feedback do Cliente e Voz do Cliente (VoC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb97ccb9-73e4-4c7f-a3d7-b1bd8b17519b:name",
+    "message": "Impacto do Cliente e Operações de Garantia de Serviço",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "867f227b-574a-45a9-8457-8a7ca13bc1d6:name",
+    "message": "Gestão de Interação com o Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4dad637c-7f1d-4558-aaa7-c6a1705a51b2:name",
+    "message": "Ferramentas de Análise da Jornada do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c3c4abd8-b8e4-4033-ad86-f7efddfda447:name",
+    "message": "Mapeamento da Jornada do Cliente e Design de Experiência",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aa0104d6-2434-4005-a023-4fd30dddf694:name",
+    "message": "Estratégias de Fidelização e Retenção de Clientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "13445b6d-53a9-4b47-bc96-a26176485534:name",
+    "message": "Apoio à Integração de Clientes e Ativação de Serviços",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4cdba872-9e39-4ef0-abef-9e4703da6195:name",
+    "message": "Integração e Formação de Clientes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ea8803ce-ab72-4775-9a4e-7552a981b9cd:name",
+    "message": "Gestão de Relacionamento com o Cliente (CRM-MC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2dfc9e09-6f04-4f7f-ab20-fa0e9d434016:name",
+    "message": "Gestão de Relacionamento com o Cliente (CRM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a87ed7c-4efa-4d13-8134-61f6c921ee54:name",
+    "message": "Sistemas de Gestão de Relacionamento com o Cliente (CRM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3d535aaa-9fad-4e2e-8492-30639cf4d3c6:name",
+    "message": "Sistemas de Gestão de Relacionamento com o Cliente (CRM) (CSSA)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c2d043ab-360a-4c1d-847a-b9a8e6ed3317:name",
+    "message": "Ferramentas de Gestão de Relacionamento com o Cliente (CRM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d08355d8-48f8-44fa-b5f1-3023b5daf1ae:name",
+    "message": "Gestão de Relacionamento com o Cliente em TI Services ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad71c8f5-858a-4fb9-8f2f-61510a18b108:name",
+    "message": "Retenção de Clientes e Programas de Fidelização",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1fe37140-d22b-4485-bb08-166e44131edb:name",
+    "message": "Atendimento ao Cliente e Comunicação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55ef0ef3-a354-45f1-9722-681cf938596b:name",
+    "message": "Atendimento ao Cliente e Envolvimento da Comunidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d72f4484-98a9-4bdf-8e44-0ff47908ffc4:name",
+    "message": "Atendimento ao Cliente e Gestão de Relacionamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7365ebb8-552c-4b6f-b8e4-50beaca79881:name",
+    "message": "Atendimento ao Cliente e Comunicação com Stakeholders",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "238a5781-cc57-40e6-9adb-b10fee033276:name",
+    "message": "Atendimento ao Cliente e Envolvimento das Partes Interessadas em Instalações",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "08c4f1f9-7dba-492f-914e-4448be0d80f4:name",
+    "message": "Operações de Atendimento ao Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d6e7558e-d60d-4bba-a418-39c57449197d:name",
+    "message": "Gestão de Sucesso do Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "769cc526-ce82-4ba4-8234-f2b5b84c0c7d:name",
+    "message": "Gestão de Vendas Centrada no Cliente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55e842c1-736b-4d15-844d-00c737114251:name",
+    "message": "Regulamentações Aduaneiras e de Exportação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "87c4c5b7-5c7c-4c9a-a2cc-6222a8dd5873:name",
+    "message": "Cumprimento Aduaneiro e Conformidade Comercial",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a2c23ac-3dcb-48b1-873d-4fb102ea2879:name",
+    "message": "Cumprimento Aduaneiro e Conformidade Comercial",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ac946fa5-7ab4-4166-bc77-c61b466dd74a:name",
+    "message": "Cvent",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0d78aa36-dac2-4116-b412-34422b6abd76:name",
+    "message": "CyberArk",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f4a42daf-1824-4ee2-910c-0371f6013eba:name",
+    "message": "Cibersegurança para Sistemas Digitais de Construção",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "64c24195-416a-4fee-89dd-1d01fa066cef:name",
+    "message": "Cibersegurança para a Transformação Digital",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "daf759f5-f711-43d4-9f32-d577b3e0d3d7:name",
+    "message": "Cibersegurança para Tecnologias Emergentes",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "53faf40c-cf39-4de9-a17c-1e8ef2f5578f:name",
+    "message": "Cibersegurança para Sistemas Digitais da Indústria de Extração",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f47e7f5f-173f-4db6-aff8-8c8fdbabca1a:name",
+    "message": "Cibersegurança para Tecnologia Financeira",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7fd2df56-3de2-4f09-95ed-755404d8ace8:name",
+    "message": "Cibersegurança para o Setor Público",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8765c722-9176-4cf9-8649-4bf834508c09:name",
+    "message": "Cibersegurança para Sistemas de Transporte e Armazenagem",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ceb0e4b0-9eb5-423f-a54e-a9d5fd1c8608:name",
+    "message": "Estruturas e Normas de Cibersegurança",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e78abc81-fabf-405a-b50f-8ad9c37c0a74:name",
+    "message": "Cibersegurança na Automação Farmacêutica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c985d809-3588-441c-ba7a-b2616c7646a3:name",
+    "message": "Avaliação de Risco em Cibersegurança",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f6ea459c-3747-4591-91fb-6d6b24fd321e:name",
+    "message": "Cifra",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "130e7552-6d26-4df4-a4fe-85164f67f22e:name",
+    "message": "Cipreste",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9c1abcc-70c7-41f4-8139-3454801ad1a1:name",
+    "message": "D3.js",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "290a8b8c-8e09-4d38-a327-7a321a1c612d:name",
+    "message": "DAOstack",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c7e37198-6c1b-41d1-b466-76d7a09fd810:name",
+    "message": "Desenvolvimento de Painéis",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d57a1fa9-bc9b-4dec-aeeb-a8e27babc848:name",
+    "message": "Análise de Dados e Bioinformática na Descoberta de Fármacos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd65dd8e-f36e-49c1-93f4-37aea26585e6:name",
+    "message": "Análise e Interpretação de Dados para Avaliação Educacional",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2b8464dd-734c-4cee-9716-5ebc3e64bc34:name",
+    "message": "Análise de Dados e Relatórios para a Integridade de Ativos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "66cb6762-863c-4976-99e5-8bce481761b3:name",
+    "message": "Análise de Dados e Relatórios para Conformidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d0a38f29-7e78-4864-9ea9-4c39305bb03d:name",
+    "message": "Análise de Dados e Relatórios para o Desempenho de Processos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7f3a3ce1-21a6-4630-be9b-5a81b71233d5:name",
+    "message": "Análise de Dados e Relatórios para Subscrição e Sinistros",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "34c09885-1b05-4c49-8d59-3b37616ebc9a:name",
+    "message": "Análise de Dados e Simulação para Desenvolvimento de Produtos",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e2b7062-346f-446a-be2a-38d82d293018:name",
+    "message": "Análise de Dados para Qualidade e Segurança",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2cdb97a8-71bc-4f0c-a0e3-3ac079041b0a:name",
+    "message": "Análise de Dados e Tecnologias de Big Data",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b4d3cf5-35fb-4599-ba44-61aa4d05dc23:name",
+    "message": "Análise de Dados e Inteligência Empresarial",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5241f90a-e0f1-4f35-a3e0-f0b5ff7f1895:name",
+    "message": "Análise de Dados e Inteligência Empresarial para Finanças",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b5a7e79-3a20-45ff-b705-dae70d831f4a:name",
+    "message": "Análise de Dados e Apoio à Decisão para a Manufatura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a43468c3-fc1e-4b2f-9cc4-697a2dae1dd8:name",
+    "message": "Análise de Dados e Monitorização de Desempenho",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fda06dbb-fac0-438f-8d09-2f480a5f2340:name",
+    "message": "Análise de Dados e Modelação Preditiva",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d3476bb-3eb4-4b42-9c06-a98d34ebe90f:name",
+    "message": "Análise de Dados para o Envolvimento do Público",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4253f09c-94fe-4f02-b8a6-088bf1aab83d:name",
+    "message": "Análise de Dados para Otimização Logística",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5cec2620-ae2a-4b5d-9206-4ce0f734e324:name",
+    "message": "Análise de Dados para Gestão da Qualidade",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "92a1502b-f57f-4db6-9435-83e96582b82a:name",
+    "message": "Ligação de Dados e Apresentação de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8c6fc185-774e-45f4-bb2a-029863d5336d:name",
+    "message": "Limpeza e Preparação de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "141a72ed-38ab-4b0b-9c82-bf779c0ed84d:name",
+    "message": "Coleta e Aquisição de Dados para Medição de Desempenho",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a716e95-a26c-410f-9a14-a51d2876bc52:name",
+    "message": "Coleta de Dados e Levantamento de Campo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "175e099c-847f-42ef-9339-9fde9757095b:name",
+    "message": "Coleta de Dados e Recolha de Informação",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a40a7163-1ee6-4e63-8026-c61bfad3308b:name",
+    "message": "Técnicas de Coleta de Dados na Pesquisa Educacional",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c939471d-835b-4bd0-b603-68980daede5f:name",
+    "message": "Coleta, Análise e Relato de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99f58227-538c-4758-95f3-78fb6c3c17a8:name",
+    "message": "Coleta, Análise e Relato de Dados para Apoio ao Estudante",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "612b42d7-54b0-4255-b576-ec69e53fed05:name",
+    "message": "Documentação de Dados e Gestão de Metadados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6bfe6b84-cd66-4ac3-a1bb-a650f58d6913:name",
+    "message": "Engenharia de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5695b42-d556-4983-8af4-04ef0ab0d825:name",
+    "message": "Engenharia de Dados para Aplicações Farmacêuticas",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57e12e76-44ee-4342-9ad2-db14a3d2cc2e:name",
+    "message": "Entrada de Dados e Gestão de Bases de Dados",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce179368-c592-4351-9bfa-1603673d6658:name",
+    "message": "Ética dos Dados e Análise Responsável",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6bd41195-9923-45f4-ba28-d726846fcaf2:name",
+    "message": "Governança de Dados e Ética",
+    "metadata": null,
+    "status": "success"
+  }
+]

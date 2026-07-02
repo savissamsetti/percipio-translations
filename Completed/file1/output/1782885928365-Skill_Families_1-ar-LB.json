@@ -1,0 +1,3002 @@
+[
+  {
+    "messageId": "30031be3-a045-4be5-a578-710556d316c0:name",
+    "message": "@RISK",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f375a5b9-be97-414c-ade2-c647901c56b1:name",
+    "message": "نمذجة ثلاثية الأبعاد والمحاكاة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a226f54-6345-4cfd-b4a5-bf75eb00bf04:name",
+    "message": "معايير 3GPP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "efe3fe0b-3955-4da3-8da9-95e5fb112a9c:name",
+    "message": "تقنيات الشبكات 5G و 6G",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4f3a3a3d-1ffc-4faf-acb3-e8bc09a031ba:name",
+    "message": "5G NR (الراديو الجديد)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5f052d7-8ed9-4f82-ad8e-74caedec3c7a:name",
+    "message": "طبقة بروتوكول 5G NR",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cbcc528a-304e-495e-9c12-feecb24ca497:name",
+    "message": "AAC (ترميز الصوت المتقدم)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d40b957f-78f1-4782-a8bc-23627a9d45d7:name",
+    "message": "أباپ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8882e5b-6075-46de-be65-53175a6416bd:name",
+    "message": "أباكوس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "02ad0231-cf1b-4f70-8eba-f1e502c758e5:name",
+    "message": "تقنيات الإرشاد الأكاديمي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "437b4b9c-6de8-4be2-9443-5d985cc8508e:name",
+    "message": "إدارة الوصول وإدارة الهوية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fba9ab9e-13ca-488f-86d8-03dd26dcad1e:name",
+    "message": "الوصولية والتصميم الشامل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "750e5462-5cad-4206-ac1d-f24337032746:name",
+    "message": "الوصولية والتصميم الشامل للحكومة الرقمية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7ad67a1d-d973-4ce1-b0b5-bd2fa3059ae5:name",
+    "message": "إدارة الحسابات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ada114ad-aaf8-4640-a5cd-a41661f1f883:name",
+    "message": "إدارة الحسابات (BOS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "91c4a2bb-e2b1-4068-9179-39e4f9f3b10b:name",
+    "message": "المسؤولية وإدارة الأداء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "14382b89-66db-4630-ab9a-1919c43c04d8:name",
+    "message": "المحاسبة والمسك الدفاتري",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "42d56e01-8625-4e3d-9b88-3a05d4302900:name",
+    "message": "إدارة تسوية الحسابات والإغلاق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "73e78f00-9ea3-4ba1-966b-b1ec2ee3b3bf:name",
+    "message": "إدارة الاعتماد والشهادات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e004a984-45d9-46d5-b6bf-608ef8cd0357:name",
+    "message": "عمليات الاعتماد والمعايير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "42ed424c-ecbf-48a0-a81b-5138aeaa2066:name",
+    "message": "ACI Worldwide",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0c3570f-283d-4b57-9f1b-a471cc1a2cf3:name",
+    "message": "حلول بطاقات الدفع من ACI Worldwide",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3c32f16c-6f44-425b-939b-c71467d40b7f:name",
+    "message": "تحليلات ACL",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a283a7a0-5ef4-4d42-8964-77c5f75e0611:name",
+    "message": "تحليلات ACL (غالڤانيز)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "966dd18d-e6ba-42d3-87d2-f719b175b3ae:name",
+    "message": "الصوتيات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "874994b2-2f46-4142-b987-371601a95d4e:name",
+    "message": "أكتيفو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1a97cbbe-82aa-4a31-8d94-ede0fb297b61:name",
+    "message": "أكتيميز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0265946f-ada0-45f9-ba0c-ba7272d50af3:name",
+    "message": "إدارة الاحتيال من أكتيميز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "248cb500-e4dd-4a0c-8f99-b7b7b25a4649:name",
+    "message": "الاستماع النشط",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ec590bcc-3328-4250-96f5-37c1717f216f:name",
+    "message": "مدير المخاطر النشط (ARM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "370a7265-fca7-4927-a598-793a1f6a6c16:name",
+    "message": "ActiveCampaign",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "395264b8-883c-4f52-91c5-531c6444cbec:name",
+    "message": "آدا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "34dc3c97-64a0-4d45-8039-2ee39f3caaa1:name",
+    "message": "تشكيل الشعاع التكيفي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f28f3bb0-c3bd-4369-bd09-ff27a5e88fe5:name",
+    "message": "إطار تطوير التطبيقات (ADF)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "507ae085-0011-4f30-9998-9950b053a16d:name",
+    "message": "الالتصاق والمواد اللاصقة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0a7a4b13-732c-4ae6-b60f-062c1199f3c4:name",
+    "message": "أدوبي أكروبات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "de73578f-01d5-4a0b-b7f3-5f8175c044d0:name",
+    "message": "أدوبي أكروبات برو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa2800e3-567a-4ae5-8c70-73b762c38195:name",
+    "message": "Adobe Advertising Cloud",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "77fa8b4e-7a77-4996-8ddf-26b63d062c8a:name",
+    "message": "أدوبي أفتر إفكتس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c1a007d8-5d91-4e2f-8403-f3edc1560543:name",
+    "message": "Adobe Analytics",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e274e05-fb82-450f-a108-5c6ecd7a6138:name",
+    "message": "أدوبي كابتيفيت",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "70ee8ee0-ea32-4f87-811d-6d86112c0de8:name",
+    "message": "Adobe Creative Suite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1796c683-4c56-4fd7-8491-854dd6edf0e5:name",
+    "message": "Adobe Experience Manager",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bb7da1c9-cbc9-40b4-966b-3b0b47c1f35e:name",
+    "message": "Adobe Experience Manager (AEM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "325bc715-07dd-44d1-8111-2c9cd71dc494:name",
+    "message": "منصة Adobe Experience",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0f7ae281-0913-47a4-b2ab-ec25380bd052:name",
+    "message": "أدوبي إليستريتور",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d05e81d6-a909-4877-a15e-8dc5098d00cf:name",
+    "message": "أدوبي إنديزاين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "183d4c8e-8e78-4f37-b2ba-148fa55b3a8a:name",
+    "message": "أدوبي لايت روم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9c57e5e2-6d1c-46ca-abf9-b2e663f9a4d7:name",
+    "message": "أدوبي فوتوشوب",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8c4da914-44bc-4596-b205-37146c2593d7:name",
+    "message": "أدوبي بريمير برو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d01683b7-04a2-41b1-a719-771f72b2b14c:name",
+    "message": "Adobe Sign",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "31697613-0224-4d67-b073-781f1f3d4e54:name",
+    "message": "أدوبي XD",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55714afa-7412-4a85-b7ad-c8f457608b5d:name",
+    "message": "ADP GlobalView HCM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ff8cc43e-61ab-411e-ba88-14af27b3e9e1:name",
+    "message": "ADP Workforce Now",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c27640e3-edec-4ade-b117-f08dcc9f5478:name",
+    "message": "تقنيات التحليل المتقدمة والأجهزة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f8d1fe7a-df5a-42f8-ace9-c5ae34425090:name",
+    "message": "التحليلات المتقدمة والصيانة التنبؤية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ac2f8b7c-4320-4679-849a-48c2f227e7ff:name",
+    "message": "تحليلات البيانات المتقدمة للبناء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "27cf8a04-829e-4ed5-b2bc-51b036ae34b4:name",
+    "message": "نظام التصميم المتقدم (ADS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3404b72-d87f-4bb3-9f5d-a44337baa149:name",
+    "message": "إكسل المتقدم لتحليل البيانات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7cc8a59a-a9b0-4720-8e9c-52c24ee9b921:name",
+    "message": "رياضيات متقدمة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0449d453-4bee-45e4-992d-55c1605acf8f:name",
+    "message": "معالجة حالات الأحداث السلبية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "329fcfd6-a041-42a2-891e-a4a8dddfdb1d:name",
+    "message": "استراتيجية الإعلان وتنفيذها",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab77dd25-5aeb-4a76-bcd6-cea834572244:name",
+    "message": "Adyen",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "876febfd-44ad-41f8-a689-94788469b03d:name",
+    "message": "أفيكتيفا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7beb611b-bdd4-42d7-a950-02b1c17cc665:name",
+    "message": "AGi32",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a7f21c1-ab15-44ed-8418-c707d031a6db:name",
+    "message": "إدارة المشاريع الرشيقة والتكرارية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef92ccb5-334d-485e-adcc-410fb5f1e4e3:name",
+    "message": "ممارسات الأجايل واللين لدوفس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a0c04d5b-468e-4638-8879-46bd4c7776a4:name",
+    "message": "إدارة المنتجات الرشيقة والمرنة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "33de9e5a-b87d-489e-be18-3cc8ca88e463:name",
+    "message": "ممارسات التحول الرشيق واللين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ebb1a39-8526-41b5-a492-923db8cb72de:name",
+    "message": "ممارسات تطوير البرمجيات المرنة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "484ee27f-b56e-4382-99f6-18cdf68e1edd:name",
+    "message": "إدارة عقود Agiloft",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2e443d94-3788-40e2-84d5-0ad3666f140b:name",
+    "message": "مجموعة إدارة العقود Agiloft",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b7d3f292-85dd-4caa-a112-b3c91291d6ae:name",
+    "message": "علوم البيانات الزراعية والتحليلات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "67527e44-f51c-4443-9e02-e6790b01b3d6:name",
+    "message": "أمان وخصوصية البيانات الزراعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ec197f0f-37d3-417f-9b6a-42e13757199c:name",
+    "message": "أنظمة تشغيل ومراقبة المعدات الزراعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ce4a6fb-e130-4d66-85e5-8ee83f68e002:name",
+    "message": "تشغيل وصيانة المعدات الزراعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e5b10e0-5025-4b0f-8589-572bca48d8a7:name",
+    "message": "تصميم وهندسة الآلات الزراعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d90ecac0-d314-4946-89ac-df1368321202:name",
+    "message": "اختبار الآلات الزراعية وضمان الجودة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4d39dd74-a7a1-4820-ad1e-81399566eb15:name",
+    "message": "هندسة الروبوتات والزراعة الآلية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "46587013-7f59-403c-80df-58e53e156350:name",
+    "message": "تكامل الأنظمة الزراعية والتشغيل البيني",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f1dc4297-8570-4179-9d96-48d9061313b0:name",
+    "message": "إدارة مشاريع التكنولوجيا الزراعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ddd85bd-6262-446c-b929-4c23aa2a2117:name",
+    "message": "تدريب ودعم تكنولوجيا الزراعة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b341fb3-9b73-491d-af3a-3e49523bdba5:name",
+    "message": "تحليل البيانات الزراعية ودعم اتخاذ القرار",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2aa0874a-544c-43d8-9d4e-1db834422460:name",
+    "message": "آها!",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b2702fd9-dc95-4c08-8f9b-9fa4f20c1df0:name",
+    "message": "Ahrefs",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3d22edb3-eae7-4c0e-bea4-62396ad08362:name",
+    "message": "عملاء الذكاء الاصطناعي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b430fc2-3073-41bc-9f30-139e695b3df4:name",
+    "message": "أخلاقيات الذكاء الاصطناعي والذكاء الاصطناعي المسؤول",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29051431-9b48-4f8e-85ea-7848ace437a1:name",
+    "message": "أخلاقيات الذكاء الاصطناعي والأتمتة المسؤولة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ff7dcd9c-0973-408c-98fd-d29b9b999d4b:name",
+    "message": "AI Fairness 360 (AIF360)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bb99257f-ddea-4340-b722-2f360f71da67:name",
+    "message": "نشر نموذج الذكاء الاصطناعي وتشغيله",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "be628cc4-b184-4ec0-9ca9-dedd4f713f68:name",
+    "message": "إدارة المشاريع بالذكاء الاصطناعي والتعاون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6843b51e-10e3-4b92-957e-44f109d721f9:name",
+    "message": "البحث والابتكار في الذكاء الاصطناعي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7ca04171-dadb-4fd5-910f-9ebdaa014068:name",
+    "message": "تصميم واكتشاف الأدوية المدعوم بالذكاء الاصطناعي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "926aaa4e-1412-434c-8918-cd0bb3b8031a:name",
+    "message": "أدوات إدارة المشاريع المدفوعة بالذكاء الاصطناعي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57b307c2-98fa-49d6-8b32-b6e2ea55c454:name",
+    "message": "AIR Worldwide Touchstone Re",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b2e6fa9f-9931-40b2-91ca-9a85cbf128ac:name",
+    "message": "تكامل أنظمة الطائرات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29e1f6c6-b0dc-48a8-8c4b-92ecdb2dcda8:name",
+    "message": "AirMagnet Survey",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4dbb5da7-f0aa-4a55-b5ba-cd6d61a58df6:name",
+    "message": "تطوير أجاكس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae664556-297b-4624-91cf-39d119c0ae31:name",
+    "message": "أكّا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "89199864-d42f-47b3-a67b-77c8b99ef5cd:name",
+    "message": "علاء الدين من بلاك روك",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3ac8997-2b55-43e9-9f25-c5234aa5af6a:name",
+    "message": "ألايشن",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b951e6cd-6966-4d72-9045-4b29ab1a6674:name",
+    "message": "الهياكل الجبرية في علوم الكمبيوتر النظرية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0e3a1373-674a-4e55-84ad-c91dddc1408a:name",
+    "message": "تصميم وتحليل الخوارزميات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c7dc8e63-4e87-45b9-8f98-21307bba0279:name",
+    "message": "الخوارزميات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "50b42032-bc22-48da-b5c6-a4d93ec3d39c:name",
+    "message": "أولباوند",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c6909831-5ad8-4c34-8985-8391a19719eb:name",
+    "message": "برمجة PLC من Allen-Bradley",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bd1e2544-1d89-4ca7-ab76-6a144205a24d:name",
+    "message": "إدارة الحساسية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5dd6e039-fb38-46af-9047-7c341e6aa689:name",
+    "message": "تحليل الاستثمارات البديلة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45dce9b2-0a1e-4ffa-88ce-c4718d7f3d3a:name",
+    "message": "ألتركس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bcb8ccda-0d3a-40a4-8b1a-c90bee25e481:name",
+    "message": "ألتيم ديزاينر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "472af3a9-2376-486c-bdbe-e443c1d15e64:name",
+    "message": "مجموعة مهارات أمازون أليكسا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "830a72c8-c24d-4174-9a05-d5060d5b61b0:name",
+    "message": "أمازون كلاود ووتش",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b39c24a-e33f-4918-ae69-bae9164182de:name",
+    "message": "أمازون EMR",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7148b1d8-0b7b-460e-83bc-0772eb701f39:name",
+    "message": "أمازون ليكس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "83776c01-4d55-4052-a03a-280366b5cbea:name",
+    "message": "أمازون مانجيد بلوكتشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7727dfd3-922f-4d0a-8950-70897f8805b7:name",
+    "message": "أمازون نبتون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2b24c61b-3df2-4663-b5c5-715b69a1c2c7:name",
+    "message": "أمازون S3",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ad3a003-8665-4383-8afd-8bc9c86765d7:name",
+    "message": "أمازون ويب Services (AWS )",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "678c53ee-aab7-48c4-aa9e-239d1bf95000:name",
+    "message": "طريق العنبر (اللي صار جزء من E2open)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7321c236-1386-410b-9cd6-36213fb4e106:name",
+    "message": "نظام إدارة الطيف من أمدوكس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b804e42d-88d7-4926-a521-6fbd001704d7:name",
+    "message": "مدير مكافحة غسل الأموال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "59cdc568-9c57-494e-a6be-9b3c7381e740:name",
+    "message": "AML360",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b289a131-66ca-4dfe-8786-8f52f9e5fa6a:name",
+    "message": "AMPL",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7628173e-6a90-4ea8-b8a7-412aa31763cb:name",
+    "message": "السعة الموجية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f368285-babf-4b7d-ad3a-76b1dad60053:name",
+    "message": "تصميم الدوائر التناظرية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22324b5c-7ced-47e5-aaed-13b7efbf1bb6:name",
+    "message": "الكيمياء التحليلية ومراقبة الجودة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fef73ad1-3bb1-4da2-9cbb-107ff907ec54:name",
+    "message": "التقارير التحليلية والتوثيق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d9947b24-fda2-4a47-8fea-ab6220d4b99b:name",
+    "message": "الاختبارات التحليلية وتقنيات المختبر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9a42bdfa-7887-48bb-80e3-6789f3f358b6:name",
+    "message": "أدوات التحليل وكفاءة البرمجيات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7467f341-513b-4f23-a0ff-569d2a8d24fe:name",
+    "message": "أنابلان",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "31006cfc-5f65-4811-a2c1-ad9e0b501014:name",
+    "message": "إدارة أداء المبيعات في أنابلان",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b8326fc-7cc0-42ae-9344-ec944403d55d:name",
+    "message": "تخطيط المناطق والحصص في أنابلان",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "edc6c69a-e2a1-4a8b-aa76-49febd32dc19:name",
+    "message": "أناقا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a756bd7-db27-424f-9037-01e8a13495f3:name",
+    "message": "تشريح",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a64b272f-f5f0-43ee-8039-651961eeab04:name",
+    "message": "مرساة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad0a3347-09da-434e-a83f-c1da19d39b4f:name",
+    "message": "أنغولار",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c1ab334b-dc65-413b-8c7e-155d187f5ed0:name",
+    "message": "التعامل مع الحيوانات وإجراء الدراسات الحية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b742769a-6612-4ae0-a3db-821fcaea79bd:name",
+    "message": "تعامل الحيوانات والنقل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "75cd6b3d-7af8-4d70-82c9-44d896a66912:name",
+    "message": "مراقبة صحة الحيوانات والوقاية من الأمراض",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "123a9ca7-6f67-4d6c-a4aa-c068404cb0ec:name",
+    "message": "إدارة تغذية الحيوانات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bb4159ea-9145-4642-9390-f25fe95a3be1:name",
+    "message": "فسيولوجيا الحيوان وسلوكها",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3894ed31-d5d6-40f5-a862-ce5f41a8ab79:name",
+    "message": "رفاهية الحيوانات وتربية أخلاقية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c389a089-a0c5-4e7b-b2b7-f1f596e9760a:name",
+    "message": "الرسوم المتحركة والتأثيرات البصرية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c4de910-ebb9-4e7d-a07d-85586fd0acd6:name",
+    "message": "يزعج",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2c471311-c62f-4007-b8f1-b9ad07e3092a:name",
+    "message": "أداة أنريتسو سايت ماستر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2470738d-a998-4809-befc-7ec888a488f6:name",
+    "message": "أنظمة مراقبة الطيف من أنريتسو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1834e73e-e7f4-4adc-a33f-91bf20336d8a:name",
+    "message": "أنسبل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cdbab443-1ea5-46a2-8b79-7ea2024af2e6:name",
+    "message": "أنسيس أكوا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0d5e948-ce96-4e2f-82ee-88a75ee4b83f:name",
+    "message": "ANSYS Fluent",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d827f20e-b21a-4eaf-bcdd-684f99517eff:name",
+    "message": "ANSYS HFSS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0291a8f2-cc9f-4ee7-b4a9-9c771b26212c:name",
+    "message": "أنسيس ميكانيكال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5635c60d-9257-4497-a45b-05269a3e28ba:name",
+    "message": "أنسيس توين بيلدر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "69a8d865-e37e-4c5e-87fb-44a7579492f2:name",
+    "message": "ANSYS Twin Builder",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "72c01228-643b-441b-9684-846845d44f28:name",
+    "message": "تصميم الهوائيات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "197bde50-63e7-4658-80f9-8ca22bbfb76a:name",
+    "message": "قياس واختبار الهوائيات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e66673af-219c-4394-b29c-a1b0a34bd068:name",
+    "message": "عمليات مكافحة غسل الأموال (AML) ومعرفة عميلك (KYC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e494b14d-748b-4566-819c-06f01efd3882:name",
+    "message": "امتثال مكافحة غسل الأموال وتمويل الإرهاب",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c04dc6b4-dfab-47fe-b28a-82c155119ffa:name",
+    "message": "أي لوجيك",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9c86308-630b-4421-bcc6-876504d5de9b:name",
+    "message": "AnyLogistix",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f60d4b5e-db95-4e0a-a207-f6b8c25205f6:name",
+    "message": "أباتشي إيرفلو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb2a91f9-1e48-4389-8e41-220d375679a5:name",
+    "message": "أباتشي أطلس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "559267c0-c678-4fd8-b3a9-9e6fed251d4f:name",
+    "message": "أباتشي كاميل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22099452-12db-440c-9e89-c8d85ee333ee:name",
+    "message": "أباتشي كاساندرا وقواعد بيانات NoSQL",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "21458a1e-b927-4fd6-aeaa-c0e13473e4eb:name",
+    "message": "Apache Commons Text",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c7036852-bc94-40f7-9413-7b066b3e2c01:name",
+    "message": "Apache cTAKES",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8b0d5395-8978-433b-a755-dd6bbd7048e4:name",
+    "message": "أباتشي غريفين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "34c139f0-bb87-407b-9be7-34c85707c243:name",
+    "message": "أباتشي هادوب",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef14462c-c110-49bf-a8e6-f6825482930d:name",
+    "message": "أباتشي إتش بيز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "edf6bd74-5fea-4a46-a6b3-42b2a10e9b99:name",
+    "message": "خادم HTTP Apache",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9b0dde92-4a15-44ad-9d85-32e4846afbb5:name",
+    "message": "أباتشي جينا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bed11612-38db-4e8d-9c93-6e9f87290d72:name",
+    "message": "أباتشي جيمتر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8518128a-d1d9-4550-b7cd-34bd1fa5ec6a:name",
+    "message": "أباتشي كافكا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c424542e-2758-4b5c-b10c-262f3746b1b7:name",
+    "message": "أباتشي كافكا وتدفق البيانات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "798cab35-2357-471d-9da5-858754875b70:name",
+    "message": "أباتشي نيفي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b567aaa2-56d2-4352-a713-0883073af851:name",
+    "message": "أباتشي سولر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5feb4c62-e01a-46a6-b230-c87d3304ddcd:name",
+    "message": "أباتشي سبارك",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "56260ca8-b5ea-4c76-87ad-ea7359f442c7:name",
+    "message": "Apache Spark MLlib",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fcc6f794-cd0e-457c-b61e-e4984102d7ad:name",
+    "message": "أباتشي تنكر بوب",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b064fa9e-7c98-4921-baab-54ff9d23aac2:name",
+    "message": "اختبار واجهة البرمجة والتكامل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "24ac5ad9-1395-44c6-b8a8-c9ec709d9cf5:name",
+    "message": "تصميم وتطوير واجهات برمجة التطبيقات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "65cdb970-59df-4dc3-aa90-9b0849065376:name",
+    "message": "تصميم واجهات برمجة التطبيقات ودمجها للخدمات المالية Services ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "874a1bcf-83c0-46a3-ac4c-cff8930ecca5:name",
+    "message": "تطوير واجهات البرمجة والتكامل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "48107f8d-e69e-4669-9c88-47067a528bf0:name",
+    "message": "إدارة وتصميم واجهات برمجة التطبيقات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "15ec996d-74a8-4131-afff-624970507944:name",
+    "message": "إدارة وتطوير واجهات برمجة التطبيقات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ef14b69-25ac-44fc-bb1b-af5e5faf1dd8:name",
+    "message": "أمان واجهة برمجة التطبيقات وإدارتها",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fff615b9-c8d5-4dbb-a24c-d4377f8b2559:name",
+    "message": "أبيجي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2eff74f0-b291-49f2-b036-7f25729a5058:name",
+    "message": "أب دايناميكس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0445b0c8-0a18-465f-9d31-648ae027c0cd:name",
+    "message": "أبيوم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5dec1da9-69da-4270-aca5-be9ae41474f2:name",
+    "message": "Apple HealthKit",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4cd6d4ce-d4b9-48ad-bde3-e7c9121634b3:name",
+    "message": "Apple كينوت",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a8f5cc1-6383-4670-8727-6a15e7af87b8:name",
+    "message": "أمان التطبيقات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e2de69f-2cc5-4d39-b4b2-2f19c8397747:name",
+    "message": "تصميم أنظمة الاستزراع المائي وإدارة البنية التحتية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "527398fe-b406-4ac0-a666-6f378a524317:name",
+    "message": "الدلو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f0d73ed1-09e7-4c62-bb3f-221b07b73233:name",
+    "message": "علم الأحياء المائية وإدارة الأنواع",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f653adae-94ea-4250-888b-27fe3b69c596:name",
+    "message": "أراجون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96a05e4c-572b-40cd-b9e8-4ff102f07676:name",
+    "message": "أرافو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ebf7841c-cc25-4d0a-ba60-4d3549a24509:name",
+    "message": "ArcGIS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "553488e8-b5a0-4d8c-a848-5bc782801b19:name",
+    "message": "Archer (RSA Archer Suite)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce49b3c0-6331-4e59-a309-41b878cb1f97:name",
+    "message": "أرتشي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "af353407-07a8-4bf6-be4c-7abd2a2e985a:name",
+    "message": "أركيبوس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8eedacbb-b989-4514-9b63-6b832c12b165:name",
+    "message": "أركيمايت",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9850db6d-1658-4ecb-acbd-857d6485e564:name",
+    "message": "تصميم معماري",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "94c8047b-42b7-41b4-8105-27f8b92e8d4b:name",
+    "message": "إدارة مخاطر العمارة والأمن",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b7cd259-26bd-4b5c-b10c-99088511716a:name",
+    "message": "إدارة الأرشيف",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc0ca034-b586-405a-944d-8fd50f321f14:name",
+    "message": "مدير أمن المؤسسات ArcSight",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "682f1c19-5164-4684-a1f0-7f2c4e829784:name",
+    "message": "أردوينو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9431570f-2dce-40e1-aebf-8ce6f1baf9ea:name",
+    "message": "Arduino IDE",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "620443a4-480a-4862-9fe4-60bd46f15449:name",
+    "message": "محاكاة الساحة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d204eb75-86c4-418f-99a9-d39b40157667:name",
+    "message": "أرجوس سيفتي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5a656d53-2625-4f01-a7cd-7f9aa1329405:name",
+    "message": "أريس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9d3d4909-60c9-476a-9ae3-8a2a72b0520d:name",
+    "message": "أريس جي آر سي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "570601d9-df71-4c2e-aaf0-17387deac8bb:name",
+    "message": "ARISg",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "12d9b5f1-4766-4946-bb24-8ffc77398834:name",
+    "message": "معيار واجهة برمجيات المتحكمات الدقيقة ARM Cortex (CMSIS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "965aa02d-4178-42a7-bb06-89a1d2b29652:name",
+    "message": "ARM Keil MDK",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf3cb7e1-b7fb-4425-bf76-367d1686877a:name",
+    "message": "ARM NEON",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fce972d1-f7bb-4816-a11c-557ac15cb55d:name",
+    "message": "Articulate 360",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9a05a6e7-8404-49bb-b1be-0b74dc98aa42:name",
+    "message": "أرتيكوليت ستوريلاين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "26a52a93-b371-4684-8e5a-827177aaed91:name",
+    "message": "التعامل مع القطع الأثرية وتخزينها",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f783563-54b7-42e2-88e7-30f5b9c57f11:name",
+    "message": "الذكاء الاصطناعي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "af6068e6-28f3-492e-9120-c576b48ccb98:name",
+    "message": "تطبيقات الذكاء الاصطناعي وتعلم الآلة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "52ac5145-f949-4c3e-b9d0-13cabb3d47a5:name",
+    "message": "تطبيقات الذكاء الاصطناعي وتعلم الآلة للتحول الرقمي والأتمتة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1848ae28-6053-4ae7-beee-3fb49b3c43be:name",
+    "message": "تطبيقات الذكاء الاصطناعي وتعلم الآلة للتقنيات الناشئة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca130276-3ba9-4b8b-8bea-bd39362d07a9:name",
+    "message": "تطبيقات الذكاء الاصطناعي وتعلم الآلة للتقنيات الناشئة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d9e59ba8-6ebb-4589-8bc6-276edb09da46:name",
+    "message": "تطبيقات الذكاء الاصطناعي وتعلم الآلة في المالية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b72ee2d8-517d-4bc9-ba29-2ec37a536bf4:name",
+    "message": "دمج الذكاء الاصطناعي وتعلم الآلة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "853953c2-f704-476f-aa16-7163294a87cd:name",
+    "message": "تطوير الذكاء الاصطناعي للرعاية الصحية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00739b8a-f4c3-4571-abd8-d1d6dc74d6da:name",
+    "message": "دمج الذكاء الاصطناعي في التقنيات الناشئة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "11543c01-57fe-4bfa-93f5-1a982566df97:name",
+    "message": "التوجيه الفني والقيادة الإبداعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eeb57893-ccb3-40f1-b8e9-da6d80b597c8:name",
+    "message": "أسانا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b6f5084a-1577-4d1c-89c5-bce420a716bf:name",
+    "message": "ASP.NET Core",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e0885f8-7813-4e59-8f20-3d7ae8ad1d29:name",
+    "message": "أسبن بلس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e447b841-86e0-49f6-8980-96fb85b4e6cd:name",
+    "message": "برمجة لغة التجميع",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d20dd67b-1973-4ccc-8f74-40e0c43bcdbc:name",
+    "message": "امتثال الموافقة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00e0b1de-1de2-47d6-86f5-b2804a4352af:name",
+    "message": "إدارة وتوصيل التقييم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e57e1484-6914-4c31-bf11-3682c99fd432:name",
+    "message": "تقييم وتقدير كفاءات التدريس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "acba10e6-cb82-4862-b915-400239c9e12b:name",
+    "message": "تصميم وتطوير التقييم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f0ac225b-4146-4cf7-9338-a5771be85a6f:name",
+    "message": "تصميم وتقييم الأداء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "040efcf7-8756-4762-8060-3d6a078c8b38:name",
+    "message": "تكنولوجيا التقييم والتقييم الرقمي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9edf7ae0-bc1a-414c-9d7e-92c326eef54d:name",
+    "message": "إدارة الأصول والمخزون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "897bf224-70aa-4c76-a199-3d509bb2563b:name",
+    "message": "فحص الأصول وتقييم الحالة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "593645d9-f12d-4981-adb7-c51aab1a90f3:name",
+    "message": "إدارة أداء الأصول",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bfbb26bb-93dc-41dc-a4fc-1ab27a5efe87:name",
+    "message": "تحديد وتطوير مواهب الرياضيين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "517b552f-a1af-4ec0-af60-90b0d9cbc64e:name",
+    "message": "تدريب الرياضيين واللياقة البدنية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2b7d7447-5c3c-40d1-b1de-7dad622f3258:name",
+    "message": "أطلس.تي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3c7c5cf2-d42c-45c3-984a-7800f94c9ea0:name",
+    "message": "أطلسيان جيرا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22c7c448-d7f0-4f19-851e-b7d69d35ef31:name",
+    "message": "أتول",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3ad036d8-b4a2-4353-8bee-e63a7be347e3:name",
+    "message": "ذرة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ad4c824-19c7-4da1-9cc2-30a52b9cf144:name",
+    "message": "أتوم وايز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "92cf7274-38c5-493d-8c8d-03e50e4326c9:name",
+    "message": "التزامات التوثيق المتعلقة بخدمات التوثيق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3764a8b9-241f-4cfb-8e02-9b89f5bdfa2d:name",
+    "message": "تفاعل الجمهور والتسويق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a62abed-c066-45c6-9580-86f24f74a617:name",
+    "message": "ضغط الصوت الرقمي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "71cd5819-5193-4c30-a93c-2b32a38958c0:name",
+    "message": "إدارة التدقيق والامتثال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4eeea8e6-0990-46d5-9a59-323b3429b604:name",
+    "message": "إدارة التدقيق والتفتيش",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "afd45441-decb-4604-8914-962dc5c51612:name",
+    "message": "التدقيق والرقابة الداخلية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f2c6c32-cde8-452d-92d5-43df3f0ffe29:name",
+    "message": "لجنة التدقيق ودعم المجلس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "28c5200e-1788-4b22-a382-5a56da2dc737:name",
+    "message": "تنسيق ودعم التدقيق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e2a9199c-1c57-44e7-a2d6-051960c2e3ca:name",
+    "message": "تخطيط وإدارة التدقيق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1d68ec17-3830-469c-bbca-d4a4be403e2a:name",
+    "message": "أوديت بورد",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d74c7de-44de-4d75-a283-23f56019d64b:name",
+    "message": "Auth0",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8617a32d-8371-40ff-8c8d-7513ce58d45a:name",
+    "message": "أوتوكاد",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "42b1b3dc-8ae3-4987-ac68-6b0fe30c4170:name",
+    "message": "أوتوكاد كهربائي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cc12a505-963d-4154-bf5a-dff64dc3df52:name",
+    "message": "أوتوديسك بي آي إم 360",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4a43023-b2d2-4f7b-9a00-988eb0bd0b6b:name",
+    "message": "أوتوديسك مايا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5bd45281-d931-462a-9994-147cfdd4184f:name",
+    "message": "أوتوديسك ريفيت",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ca6a78f-8106-497e-a458-0d28e920403b:name",
+    "message": "أوتودوك",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1a82bc2d-f56e-4d62-bf09-7ccf55f8da0e:name",
+    "message": "تشغيل الآلات الزراعية الآلية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4ddd0d6-0d75-404c-9e75-a0095788ad0f:name",
+    "message": "الاختبار الآلي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b6574bd4-1e51-4bd3-93ef-7c5e7f41a31d:name",
+    "message": "الأتمتة وأنظمة إدارة معلومات المختبرات (LIMS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "23c76e06-24ea-468d-8af8-ba5ad22adcd2:name",
+    "message": "الأتمتة والتنظيم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "79ea1c2f-a70f-4952-a78a-6a2f7f0e343e:name",
+    "message": "الأتمتة وأتمتة العمليات الروبوتية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc081496-e9d5-4822-acef-c67a43bcb872:name",
+    "message": "الأتمتة والروبوتات في الآلات الزراعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ac06019f-be5d-4f47-b519-c3e566673195:name",
+    "message": "الأتمتة والروبوتات في العمليات الإبداعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1a6a2b3f-0398-40ad-8e9d-6eb02ddb88c2:name",
+    "message": "الأتمتة والبرمجة لعمليات الشبكة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb5b2446-7fa8-41ae-af64-0b834fe87141:name",
+    "message": "أوتوميشن أينوير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "18158f76-3ea5-408b-a866-878894d87912:name",
+    "message": "الأتمتة في ضمان الجودة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "23b4f42c-5191-482c-bae5-cefec25ac4e7:name",
+    "message": "برمجيات الأتمتة وأنظمة التحكم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bd779002-84fc-40c9-884f-ba066461e75b:name",
+    "message": "برمجة وتكوين أنظمة الأتمتة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0f38f687-bad0-4914-a2f4-037bc0a616e4:name",
+    "message": "تقنيات الأتمتة والروبوتات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e593815d-30b0-499d-aa63-e4b2888f312c:name",
+    "message": "AVEVA نظام المنصة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "10990a27-65ef-45c1-a9b9-a52065ef8e0e:name",
+    "message": "أفيد ميديا كومبوزر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a53875d-9702-45c8-98c8-97411079877c:name",
+    "message": "تكنولوجيا الطيران الإلكتروني",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30e4bbf9-a3aa-4d7d-a31d-af8b4d7d45d4:name",
+    "message": "AWS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ec3337f8-75e3-4933-98cc-fe04614a328f:name",
+    "message": "AWS بوابة API",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c892f13b-4f29-4fe7-b0dc-dffe120211ad:name",
+    "message": "AWS عنصر أثر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7568395f-489e-420a-a5a1-e1ee23eab738:name",
+    "message": "AWS النسخ الاحتياطي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a42e071-63c1-491b-8d8b-0a3b3939748b:name",
+    "message": "AWS CloudFormation",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "932f6669-35f6-428e-b721-3ea2fb04b3d6:name",
+    "message": "AWS كلاود ووتش",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bd1a407d-bd51-4b93-9aa7-ec2ba1442ba9:name",
+    "message": "AWS تكوين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3592d5de-23f3-4a7f-8b83-3a36249acc87:name",
+    "message": "AWS مستكشف التكاليف",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f629b53f-7632-42ee-bed8-291101056c96:name",
+    "message": "AWS توازن الحمل المرن",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "448316e1-f408-4989-b8e0-97b1f6fc6930:name",
+    "message": "AWS إدارة الهوية والوصول (IAM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3441005-2f96-4112-8949-ba23b7fab6ef:name",
+    "message": "AWS إنترنت الأشياء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "86646550-1ce1-4dee-9a33-8cdde742aec2:name",
+    "message": "AWS نواة إنترنت الأشياء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09799ec8-b8b4-4746-8470-ab37f623a692:name",
+    "message": "AWS إنترنت الأشياء Greengrass",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "53598dec-1845-4b3e-a755-c3bdf7a1ded3:name",
+    "message": "AWS لامبدا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a90baf27-cd4a-4ad5-8d23-e0b9ce99e4b9:name",
+    "message": "AWS مركز الهجرة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "811b5db8-b983-405d-836d-f6e272b684a1:name",
+    "message": "AWS أمان",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6ea92112-26de-40ec-a177-dc6b81616b8d:name",
+    "message": "AWS السحابة الخاصة الافتراضية (VPC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f4e2c15-4d9b-401d-81be-5bb94c63d50a:name",
+    "message": "فأس من Deque Systems",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e168aeab-fbfe-4105-ad1e-826213c74335:name",
+    "message": "أكسيُس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "50ddd6a2-baa3-4f0e-b439-f4b55ee5fdbd:name",
+    "message": "Axure RP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6d17d30f-a812-4701-9c4b-add0502b684c:name",
+    "message": "أزور الدليل النشط",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a64b322d-87e3-4fce-9704-4b94e807ec52:name",
+    "message": "إدارة تكاليف أزور والفوترة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "422846c5-4d66-4474-b5c4-55d2add953e8:name",
+    "message": "أزور ديفوبس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fe8d462f-0488-4097-bfde-3d59bc088ad2:name",
+    "message": "أزور آي أو تي إيدج",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aac7c75c-cb20-4a23-b561-18be649cddc2:name",
+    "message": "Azure IoT Hub",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0277a06e-e0a2-418a-9a2b-f917a17e0147:name",
+    "message": "Azure Migrate",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f44040e3-dd5a-4920-bad5-818b30e17e5b:name",
+    "message": "Azure Monitor",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "199fa8f9-170c-425c-a579-290e02b6423c:name",
+    "message": "سياسة Azure",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2a4c8e23-c444-4fde-a66b-e44f46835b13:name",
+    "message": "مركز أمان Azure",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a6495410-a2de-4e93-8cc8-2eea66791d08:name",
+    "message": "استعادة موقع Azure",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f7b2671-d689-441f-8a77-de4019dc3d96:name",
+    "message": "شبكة أزور الافتراضية (VNet)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07487e28-0d4f-4cf3-b3de-6019ba646c93:name",
+    "message": "أتمتة النسخ الاحتياطي، الاستعادة، واستعادة الكوارث",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4aa4121b-3c53-4675-bbc3-2cfa5a948821:name",
+    "message": "بالينا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf19c204-c800-4ff2-a0c5-410dedc548b6:name",
+    "message": "بامبو إتش آر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4fb57985-48f8-4343-9500-d02de3680cfa:name",
+    "message": "أمان البيانات المصرفية والخصوصية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "08f0e5ef-028a-434a-b332-4c77894807d9:name",
+    "message": "تحليلات وتقارير العمليات المصرفية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d54316b2-ba7a-4b98-aaaf-365b8e2c329d:name",
+    "message": "إدارة مشاريع العمليات المصرفية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b558876f-f2ba-4ccf-bd9d-30f66a01b9f0:name",
+    "message": "مدير محفظة بارا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a496a611-8652-42b0-ba0b-86405e667cea:name",
+    "message": "برنامج برمجة علامات للنادل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "359662d1-f2ad-4f42-b9ec-5c0582961a14:name",
+    "message": "بَش",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "65946f62-afed-4064-8d1b-54ee9ce6df15:name",
+    "message": "الإدارة المالية الأساسية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "35c526ba-2a37-4613-ac84-1aeab701abc3:name",
+    "message": "دعم المشروع الأساسي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e74302a-87f8-41c2-ad3d-77a6501330be:name",
+    "message": "إنتاج الدفعات والتوثيق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dc6721f8-375c-4f62-8fbc-9926d9f88f8f:name",
+    "message": "برمجة السكربتات للدفعات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9cbf9ef1-1f38-42fe-84ae-12d3aed1cb91:name",
+    "message": "تغيير السلوك وتشكيل العادات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f4b1faf4-5d72-42ad-aafb-9b46065de9ca:name",
+    "message": "الاقتصاد السلوكي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e55e4463-d3c9-424c-9587-e19b88d22f5e:name",
+    "message": "الاقتصاد السلوكي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4ba2d28-ae95-43a2-bfcb-c91bd53c92b0:name",
+    "message": "تحليل المقارنة والمعايير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f763d7f4-2784-418f-9ef4-1b3aa1c05a61:name",
+    "message": "المعايير القياسية والمقاييس الصناعية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c01ae0ad-6403-4b70-9e51-f07740dcbb12:name",
+    "message": "تقييم وإدارة الفوائد والمخاطر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "152b90a4-3ca7-4f58-9bb3-ec24077b9433:name",
+    "message": "البيانات الضخمة ونظام هادوب",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "922829f7-0a1c-4844-bbc5-62e4f93296bc:name",
+    "message": "إدارة البيانات الكبيرة وحوكمة البيانات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b7c84410-c74a-4596-8194-e650a8fd065b:name",
+    "message": "تكنولوجيا البيانات الضخمة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04f52e89-ed3d-4228-b95b-98638afad83c:name",
+    "message": "BigchainDB",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a5d0a9a-7d21-48e0-a572-af195f6be7e4:name",
+    "message": "BigID",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a7e3717-1fa6-4fb2-a62f-606b0910883f:name",
+    "message": "باينري نينجا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "20a295fb-7b20-46c3-b053-23464486508a:name",
+    "message": "BioBERT",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "40240abe-4ca5-41c3-ab03-eb6b1fabeb20:name",
+    "message": "التحفيز البيولوجي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06e9efef-e83b-477d-b924-ec8eeb70955a:name",
+    "message": "بيوكندكتور",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "649c1fbe-e68c-45d6-bad9-12c799c78d54:name",
+    "message": "حماية وإدارة التنوع البيولوجي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2001d195-1d08-4479-9bf3-2f366398eef8:name",
+    "message": "حماية التنوع البيولوجي واستعادة النظام البيئي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bd1143c8-7e78-46f2-8c0e-ef2be1705133:name",
+    "message": "حماية التنوع البيولوجي والحفاظ على الحياة البرية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ed29258b-39e2-46ff-b4d5-239e83036168:name",
+    "message": "علم المعلوماتية الحيوية وعلم الأحياء الحاسوبي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "acb16315-5ebd-4aea-90cc-eece1532c93c:name",
+    "message": "اكتشاف المؤشرات الحيوية والتحقق منها",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8faa5a03-0241-44a8-8079-fc054e4ff48d:name",
+    "message": "تحويل الطاقة من الكتلة الحيوية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ba44ec8-b753-4193-a2e9-bda5464c3511:name",
+    "message": "تشغيل معدات المختبرات الطبية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8479f0b8-0d8c-47d6-a4c8-df5768b1d519:name",
+    "message": "طرق البحث في الطب الحيوي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5841cf8-05dc-423c-b21c-a18e238a88fd:name",
+    "message": "تطوير الأدوية الحيوية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9ec7ba6-f198-4b03-a218-9671ef61b2c4:name",
+    "message": "بايوبايثون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5d4b15d-4b2b-4cb5-a48f-20297b79d261:name",
+    "message": "الأمن الحيوي وإدارة المخاطر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9b0e5319-cf3f-432a-8e3e-14779a173355:name",
+    "message": "الإحصاء الحيوي وتحليل البيانات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e2ff755a-edb6-48d8-8c4c-37fc64bc2587:name",
+    "message": "الإحصاء الحيوي والتحليل الإحصائي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "861e5509-243c-487b-9cbd-b7e055b9cb5b:name",
+    "message": "بيت باكت",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d56733a9-8322-4a01-ab3d-a5f23075fd12:name",
+    "message": "تصنيفات أمان BitSight",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "acf82d80-c819-4095-a13b-2a8afd7bd1b3:name",
+    "message": "بيزاجي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d364924a-a6dc-4be4-a40e-bcb22ea94f05:name",
+    "message": "بيزابو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a170b0ae-b5d5-49ec-8cd8-7eb63443aef2:name",
+    "message": "بلاك بورد ليرن",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "52aed277-1fca-4cfe-af2e-b0346dd64d4a:name",
+    "message": "بلاك لاين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f2d4e6b-8255-499d-aea9-3fa61d219ae8:name",
+    "message": "انفجار",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ffa44485-8aa5-408f-9c16-0b0bcb89ff45:name",
+    "message": "خلاط",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae7e97e1-09e0-4476-b4fe-1132c653a2f9:name",
+    "message": "تحليلات البلوكشين والمراقبة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "97d307e8-8636-4bcd-a475-b4f2c0479b8a:name",
+    "message": "تقنية البلوكتشين ودفتر السجلات الموزعة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e0a21ffa-d8d9-47f3-8e71-1e8b2538d98b:name",
+    "message": "تصميم وهندسة البلوك تشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e345542d-8b5c-46e0-b294-ca11002de7d8:name",
+    "message": "توثيق البلوكشين والتواصل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1be0174c-a8fd-43b9-91e2-2017821bc0a8:name",
+    "message": "نظام البلوك تشين ومشاركة المجتمع",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "de32be24-f7d7-47d2-8dbf-390b15766d4e:name",
+    "message": "البلوكشين لسلسلة الإمداد في الأدوية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a6c99061-8dec-4b98-b00a-9de230991f1a:name",
+    "message": "نماذج حوكمة البلوكشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef3db827-a494-4db0-b613-a12afd1f248f:name",
+    "message": "تكامل البلوكشين والتشغيل البيني",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58dabe55-835d-4db2-8726-d08efd6c89a2:name",
+    "message": "نشر وتشغيل شبكة البلوكشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0a367d0-7b7b-42f9-9dc2-43ad4550387c:name",
+    "message": "تحسين أداء البلوكشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74724f27-31d7-4b56-9fcf-6394f0782d7f:name",
+    "message": "إدارة وتسليم مشاريع البلوكشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "263c25e0-669c-42da-8e34-066cb8f7ae92:name",
+    "message": "معايير وبروتوكولات البلوكشين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "819471cc-935c-4505-b9da-ce3aadc9203f:name",
+    "message": "اختبار البلوكتشين وضمان الجودة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7ab30e16-1ba8-4dde-9765-19b0ac9cb478:name",
+    "message": "بلوك تشاير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6133e825-3ec1-423c-b84f-ee6e788894d9:name",
+    "message": "بلومبرغ قانون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a16502b8-75f3-43a4-aef6-29fcf6a2af5e:name",
+    "message": "بلومبرغ ترمينال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3f3c2c9-9b34-48af-a3f8-31fca36fe108:name",
+    "message": "بلو بريم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aeac3e77-4708-422d-b541-72da47c80e39:name",
+    "message": "منصة بلو يوندير لومي نيت",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "33cf2f09-f82a-43e5-8b2c-68c4c1ecbdc1:name",
+    "message": "نظام إدارة النقل بلو يوندير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3903f27-7451-44c3-9567-92b78bc3b4ca:name",
+    "message": "إدارة مستودعات بلو يوندير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7089576f-bfc6-4aaa-8a4b-53cde22c973e:name",
+    "message": "نظام إدارة المستودعات بلو يوندير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "757c9788-e20f-43ca-8efa-4b6e24f5b13f:name",
+    "message": "بلوتوث منخفض الطاقة (BLE)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d5b4a242-fa8e-43c9-96ae-0307efccb543:name",
+    "message": "بلو جاي سوليوشنز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d6fc0624-d807-4b0f-a678-f17727040b96:name",
+    "message": "BMC Helix CMDB",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "204908ee-f177-4b58-a774-9731d9ede78e:name",
+    "message": "إدارة التغيير في BMC Remedy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7fe75935-a66a-41bd-96bd-bc22d4190f7f:name",
+    "message": "إدارة خدمات تكنولوجيا المعلومات BMC Remedy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a03a54a6-0b25-4289-afbb-de9154393a66:name",
+    "message": "BMC Remedy ITSM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fbb1b6d5-e7b4-4e70-a634-a28bd5338510:name",
+    "message": "إدارة مستوى الخدمة في BMC Remedy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2e0a0d36-ce75-4700-b08c-bba60e0818a9:name",
+    "message": "BoardEffect",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "36eddc55-64ee-4ee3-a2f7-ed2b2aae873f:name",
+    "message": "بونصلي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c75df043-b2a8-47ec-b4ed-7f8ad19e3ac2:name",
+    "message": "تعزيز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa8312a7-9b6e-4d0a-aef8-1f280d51ed44:name",
+    "message": "Bootstrap",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2be18bee-2a21-44a6-8665-65ea14f6f3f6:name",
+    "message": "قلعة قافزة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "732eac23-a5a0-4d5f-85d6-139b63afe49d:name",
+    "message": "BPMN (نموذج عملية الأعمال والترميز)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f7b7c9e-28b5-4c37-86ee-7ea9f5961ec7:name",
+    "message": "عصف ذهني",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "789ca506-b4a0-474c-8de1-ca1a791f8bf0:name",
+    "message": "بريانتري",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "968ef8c6-5f65-4100-b0b0-c338791399c2:name",
+    "message": "إدارة عمليات الفروع",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0bce12f8-285a-4bf9-8f17-519852ca8adf:name",
+    "message": "استراتيجية العلامة التجارية والتسويق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "64f04bf7-34a4-48a2-a29d-3ca4b5a5e628:name",
+    "message": "إدارة العلامات التجارية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "03cd27e2-ffed-4040-8936-394a54d614a7:name",
+    "message": "لحام بالبرونز",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "180a9334-0812-485d-913f-5a9370b0c8a9:name",
+    "message": "إدارة التربية والوراثة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "847d4fe8-1e54-499e-809a-0c98fd167aa6:name",
+    "message": "عمليات التربية وتفقيس البيض",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "291442e6-dcb7-4e59-83f3-884f96ba5f55:name",
+    "message": "برايت إيديا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "704008b9-b0fb-4203-bfdd-4841c6debeb5:name",
+    "message": "براوزرستاك",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e6ec6cd9-3920-4167-99d6-947eff2a309d:name",
+    "message": "تخطيط الميزانية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d2dffa95-a561-4cb7-aa03-f95bf896a6e9:name",
+    "message": "إدارة الميزانية ومراقبة التكاليف",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30bc54d9-1cb4-409e-92a8-f585d8cbcce7:name",
+    "message": "إدارة الميزانية والمالية للبرامج التعليمية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc24cefd-cbad-46f2-af2c-db6ee4dc9d6c:name",
+    "message": "إدارة الميزانية والمالية لإدارة المرافق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0219c8da-74b1-4ad9-88e2-dc0881993033:name",
+    "message": "مخزن",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e2f8f97-fa6d-4cc8-9cb4-e1d9620911ae:name",
+    "message": "بغزلا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab91f8f6-06c5-4e16-9a9c-83aec60a776c:name",
+    "message": "نمذجة معلومات البناء (BIM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1eb4ce52-d1c6-447a-98fa-e056fe9aa31a:name",
+    "message": "تقنيات نمذجة معلومات البناء (BIM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b7e55a9-7c13-44f5-956e-bdcb7c6811fd:name",
+    "message": "بناء الأمان النفسي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a77ae0c2-327f-42b2-b50b-a09aa296359c:name",
+    "message": "فيزياء الرصاصات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ab70004-137c-4fa1-9fe2-f265e69b862f:name",
+    "message": "أداة إدارة الحزم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09caa763-7997-4fc4-babb-fda131bd1745:name",
+    "message": "Burp Suite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f148c57-2fad-4bf8-94f8-fb3a64d41753:name",
+    "message": "توافق الأعمال وتكنولوجيا المعلومات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b5c2f3e-c432-447c-9134-1ab4b17f0a06:name",
+    "message": "دمج استمرارية الأعمال والامتثال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eceaef3e-3ce4-434c-9d5e-8468b8583a87:name",
+    "message": "تخطيط استمرارية الأعمال واستعادة البيانات بعد الكوارث",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "50fa7997-8542-4880-96ee-1d5eccd2d4b0:name",
+    "message": "تخطيط استمرارية الأعمال واستعادة الكوارث (NSC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4f052040-c234-4e87-a882-ae8b2383b2a9:name",
+    "message": "تخطيط استمرارية الأعمال والمرونة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "254a44f4-2e17-4612-8309-c8dba3c89f50:name",
+    "message": "تخطيط تطوير الأعمال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f81d676-b5f6-4a5f-8427-285e59e0f374:name",
+    "message": "بيئة الأعمال ومعرفة الصناعة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7435b8ad-7727-4939-92d9-76f24af27134:name",
+    "message": "نموذج العمل والقدرة المالية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "308e24ba-1579-49e9-8859-cf5893f8ea2b:name",
+    "message": "تصميم نموذج العمل وقيمة العرض",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9705a49-7785-4cdc-b0c6-5bee33cb4804:name",
+    "message": "ابتكار نموذج العمل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "91c0ce46-865a-4838-baac-003fb7a39b17:name",
+    "message": "تخطيط الأعمال والتنبؤ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c046f07b-6f26-4d20-9942-0a98a4373a14:name",
+    "message": "أتمتة العمليات التجارية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "63939e50-f2e2-4f15-81c6-f4271c5a574d:name",
+    "message": "تقييم وإدارة مخاطر الأعمال",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "33f6038b-2b06-40ce-9ca1-79258ffd37e1:name",
+    "message": "بيزنس واير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22ab74a6-b88b-4061-9666-90ec53a4a5d9:name",
+    "message": "استعادة واستخدام المنتجات الثانوية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dfc28b4f-8655-46e6-aff7-7c14000e7854:name",
+    "message": "C",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "43d4dfe3-f1fb-4efc-9686-244f5cadb7ed:name",
+    "message": "لغة البرمجة C",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "639553c4-2365-4455-a0e8-20c08d358812:name",
+    "message": "C/C++",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58bfbde7-af32-496b-a5dd-7b744bd8e266:name",
+    "message": "C#",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6cb0b59c-e83f-4c73-b86c-b9801e0098b2:name",
+    "message": "برمجة C#",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "410baebe-ac82-4821-bc59-dd94ad2d685f:name",
+    "message": "C++",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6acbb9ad-d887-4920-ba35-9e4c6d6097d3:name",
+    "message": "برمجة C++",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "27a5cae1-1f96-4fc1-9254-ccebdfae3f15:name",
+    "message": "لغة البرمجة C++",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5b94a8a3-0e4b-45d8-949a-b6d4c9fa566d:name",
+    "message": "كادنس فيرتوسو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "912516f9-629b-4979-b4ed-ae69c5289091:name",
+    "message": "تحكم القفص",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3729bf9b-36c9-46f6-83df-ac57dcc8e0af:name",
+    "message": "كالابريو ون",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4807a33-94e3-4968-b0e3-ea520dd57584:name",
+    "message": "معايرة وصيانة معدات مراقبة الجودة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6597f066-4779-4ebf-abf9-73382c11e7f9:name",
+    "message": "كاليبسو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ddda3072-6ed0-48ce-b2e2-969c033865f5:name",
+    "message": "تشغيل الكاميرا والمعدات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2ed9d213-1cbd-4576-aa7a-65d4a852e93f:name",
+    "message": "كامبين مانيتور",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cea311f7-f594-4b1c-aa0b-aec9a97b7726:name",
+    "message": "كامتايزيا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d943df39-8786-4b22-a2d6-f2c56303cbcf:name",
+    "message": "كاموندا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "430cdd0b-9683-4083-bb5a-8c696f3eb6c2:name",
+    "message": "CANoe",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30a917a8-3bdf-47ad-aa5f-51737d970760:name",
+    "message": "Canon EOS Utility",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e399a332-26d8-4da8-800f-43eb25f64344:name",
+    "message": "محجر",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "166e6a88-9680-4d76-8d9b-4cbe46c61958:name",
+    "message": "كانفا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce05944b-d094-43b5-8dc2-8f7ee5f87409:name",
+    "message": "إدارة السعة والأداء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d6280128-834a-4aae-8cf8-a387d10ef149:name",
+    "message": "تخطيط السعة والموارد لإدارة الجودة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e1770b04-96ce-47b0-a533-f912b4d0b844:name",
+    "message": "كابيلا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2f9126a6-0576-42b9-8214-ce8636b31916:name",
+    "message": "تخطيط رأس المال وتمويل المشاريع",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45efc15b-36c8-4eba-a88d-98de55e07d56:name",
+    "message": "كابيتال آي كيو",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e67db9b3-a3c9-4b65-a9b9-cbbbdbb14f5d:name",
+    "message": "التقاط واحد",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a861265e-06b8-4ccf-a197-ef95c0951f60:name",
+    "message": "كابيبارا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "419f56a7-9825-45e2-8f46-402f245927f3:name",
+    "message": "قياس وتقليل البصمة الكربونية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e4585181-bfbe-485e-80d1-906a2edc55fd:name",
+    "message": "قياس البصمة الكربونية واستراتيجيات تقليلها",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca22802e-5ddb-4954-bcf3-a2c1a9849f87:name",
+    "message": "تطوير المهنة واستراتيجيات البحث عن عمل",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e22ca5f1-f70a-4137-b4fc-ded921a44f46:name",
+    "message": "إرشاد مهني واستشارات مهنية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "69e7232e-1ace-4a0a-9255-d3d1759f967c:name",
+    "message": "علامة القارئ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "61da2c31-0be3-4f61-9842-ae0d606055be:name",
+    "message": "حمولة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d2726169-3d60-44c6-9e9e-582d01ad5ec2:name",
+    "message": "رسالة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c636821a-6c33-4ceb-844b-8f0ec87fec23:name",
+    "message": "CaseMap",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ddacd4ab-4915-4d2a-a95f-713e87438483:name",
+    "message": "إدارة النقد وعمليات الخزينة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e9ab40cd-5389-4be7-92e1-6f5078bb09f1:name",
+    "message": "تحفيز كيميائي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d0dcd14-915d-4e00-b8e7-77d6900d7bac:name",
+    "message": "إدارة الفئات",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e600ab9c-ab2b-49f8-a4f4-d4ecba8f5c34:name",
+    "message": "كاتيا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3d230b19-0b39-49b4-b514-65453b46c9b3:name",
+    "message": "منصة تقارير CDP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3325d27e-eec4-486b-a87d-9fe2b4871093:name",
+    "message": "تقنيات علم الخلايا وعلم الأحياء الجزيئي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f4b6a143-cdd3-4ae3-9f9d-396cb3859744:name",
+    "message": "CellProfiler",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "76203d13-544f-485b-ab0a-ff5fa310b5a8:name",
+    "message": "نظرية الأوتوماتا الخلوية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c38dad95-ae4f-48f9-be02-e28f02298077:name",
+    "message": "سيرنر ميلينيوم",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b82b3249-343c-4258-867f-514b8c0579d5:name",
+    "message": "الشهادات والتدقيق",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e8e47f54-19c5-49fd-86b4-16dbc04c44d4:name",
+    "message": "إدارة الشهادات والتراخيص",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a1aa4d90-a1ec-4f37-a1fc-c11bba59e957:name",
+    "message": "برنامج CFA",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3ec8376-5454-49a9-8512-00dcf4babe06:name",
+    "message": "تشايناليسيس",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "db63e245-e3ad-4148-83a7-c4685b4c9b19:name",
+    "message": "كود السلسلة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "783d283a-2d9d-4261-933c-02fe46b3008a:name",
+    "message": "تشينلينك",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7bd83807-8425-40d3-b840-f4507d9aeaf4:name",
+    "message": "إدارة التغيير والإصدار للهندسة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0aaabaa4-56cf-4d14-8493-e19ac9043d86:name",
+    "message": "إدارة التغيير والإفراج للمبادرات الرقمية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74a03d03-3a63-4945-821a-279f1cab165a:name",
+    "message": "قيادة التغيير والتحول",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6cdc42b1-a742-4ed2-ac35-e7b84ffc310e:name",
+    "message": "إدارة التغيير",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e46febcb-6f54-4a34-87ab-248c6d1bf5e2:name",
+    "message": "إدارة التغيير (PPM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9b7d8291-5403-4cca-87b3-921566a0f746:name",
+    "message": "إدارة التغيير والتبني",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bcc2f119-0dec-4121-9aee-20587f4d0b05:name",
+    "message": "استراتيجية إدارة التغيير والتحول الرقمي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a69c96a-e09a-4f7d-b731-349d49cd9b61:name",
+    "message": "إدارة التغيير والابتكار في تطوير المعلمين",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2057074a-2d9a-4a24-bfc1-f7c541f54098:name",
+    "message": "إدارة التغيير وتعزيز المنتج",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "efc49d86-bcac-44f1-9fff-0a5d7f66e2ee:name",
+    "message": "إدارة التغيير والتنفيذ الاستراتيجي",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b89c3c24-d666-4ba7-8023-b317974a7d42:name",
+    "message": "إدارة التغيير واعتماد التكنولوجيا",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "91832ccd-fa41-4272-861c-ee6b7f4bb7e9:name",
+    "message": "إدارة التغيير والتحول",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f1d2fc85-0e01-48a3-8573-0d2d99de468a:name",
+    "message": "إدارة التغيير وتبني المستخدمين للتقنيات الناشئة",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5547de64-c0c6-47b5-a6d9-5a66825cebd9:name",
+    "message": "إدارة التغيير في جودة الرعاية الصحية",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f6b30ed-f780-408e-bce7-9790c8031691:name",
+    "message": "إدارة التغيير في الموارد البشرية بالقطاع العام",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "682e538d-8abc-4886-8667-2769e0d9e8fd:name",
+    "message": "إدارة القنوات والشركاء",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7ce4d5c3-986d-46ba-be4a-4148f2c76bff:name",
+    "message": "تشانلتيفيتي",
+    "metadata": null,
+    "status": "success"
+  }
+]

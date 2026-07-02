@@ -1,0 +1,501 @@
+id,key,message
+8964c8c3-e8fd-4b58-8357-7acbaaf76f44,name,Data Governance and Open Data Management
+2269e43b-3c5e-41a5-8195-0a445d6ac562,name,Data Governance and Quality Management
+1262814e-bf31-4d2e-8145-f1860ca22907,name,Data Governance and Risk Data Management
+55bc48e9-268d-47fe-937d-c3bc5cb82176,name,Data Integration
+50922a7a-de3a-4879-8fa0-6e5677d4b0d9,name,Data Integration and Geological Data Interpretation
+5e91ab2e-fb87-44d0-a473-bb876a7be59a,name,Data Integration and Interoperability
+3edf26fb-c2c6-45cc-bb64-dff215a49824,name,Data Integration and Management for Exploration
+c11404e7-f19a-4504-9b5b-f59b89aa62cd,name,Data Integrity and Electronic Systems Compliance
+c81e8ad6-4be6-4bcb-87b4-e5b7dd12221c,name,Data Integrity and Electronic Systems Management
+bbf53166-3aa6-4445-ba8b-8dc39da25ea0,name,Data Interpretation and Insight Generation
+8fa16649-efed-4b78-aff7-635f161f29ab,name,Data Management
+cd77a9ec-4920-4c48-b9c2-b62a8a5ea951,name,Data Management and Analytical Tools for Policy
+f4688216-64ae-49de-a66d-e2a1e1397538,name,Data Management and Database Systems
+6ec109df-43b4-41d1-a1e2-b0437e09932a,name,Data Management and Documentation in Pharmaceutical Development
+2127d803-849d-4d49-a151-388d56036b75,name,Data Management and Reporting for Compliance
+f5bbf5c0-0bf4-4453-b0a7-bf2069a52400,name,Data Management and Reporting for Educational Programs
+8d48f9ac-a8c9-4f8f-8b6d-8b9505f48016,name,Data Management and Reporting for Public Services
+47c7e253-e7f2-4e6d-b3af-3c7158ebc83f,name,"Data Management, Reporting, and Statistical Quality Improvement"
+44e56efd-ac23-4ae1-a020-d11c5f50170e,name,Data Privacy and Information Security Governance
+fe2e0716-1e0f-4a34-85fd-7d65df9a5d80,name,Data Privacy and Protection
+1e29dea4-a931-46b2-9337-58f630e2460f,name,Data Privacy and Protection (NSC)
+41680495-2010-4e06-af45-75e085355009,name,Data Privacy and Protection Compliance
+60c16c7a-ec21-43ad-b93f-6eed501d8062,name,Data Privacy and Protection Management
+461b24f5-85dc-4cf8-9c05-2c2150458eb9,name,Data Privacy and Security Awareness in Support Operations
+10633881-f60b-4bb3-a7ed-bca9b2eae4f8,name,Data Privacy and Security Compliance
+7de43acd-6205-41f2-9dd3-cef2ea625bc8,name,Data Privacy and Security Compliance
+4ce389bc-e4f7-4a35-be3a-f3f4edec838b,name,Data Privacy and Security in Educational Technology
+a6ebcca8-7bdf-4c04-9e28-4b0e4d494953,name,Data Privacy and Security in Healthcare
+1e571482-3b89-4cc8-a263-6d8fce65bb0a,name,Data Quality Assurance
+9da2a177-38e8-4068-8a6a-c00c5d96def3,name,Data Quality Assurance and Validation
+b0eeada6-75b0-4162-a98c-f1c4c2c0f960,name,Data Reliability Engineering and Career Skills
+dcb9890c-632f-4f5e-af49-cc47b7f831e1,name,Data Reporting and Communication
+575b5e7c-44c6-43af-bef1-2849cb17f562,name,Data Science Methodologies
+30af9c1f-ebb6-430d-a8db-4c231f3fd002,name,Data Security and Privacy Compliance
+960b7b36-374a-4805-9ee3-f559a6ae32e9,name,Data Structures
+3f2e966b-c18c-4e65-ac61-2ceba3c0bfb2,name,Data Valuation and Measurement
+5ed47727-ca67-4a2e-8682-a6a32bb91ad6,name,Data Visualization and Communication
+7e74883a-aa6a-4032-a6ea-2b7bbb28e43f,name,Data Visualization and Reporting
+722a854d-2366-4495-b410-c22ebac39a83,name,Data Visualization for Performance Measurement
+5be33cbd-2b18-428f-b6ef-28816563831f,name,Data Wrangling and Preparation
+e1c0182d-2fc3-4a53-96a2-0ed4bde854e9,name,Data-Driven Business Analysis
+abca2556-2117-42b4-b99e-2efd2a74de2e,name,Data-Driven Decision Making
+f7761443-6492-49db-a4ce-1ecd0e12d3fd,name,Data-Driven Strategic Decision Making
+e7463e01-25d5-46d5-bada-a21ed04b7fc2,name,Database Design and Development
+80f9934a-bc6c-4662-9e66-fde28cb47c68,name,Database DevOps and Data Management
+3b527bbd-b8a4-4446-ab0a-2100a827a334,name,Databricks
+4a4a97e1-4fb2-4d1e-a77d-e27dec5c2b06,name,Datadog
+ada05377-66e8-4565-b346-7c7c4573a78e,name,DataStax Enterprise
+ba6c63fd-35e9-44c7-92a3-01375969dfae,name,DaVinci Resolve
+c1a316a4-92f4-4aed-a780-bba8945bce81,name,Debugging and Automation
+e7f404d4-c84c-4718-ad60-2f781ad08956,name,Decentralized Application (DApp) Development
+75d92fae-92e6-4aea-b89d-ecd6c850e21d,name,Decentralized Identity and Access Management
+61250c4c-1f6e-448d-9c23-e066159bba30,name,Decision Analysis
+d5f880ec-dc3f-4692-97f0-ac5f0b2875cf,name,Decision Support Systems and Farm Management Software
+6f5f3a31-eb4d-429e-8775-c676f0436bcb,name,Decision-Making and Judgment
+00ebb162-4da1-4e09-81e9-1f967cbd5b4f,name,Decision-Making and Trade-Off Analysis
+610ab8ee-69c0-4b4a-b3eb-584dc205e9e8,name,Decision-Making under Uncertainty
+ce21d912-bd24-431e-8fd9-20b4b2ff4d62,name,DecisionTools Suite
+1df54fa0-f618-43f6-a022-b4261e52c8f8,name,Dedoose
+892dcdf8-c7db-442b-9a4d-383c2d47e20a,name,Deep Learning and Neural Networks
+ff84c423-d572-4c3a-9b06-50af04aad2f7,name,DeepChem
+4b686f82-6986-4ae1-85cf-2256749e00aa,name,Deequ
+855a5d52-8ccb-4d7c-ab88-f548ba08af8b,name,Defect Management
+b9039431-c786-47e8-a883-1f5d2b424406,name,Defect Management and Root Cause Analysis
+6457ea47-668b-433d-9694-84efe1e1a788,name,Delegation and Empowerment
+6f4d7830-0ddd-419d-bd7a-30b4e839bf40,name,Dell Boomi
+7d00829e-6dfd-4634-b79a-46116ecf87a5,name,Delphi
+69f5d686-caa7-45c5-98a2-790b4366ea83,name,Delphix
+0dfe36fe-e4f5-4cc3-a026-fb6380a5fda7,name,Deltek Costpoint
+6ec82952-51b4-4e92-bde2-62d8c20d49d2,name,Delve
+0741662d-5599-43e2-a8e1-a83aa7d7ba9e,name,Demand Forecasting
+528b1584-297c-409c-b779-daa314cd4427,name,Demand Forecasting and Planning
+6100f5ff-0741-4a53-ac41-fa1e8d47b85c,name,Demand Planning and Forecasting
+e3b69c43-d3a7-48a8-982a-2f67db788522,name,Democratic Theory and Analysis
+3af17770-40a4-46ab-aeb5-f8163b8b9417,name,Descartes Systems Group
+d98b60d0-7331-48b9-a29e-c8fd0aaf2fd8,name,Design Coordination and Collaboration
+e7bfdd12-7845-4a8b-b232-52e005cfc9d9,name,Design for X (DfX) and Robust Design
+9530f830-95fc-4de6-8870-9e23d7598cdf,name,Developer Advocacy
+e55c0f73-fdf7-48fa-918f-6e69deb8658a,name,Development of Individualized Support Plans
+ad12d5e9-9d06-494f-95fc-d12b238493ee,name,Deviation and Change Control Management
+c9486923-9ef8-4f9c-b19c-45c5190c365b,name,Device Manager
+712cb952-40de-4aac-91aa-3d766ad0c150,name,DevOps Automation and Scripting
+8022af00-7583-4418-b70a-c29728d2efdc,name,DevOps Metrics and Reporting
+f1ec38e4-5540-444f-abc9-e0d1749861a7,name,Dialogflow
+5dd822e8-5073-48f5-b6db-4a5a664bf5d0,name,DIALux
+37aad932-0c27-4616-ac24-bead1e15bea6,name,Dialyzer
+bf184a22-5114-40b0-a2ab-0bc83909d615,name,DIDComm
+b34f4a6d-ab59-47ed-adfb-9be46b97e772,name,Differential Equations
+adccb629-cabd-4f55-9cdd-205d7f3651a7,name,Diffusers
+be8a5ecb-3793-4fed-bcf8-2b8bb6cd8947,name,Digital Archiving and Collections Digitization
+479e39e1-f7e2-4a04-aeea-2bf650d6a003,name,Digital Asset Management and Lifecycle Tracking
+7222c334-2638-4aec-a252-f752e6d7fe81,name,Digital Banking Platform Integration
+99f20a62-3daa-49ff-8585-5a8d6ce60b90,name,Digital Biomarkers and Sensor Data Analytics
+6c2d3a8c-5524-4474-98ee-906bded55d2d,name,Digital Communication and Collaboration
+3543c292-7d7e-47f0-b82f-91aba8994001,name,Digital Communication and Collaboration Tools for Emerging Technologies
+0dd6f7fb-c5e0-4adc-aa57-4a11e9b59c45,name,Digital Communication Proficiency
+22a4e35d-642b-4837-a449-dd5e3a0165b1,name,Digital Construction Quality Assurance and Control
+fe40034b-1dde-424b-8313-ebaf7e5a9e57,name,Digital Content Creation
+8595e436-d186-43ef-a96f-a72292e1aa9b,name,Digital Culture and Leadership
+22b3cbc2-6601-498b-bfc0-09118c624b5b,name,Digital Customer Engagement
+b36bfd00-d2b6-428d-a3ed-73595395eb25,name,Digital Ecosystem Integration
+8edc3f47-87ce-4754-a96a-27a49b2628bb,name,Digital Ethics and Compliance
+32346bb5-4f46-4b35-8742-e3dde8868be9,name,Digital Ethics and Responsible Technology Use
+fdfaf3d9-55d4-41f9-85f7-dffce6de40de,name,Digital Governance and Compliance
+69d93dee-e0ea-432b-b021-613f09665c5c,name,Digital Health Ethics and Patient Privacy
+b4651c5e-788a-499a-a24e-c19597c0ed57,name,Digital Health Innovation
+4727a3d4-08fe-4bb9-ad0a-01a33781f26a,name,Digital Health Project Management
+0324be20-a71c-492b-a3bd-74b4adb7899d,name,Digital Health Quality Assurance and Testing
+429e8c4c-2451-4a78-859f-fe928cb3060d,name,Digital Health Regulatory and Compliance Knowledge
+d01d1c2c-8b1f-4ff5-b440-fc1cdc916b22,name,Digital Health Regulatory Compliance
+6e878905-48b4-4160-b2be-47330bc39a0f,name,Digital Health Systems Integration
+55ed4d17-298b-4ae1-8d39-5b911ce32545,name,Digital Healthcare Technologies
+bc9fef4a-534e-4ae6-8d3f-7b9abda54b5c,name,Digital Identity and Access Management
+10f84c4c-a550-4a2b-ac01-aa04335f75d6,name,Digital Identity and Access Technologies
+246b9cb6-1b50-4ecb-81b7-e76054966e10,name,Digital Identity and Authentication Technologies
+a8f15e82-822e-4f44-93fb-4d48e1e92b52,name,Digital Identity Verification Technologies
+9572042f-dd10-4978-b674-a33968e6d591,name,Digital Infrastructure and Systems Integration
+840820af-1ba5-4716-a1c9-2ee753cddb83,name,Digital Innovation and Emerging Technology Evaluation
+c49e9023-68d7-44fb-b434-474bd33cf787,name,Digital Innovation and Emerging Trends Monitoring
+623fec9d-9758-4d86-9336-af2623942a77,name,Digital Innovation Management
+5bbe418d-8af9-4b5d-92b1-402979d93f26,name,Digital Literacy and Training for Public Sector Staff
+ac309693-d730-4ea6-bdf0-43743f9e449a,name,Digital Marketing
+4f67eb5c-71d1-433c-b5ba-766a3e9f0afb,name,Digital Payments and Transaction Systems
+378fcf1a-8456-427d-809e-4c9d71064e1e,name,Digital Pedagogy and Instructional Strategies
+b9ff3ff3-f5dc-43b5-99be-cba9458f09d7,name,Digital Process Design and Optimization
+8855a62e-6eab-4486-936a-dcc09c393a2e,name,Digital Procurement and Vendor Management
+315feb33-f3dc-465c-a3db-ee304ada15cf,name,Digital Product and Service Innovation
+123b5687-0b2e-4e57-a12a-eb82d413e5b0,name,Digital Product Innovation in Finance
+227f2828-0a72-4113-8706-7e97ffbdf0cd,name,Digital Project Management for Transformation Initiatives
+43561c56-03b5-4089-b6d3-cd4882891a71,name,Digital Quality Assurance and Testing
+45c5671b-3d07-4ba7-b713-874242b05de0,name,Digital Risk and Resilience Management
+6594f9cd-e585-44ea-ab02-4b573afe5afd,name,Digital Risk Management and Resilience
+0c0f53c2-35d6-4a8b-bb95-dceec6be9443,name,Digital Risk Management and Resilience
+0085db0e-a14c-4318-aa02-0b2fe79f759d,name,Digital Sales and E-Commerce
+db755806-ce89-4df3-8d80-ed2d4782b746,name,Digital Service Design and Delivery
+1fb318a2-b678-481d-b9d3-cf985f4f0f46,name,Digital Service Design and User Experience
+43b2a07c-3b90-4964-97f0-04104743a72a,name,Digital Strategy Development
+02ed788b-d6d7-4e70-851a-3af10698dcb7,name,Digital Sustainability and Environmental Impact Assessment
+0590a511-97fd-46ee-9cc2-642820d6d794,name,Digital System Implementation and Deployment
+72b830f6-2afd-4b00-a4ef-7c3fb766ed55,name,Digital Systems Architecture and Design
+cb25f220-1740-4ef3-b7f7-3763d13e4996,name,Digital Talent Development and Capability Building
+6ae072e7-9adc-4765-b824-bc14295b6239,name,Digital Technology Integration
+b5e6bd26-cc6c-44a6-9c36-6f1aec4bd710,name,Digital Tools and Platforms for Policy Development
+add1d04b-4a2b-416d-9132-0a85902122c2,name,Digital Transformation Architecture
+a34fc377-ccbf-4a4e-b133-b2b2a633ba17,name,Digital Transformation in Manufacturing
+9f4c6165-e2fb-428c-8fe9-af62739d2f16,name,Digital Transformation Project Management
+d1fccf2e-c692-46a7-9385-f503c7cd8100,name,Digital Transformation Strategy
+c5f5e4b7-427e-4e37-9520-75578c58ffda,name,Digital Transformation Strategy and Change Management
+3dd189e0-7aa9-41e6-9592-f76312539366,name,Digital Transformation Strategy for Emerging Technologies
+ce29a4a8-2d1f-418b-a106-9966907b29c7,name,Digital Twin and Simulation Technologies
+21c8890c-9d24-4e9c-a621-73918d82ce35,name,Digital Twin Development and Management
+ba84c78c-910f-46a6-aaee-e8cf31d92bba,name,Digital Twin Development and Management
+7e136ae0-119d-46f2-9eba-c4b04ed08286,name,Digital Wellbeing
+7c37d644-ed36-4b75-9dee-1685592ff164,name,DIgSILENT PowerFactory
+0877679a-b418-4453-8b69-fb7be66434a0,name,Diligent
+07ba15fe-90d4-49a5-ba62-f236c3cf4f10,name,Diligent Boards
+c54954a8-811e-4bac-9ff6-2ed26f17c9a9,name,Diligent Ethics
+0c82d813-49ce-40b8-ac23-3d97f364c2f6,name,Diligent Governance Cloud
+8898dd13-163a-4d98-9c38-02885b7d459d,name,Disability Studies
+4f6321e1-b90a-4b82-98b3-2e3f37ac7028,name,Disaster Recovery and Business Continuity for Emergency Management
+e755926d-3956-4d6b-a6eb-016e10ea57ef,name,Disaster Recovery and Business Continuity in Cloud
+2d09bc1c-6eac-43b9-993b-e56bc3444c05,name,Disaster Recovery and Business Continuity Operations
+678938de-7870-4f28-b1d1-f94b4b3c58af,name,Disaster Resilience and Hazard Modeling
+bb2e02a2-c080-4e53-99a4-890c38a6e3b3,name,DISCO
+deeebe27-07b0-4070-bb9b-b251dcd17899,name,Discord
+9d3a5feb-3ba1-4384-a517-711b69038676,name,Disease Diagnosis and Health Management
+3bc0c9fa-77da-418d-b3a0-2c050bdace28,name,Dispute and Claims Management
+24c8c83f-02e2-48e0-be45-7314975cf792,name,Dispute Resolution and Conflict Management
+f66f9792-2bed-4f89-a2f1-a02ab03ffb60,name,Distributed Ledger Data Management
+1e27458f-39be-4209-af13-2ca68486b2d5,name,Distribution Network Design and Optimization
+639df54f-349c-4e52-8141-df4d31f4efe1,name,"Diversity, Equity, and Inclusion (DEI)"
+75c37cd0-523a-4267-8ec1-fb03f02adf0c,name,"Diversity, Equity, and Inclusion (DEI) Initiatives"
+c67c5724-20d0-43f8-bae9-a768efef9147,name,"Diversity, Equity, and Inclusion Practices"
+da978fe7-89cb-4d61-ae5d-416109e6f0c6,name,Django
+c2f6ffd3-93d8-4740-b592-7876460e4af5,name,Docker
+94fc3ce6-8849-4839-9aeb-8a7dbeb5c02a,name,Docker Swarm
+a784ae35-10e0-4cfa-b00f-7210e8342e6c,name,DocketTrak
+bdbfd8d2-201b-42f7-8295-37b80bb8ff76,name,Document Management and Control
+e985dc9f-930a-4400-81a2-e5c794ef571b,name,Document360
+c5ef4d4a-0947-4e2b-9151-76ce693d52ca,name,Documentation and Knowledge Management
+1b9c46d5-d14b-4a6a-8ea1-f3505e056713,name,Documentation and Recordkeeping for Compliance
+4e20667c-79b8-48e0-9f14-41736e50fa7f,name,Documentation and Records Management
+5f2f0b61-16ee-4917-bb1e-4db6b98941c3,name,Documentation and Reporting
+df02148b-9159-4482-a48d-1c29d8072d40,name,Documentum
+1a846999-55f2-46c7-8130-7325069fc338,name,Docusaurus
+6de6f360-5ee9-4f0f-997b-6e281346d98e,name,DocuSign
+721cd859-0b9b-408a-acd4-4b23d2c7be83,name,DocuSign CLM
+a8984d10-ae7e-46d2-b79e-dd63e4820d62,name,DocuWare
+b52fca0c-2bd6-4558-a6d7-fff11800737a,name,DoDAF
+bde397ed-1987-418c-9213-9dc4f1257fcd,name,Domain-Specific AI Applications
+d50a5d0f-3bf5-4d1e-a659-d80b08d0af49,name,Domo
+8ab75cb0-8558-434f-bebd-a6ac445fd75e,name,DoseIT
+8a1a2b21-794b-47d5-b7f7-cdd1eae59ba4,name,Doxygen
+11abf5a2-6907-4740-9359-04688d7ceb57,name,dplyr
+243565a3-f067-4f50-bfb6-3253c26331c4,name,Drilling and Blasting Techniques
+94dbf305-59da-4130-a36b-c98b1a1da3ef,name,Driver and Crew Management
+50c8b057-5cf8-4af0-b506-904967a1dabb,name,Drone Surveying and Aerial Data Acquisition
+c746ef84-57fd-466e-94cb-bb6ce939ba77,name,DroneDeploy
+c0a6a520-ef9d-4d4d-8260-1862bdf6f95c,name,Drools
+d5088614-b7e9-45a4-bce4-6b99c406efdb,name,Drug Discovery and Preclinical Research
+47f99aa9-f215-4199-a340-3176ad8a15ce,name,Drupal
+4ce69318-f87f-4917-99af-8f3b3324eeb5,name,Duck Creek Claims
+cfcb9de1-9a31-4106-92a0-485a3fdcd280,name,Duck Creek Policy
+aa2dccac-222b-4d97-a101-647e1b4a5c82,name,Duck Creek Technologies
+fc3acb94-7eb2-45b7-ac6f-3b033c90f4ce,name,Dune Analytics
+1dd25d06-eca5-4fa9-915d-4340c6627487,name,Duo Security
+09df65f0-23fe-45a8-a21c-4b5c9cb5a980,name,Durability and Lifecycle Assessment
+029c579f-2b57-4121-a8cb-33fa9b031511,name,Dynatrace
+1ca49500-09e4-48a1-b8a1-c0790c279492,name,E-Learning Content Design
+46c73170-5fae-4a31-b6e2-1278f4116b61,name,E-Prime
+2e682057-1a5f-4c87-8d4b-e5a9bb3f084b,name,E2B XML Submission Tools
+fc957db1-7bc0-4588-b0a9-833af47633b2,name,EASE
+c6a931d0-c1d8-41b9-9e8e-4c23a1b7f5b6,name,EASE SpeakerLab
+f39906a5-48d0-4bf6-81bb-eca14dc4d877,name,Echoview
+e6bcb530-277d-485a-a034-619bb5080f3f,name,Eclipse Kura
+86f53bc7-b09b-4bae-b9f1-77e4417bb7f4,name,Economic Evaluation and Reserves Estimation
+6f467c64-f283-4133-933c-294be4632612,name,Economic History
+ffd7a443-12bd-45b9-a693-af8520be6593,name,Economic Inequality and Policy
+82502bbc-2792-41e7-bbd6-66273f003e6f,name,Ecosystem Services Valuation and Management
+b3f4d58b-d468-4b7d-bdb8-405086e1c441,name,EcoVadis
+58dc83e2-55b5-4d14-a279-5b782d7255c2,name,eCTD (Electronic Common Technical Document) Software
+dfa81676-a927-469a-a3ff-63ef8f9eff8a,name,Edge Computing and Data Processing
+ca4df651-0c8e-4244-be1d-3c2a87d474f6,name,Edge Computing and Distributed Systems
+1435f75d-20eb-40ee-9abc-bda7d83169bd,name,EdgeX Foundry
+ccd9b6e8-10fc-42df-9761-8b02ca50bd16,name,Education Sector Challenges and Strategic Solutions
+eb0be149-f39e-4e24-b95b-70521070a8d1,name,Educational Assessment Policy and Compliance
+b001c7c7-921e-4563-856a-2b7b3e83ea1b,name,Educational Data Analytics
+8e612808-fc24-47d1-a915-c1f0463da8d9,name,Educational Law and Legal Frameworks
+c412485d-8452-42ac-a23c-f370d7cb9d59,name,Educational Measurement and Psychometrics
+3bbf202e-8145-41cb-abe8-86e6181e86a0,name,Educational Policy Analysis
+9de8cf5f-912e-49f6-a01d-a0492af90e3e,name,Educational Policy Analysis and Impact Evaluation
+01a6ae55-4f74-4551-8b16-573161519b13,name,Educational Program Design and Delivery
+638dabb4-5616-449f-97f3-82ac3a084586,name,Educational Program Marketing and Outreach
+23beb7b5-3cfa-4362-9cd1-a2bf7100babe,name,Educational Program Planning and Scheduling
+91ca621d-2cc7-4285-bcb3-185784023e43,name,Educational Programming and Public Engagement
+7da3799a-fe38-4d08-b09b-db3f2c082176,name,Educational Research Grant Writing and Funding Acquisition
+b695b5ca-0fd1-4604-b34f-a9f6e702c826,name,Educational Research Reporting Standards and Guidelines
+5e8f9958-ea6f-45ab-9104-1d4c17f1e53d,name,Educational Standards and Accreditation Alignment
+c4025793-f9ed-409d-8f75-28c9aa43a1d8,name,Educational Standards Development and Interpretation
+beb9bd9f-3539-402e-817c-b8da2a225632,name,Educational Technology Integration
+46124f9c-7dbc-46a6-917e-063b57c45cd3,name,Educational Technology Integration for Professional Development
+62f5d541-2e9e-43c2-bec2-a066aef408d7,name,Educational Technology Research Methods
+67853a2d-3ec8-49fb-a294-e984070951d7,name,Educational Theory Application
+6b4e76e1-08c0-4496-8801-2087a6f4c243,name,Elastic Security
+2be3ee1c-b0ae-4fed-b4e4-98224c520682,name,Elastic Security (Elastic SIEM)
+5210227c-ad6c-4f09-9965-c0e443b4d0b6,name,Elasticsearch
+b0a84c9b-2b8b-4a81-96aa-4c1917297d16,name,Electric Vehicle Integration
+5dbb47de-7d17-4703-9524-61611c9ed9b3,name,Electrical and Instrumentation Maintenance
+d7510f62-6bc5-4561-aac1-b6e31201c715,name,Electrical Safety
+093a3101-745b-4242-a8e6-708e1b842062,name,Electromagnetic Measurement Facilities Design
+6a63695b-577a-440b-8268-c14fc608ec5f,name,Electromagnetics
+733439a3-e53a-442f-8b7e-5bc7b25d6fc8,name,Electron
+4b54a872-27d0-4df3-898e-a5ff092206b8,name,Electronic Health Record Integration and Interoperability
+bf6aec97-fb62-4f4f-adec-d72ee4825948,name,Electronic Health Records Management
+be66525b-3994-43d4-8449-cbf6237f4fcd,name,Electrostatics Fundamentals
+b5463e26-db3e-4831-8efc-7bd6f4e4d0d1,name,ELK Stack
+04c22e18-0541-4693-8166-d6f582b0b269,name,Elliptic
+85d1f78e-a5c0-4d6d-9d91-00a6beb3d2d9,name,Ellucian Banner
+422d2ea1-96f7-4946-8294-87279b6db9b9,name,Elm
+b70a9e38-1ac5-4370-85bd-3ab1151c5a80,name,Email Marketing
+b28c5d5c-9783-46bd-b57c-218ab336554e,name,Embedded Software Development
+30d1ecb6-f24f-46b4-b6a4-f5fb2be571dd,name,Embedded Systems Design
+053e267f-da75-4da7-8c24-9152f36e8149,name,Emergency Management Data Analysis and Reporting
+4a2723be-3eb1-482c-a6b2-49456d7fe106,name,Emergency Management Information Systems
+2f818e0e-6e47-4bad-bafc-cc7782781f2d,name,Emergency Management Policy and Regulatory Compliance
+8a0a4b01-cbc9-49bb-b20f-bc70978c1a6f,name,Emergency Management Training and Exercise Design
+7a7c3bc5-4eb4-4035-9c2d-3c5c55cadb10,name,Emergency Medical Services Coordination
+72a88966-12c5-4b46-b5f8-934d978067a4,name,Emergency Operations Center (EOC) Management
+89e2f33b-c30a-4f12-9028-9f39f9b15b96,name,Emergency Preparedness and Business Continuity for Facilities
+3b5996ae-098e-4c80-80c6-802de28f5563,name,Emergency Preparedness and Business Continuity for Facilities Management
+d1efb895-f674-4e05-ab03-4fa6cdb0950a,name,Emergency Preparedness and Business Continuity for Healthcare Administration
+47e2e063-1249-4e40-929c-b9b98fe6c95f,name,Emergency Preparedness and Response
+40cd9cb5-2099-4e92-977b-32727a981124,name,Emergency Preparedness and Response for Environmental Hazards
+413aef58-5f52-4755-bbef-0e4586cc6781,name,Emergency Preparedness and Response for Regulatory Compliance
+194bba6d-79af-410d-8a3c-807075ed0ab2,name,Emergency Preparedness and Response Planning
+7198bf5f-3049-4367-b832-d98e0e60fec4,name,Emergency Preparedness and Response Planning for Construction Risk Management
+a4079702-d60e-4714-8d91-b16e1330ea3d,name,Emergency Preparedness Planning
+691b469b-7772-4030-81c8-08023f0f0155,name,Emergency Response and Acute Care
+799a57c2-8609-47d4-8f16-1c978a80f3e9,name,Emergency Response and Contingency Planning
+5dfeb665-5fa2-4e1e-9211-029461eb6d1b,name,Emergency Response and Incident Management
+82c6dbf8-1b56-461f-ac2b-94c95e5407fd,name,Emergency Response and Incident Management in Food Safety
+c0e649e2-6cd3-4043-9284-c4eac9dcf6ee,name,Emergency Response Coordination
+3b05910a-9fdc-4373-86e3-e033e20a6abc,name,Emergency Response Operations
+bfbc4eee-4a42-44be-a05c-ff35cbe0cc2c,name,Emergency Response Planning and Management
+5876ba62-eb52-4179-b89b-a507c504e216,name,Emerging Blockchain Technologies and Trends
+0d85b2ad-e331-4d6c-962b-18a2693e1377,name,Emerging Network Technologies Evaluation
+e898f73c-fdd6-4867-88ac-64a5114cab49,name,Emerging Technologies for Environmental Sustainability
+75a922e6-a42a-4639-843b-ec89770011b3,name,Emerging Technologies in Digital Health
+2e2faf1a-991e-41d2-93eb-7bf97044b122,name,Emerging Technologies in Drug Discovery
+36d33b6d-a0d7-4b48-bf9e-ba99e26282f6,name,Emerging Technologies in Education
+830fae48-7026-4cca-927c-3bcb26fdcde4,name,Emerging Technology Deployment Practices
+95163299-6b23-4a76-b0ec-3b90428b14a5,name,Emerging Technology Evaluation
+8202898e-56db-4b32-a5ad-03bc2c9865a8,name,Emerging Technology Evaluation (TPRD)
+4fb98fea-7253-4b33-991c-6b77a09175e5,name,Emerging Technology Evaluation and Adoption for Digital Transformation
+11d3b024-d6d7-4d50-9907-ba0c7f8b312b,name,Emerging Technology Trend Analysis and Innovation
+e4b575c0-bf09-4590-a19e-d55b2bb81c2d,name,Emerging Technology Trend Analysis in Healthcare
+55b41ae8-bf86-4145-baab-921687e99933,name,Emissions Monitoring and Reporting
+033e5eed-731b-475a-b552-16d27e0f9d74,name,eMoney Advisor
+3bad1e05-ccd4-4f4d-8632-af6a4b947b83,name,Emotion Measurement and Analysis
+7b379a8a-ab3b-42ef-b349-650e3e577753,name,Emotion Theory
+65e43be5-514c-4e12-8dad-8a4aaf74ad26,name,Emotional Intelligence and Empathy in Customer Interactions
+490dd03b-a718-48d6-8705-46a4538ddf81,name,Emotional Intelligence and Self-Awareness
+1180eebb-5856-4675-8eb3-71cba9edcb32,name,Empathy and Emotional Intelligence
+acb0e98b-f077-47df-ab75-2e290557d981,name,Empirica Signal
+da1dddec-1eda-4c21-950b-f6b78db9c2a3,name,Employee Benefits and Compensation Administration
+29ea7873-e776-4038-acef-aa5987f74615,name,Employee Engagement and Retention
+bd8e91e2-cf64-452e-aef1-36b751ebafbd,name,Employee Engagement and Retention (WDHC)
+c3977fc5-200a-459f-a18e-4b55dcd1d9ca,name,Employee Engagement and Retention Strategies
+39c2d25d-4266-48ad-8f8b-713c61fbb732,name,Employee Relations and Conflict Resolution
+1710512c-7990-4085-a463-672562069125,name,Employee Relations and Support
+d8194ffa-6ef6-4e6f-bda8-ec4e1386b314,name,Employee Training and Development Coordination
+6d640500-7f87-4957-bf32-b97346ac4639,name,Enablon
+a6d46983-b837-4f9f-b991-0a3a5744508e,name,EnCase
+b5812dfb-8408-4041-9d93-51704c153fb1,name,Encryption and Cryptography
+6b4fcae0-da2b-449c-b25f-fe914589ac8d,name,EndNote
+1ede7aa6-2412-48c6-b4aa-6481d5ca0b55,name,Endpoint Security
+e87ad4ca-9f29-40be-9fcc-df4ca80b2b21,name,Energy Efficiency and Management
+d3607470-300f-41f0-bc66-58a10915d8e3,name,Energy Efficiency and Resource Conservation
+45219873-e857-492a-9da9-deba72af6d55,name,Energy Efficiency and Resource Conservation for Environmental Sustainability in Healthcare
+c4bd03c2-c0ff-4a05-8ada-acaff944148a,name,Energy Efficiency and Sustainability in Maintenance
+cac8bc5d-10f7-4da2-82e0-76ad0aaa1333,name,Energy Efficiency Management
+b5cec13f-243e-4bdb-8296-b74baa75e3f2,name,Energy Management and Carbon Footprint Reduction
+7a4e0ae7-988c-4748-987d-1198e851e803,name,Energy Management and Optimization through Digital Technologies
+0b7ca469-c6d4-4de3-b016-d8740b3e5047,name,Energy Management in Extraction Operations
+b789c00c-2106-46a3-acba-f053daba27c1,name,Energy Management in Processing Operations
+09793016-3752-4c36-800c-620b84529b89,name,Energy-Efficient Building Design
+1ab296ea-4068-423e-be14-22a0f8aaf62a,name,EnergyCAP
+b8ed81c8-8851-4396-8407-16a2cd3ccc11,name,EnergyPlus
+2264f858-2e27-40a3-9399-4d20a7557377,name,EnergyTrace
+c4d3b440-a2c1-4c40-b952-74ac4c8a4641,name,Engineering Calculations and Technical Analysis
+8742b34b-477b-473b-9b17-a85d1f3db112,name,Engineering Drawing Interpretation
+28ae0e1f-698c-4ac2-915c-bcadfcdc2e97,name,English Grammar
+cc05bb33-3cee-41c5-884a-eff9e340e039,name,English Sentence Structure and Syntax
+36bf92e2-9b74-44d2-87b2-cdc166661353,name,English Verb Forms and Moods
+61dc0289-3bdf-49cf-9097-b59fd6322d58,name,English Vocabulary Development
+9cdf14d1-dccd-408a-873f-a91fb2f7740d,name,Enhanced Oil Recovery Techniques
+c4bf504d-0a73-494b-8673-43b1319b4866,name,Enrollment Management and Student Registration
+9f6935e2-58d2-4968-a223-9b0721b427a6,name,Enterprise Architect
+b3f9073a-8947-4f66-9643-309f98ac4bbf,name,Enterprise Architecture Communication and Stakeholder Management
+dad023f3-6c5e-44e5-8f91-2c7a28449bde,name,Enterprise Architecture Frameworks
+99103b5f-619b-4c77-a0c0-5becaa105b34,name,Enterprise Architecture Modeling and Documentation
+fc3dd68b-2034-47d5-bb17-8212ad32bbe6,name,Enterprise Architecture Strategy and Roadmapping
+9bff2063-6bcd-4052-8cd1-bfc6c94ed796,name,Enterprise Architecture Tools and Platforms
+45b04c09-ce0a-4483-a72d-fa4a27c91bc8,name,Enterprise Content Management
+d240b8dc-6573-427a-aafa-69ba5c0ca96b,name,Enterprise Data Architecture
+aba8d0cf-838d-4219-84b6-57c6870883bb,name,Enterprise Portal Development
+f560bdb0-28bf-4f5b-b702-71b875fcb917,name,Enterprise Risk Management
+5d58a487-9312-4763-845d-f64d9e7c5426,name,Enterprise Search
+baaadf64-6115-4ec3-815d-a63e0118d457,name,Entertainment Programming and Event Coordination
+0619974a-8b11-4caa-a5e6-ffd29b4ae606,name,Entity Framework Core
+bb39f115-c03a-4c5f-af28-22d89727479d,name,Environmental and Infrastructure Risk Management
+1feeb183-7d4b-426f-b086-430a4bf8cf40,name,Environmental and Occupational Health Compliance
+4cceed39-6207-400c-b718-cc373fc52f4a,name,Environmental and Public Health Compliance
+a19f4d62-f01b-41af-a6b9-0aa96809709b,name,Environmental and Social Impact Assessment
+271bbc74-3617-4dac-aa1a-a581d1c0b26c,name,Environmental and Sustainability Practices
+4755a312-e6ff-4c01-9654-5debe4edecb3,name,Environmental and Sustainability Practices in Medical Device Manufacturing
+f64eed54-90a9-44f1-a800-4ef7e6a0455c,name,Environmental and Sustainability Practices on Site
+2ebe9740-c536-4d39-9885-729720d7b430,name,Environmental and Sustainable Risk Assessment
+6bda9f66-e636-4d56-a979-34aed49b8db8,name,Environmental Auditing and Continuous Improvement
+12f20975-514e-46d2-a13b-ad065e722ba5,name,Environmental Auditing and Quality Assurance
+c3811a51-d10b-4f5a-9a66-a532b4e3debf,name,Environmental Chemistry and Toxicology
+d42f544f-5a1c-43c0-affb-bc8b2eed23fd,name,Environmental Communication and Advocacy
+bf5762e6-eb06-4e8e-97c5-0db570414f99,name,Environmental Compliance and Management
+8761e1a8-7c79-4157-b330-fff71fae3300,name,Environmental Compliance and Regulatory Management
+f5538f35-e3b1-4430-870b-045a086f3ca8,name,Environmental Compliance and Regulatory Management
+37813050-890a-4bfe-b4bd-9c90b8ba8a1f,name,Environmental Compliance and Regulatory Management for Forestry Operations
+9e583d1e-1725-4a7a-9b89-f75a3febc21a,name,Environmental Compliance and Sustainability Engineering
+b6fec062-45bf-458d-86b3-9a683af88228,name,Environmental Compliance and Waste Management
+86852ede-de1a-43a5-b443-13b7a85028ba,name,Environmental Controls and Building Automation
+044ab0e2-2f96-4588-91e4-f3345ffb523e,name,Environmental Data Analysis and Decision Support
+9ff63594-c24e-4fa7-a955-0ea776b2a7fd,name,Environmental Data Collection and Analysis
+9553c3b7-4e45-4c41-8ecc-ba2c1d8327f5,name,Environmental Data Management and Analysis
+20234d53-3e0b-4906-bd7b-9b4752d79548,name,Environmental Data Management and Analytics
+f9ceee50-c633-4bca-a16b-bcc8ef4549fc,name,Environmental Data Management and Geographic Information Systems (GIS)
+d010057a-b350-478f-99de-7cbc3cc7ed9f,name,Environmental Data Management and Geographic Information Systems (GIS) for Sustainability and Environmental Policy
+c046f5c5-8be0-4568-9504-246253cb0511,name,Environmental Data Management and Reporting
+5257c86e-cb77-4b76-b16b-a71eb64bbd52,name,Environmental Engineering Design
+1b7d7b42-52fa-4cb1-ba62-1f27ad621c25,name,Environmental Ethics and Governance
+5ae81ef4-8f80-4ae8-b653-66b74f412389,name,Environmental Finance and Funding Mechanisms
+7bbaeaf7-e6ad-4510-9799-90c79f4bdaba,name,Environmental Health and Safety (EHS) in Manufacturing
+40fcfdcf-8dbb-4d4e-a6e1-0488491e9996,name,Environmental Health and Safety (EHS) Information Systems
+19db09c5-0b8b-4956-87c9-431ccb51ff6b,name,Environmental Health and Safety (EHS) Management
+5ff889f2-78d1-4d03-9174-9b036331cbe5,name,Environmental Health and Safety Compliance
+07713d48-8708-4c37-ae1e-0570b77eaed4,name,Environmental Health and Safety in Pharmaceutical Production
+38c55293-0d11-4f1b-91e2-9a1fa852edeb,name,Environmental Health and Safety Integration
+77853c0f-a7a9-4b8b-b610-4af86fb37de7,name,Environmental Health and Safety Training and Communication
+997bbd29-6132-44e1-8f73-86a5a7d2e262,name,Environmental Impact Analysis
+dac80479-8a18-43d2-99f9-c6c63a11b92e,name,Environmental Impact Assessment and Analysis
+d85e9527-7ea0-4d1c-ab28-cf703f35fe08,name,Environmental Impact Assessment and Mitigation
+815bbbd2-f7b4-4268-b73a-b92cf8cb1627,name,Environmental Impact Assessment and Monitoring
+c99e7189-121d-49a4-bcfc-7eb9029109d6,name,Environmental Impact Assessment and Monitoring for Environmental Sustainability
+9c823e86-2e49-4977-8e41-060230d9505a,name,Environmental Impact Assessment and Sustainability
+8334470a-cd52-41c7-ad71-949a7500cbec,name,Environmental Impact Assessment and Sustainability for Transportation Infrastructure Design
+bbbfaa6f-4ecb-46da-81dc-c9105e4db6f6,name,Environmental Impact Assessment and Sustainability in Reservoir Management
+1743802b-fc9e-41e4-aa0e-6058d3220451,name,Environmental Impact Assessment for Sustainability and Environmental Stewardship
+8fb8aa92-2b8e-495e-b15b-33c2586da663,name,Environmental Impact Assessment for Urban Planning
+37f66b5a-cfb2-4e9b-a112-c649ed98014a,name,Environmental Incident Investigation and Reporting
+81074277-33de-4f9d-bc4b-1a2fafeed0c2,name,Environmental Management Systems (EMS) Implementation
+975c97b9-0dcc-4975-8b7b-9c5ee46d6ba7,name,Environmental Management Systems Implementation
+00bc220e-706e-4c44-876d-62350b4de45c,name,Environmental Management Systems Implementation
+f101e967-1490-4232-9352-e20d6da158e6,name,Environmental Monitoring and Compliance
+49734449-b591-48e4-9e0e-e48a4558e3a7,name,Environmental Monitoring and Control
+e6e80e1b-dc18-49f0-b41d-f4c5a67a0508,name,Environmental Monitoring and Control in Livestock Facilities
+8a9d53e4-904f-43b5-b493-0ec7acb8a7c1,name,Environmental Monitoring and Impact Assessment
+9c83784c-bacb-473d-8187-389d3bc8fb29,name,Environmental Monitoring and Quality Assurance
+d1142abd-0289-4518-af7c-06078b63053c,name,Environmental Monitoring and Quality Assurance for Sustainability and Environmental Policy
+9f5e9c8a-8a57-4bef-9012-eb4570488704,name,Environmental Monitoring and Reporting
+9fde4aee-5f18-4688-a9c0-6628222c7807,name,Environmental Monitoring and Reporting for Sustainability
+39d61035-5906-4f51-b3ca-319cb28dfe41,name,Environmental Monitoring and Reporting for Sustainability and Environmental Stewardship
+e3df97a7-7745-4439-8d90-372e315ba2e1,name,Environmental Monitoring and Sustainability Analytics
+d303f0dd-bf94-4492-b5d3-2119b16f41eb,name,Environmental Monitoring and Sustainability Practices
+b00b5627-9a58-4b68-8335-29182a662696,name,Environmental Monitoring Technologies and Tools
+dca593d2-2564-45cb-a054-65c0931cf8d2,name,Environmental Policy and Regulatory Compliance
+835e7608-87cc-4efb-8e51-f2ae8f04e8d7,name,Environmental Policy and Regulatory Knowledge
+aea963eb-d6b5-4401-98b7-e4bd79262b72,name,Environmental Policy Development
+e415a54f-7d06-4b9e-8d7c-38b4bb0b8757,name,Environmental Quality Standards and Guidelines
+ca8e59e9-a905-4a67-be38-1f0922277a50,name,Environmental Regulation and Compliance
+c7348ab1-358b-4478-84ae-cfce93959361,name,Environmental Regulations and Compliance
+c5e327bd-8978-4d26-b102-2a0206e98af0,name,Environmental Remediation Software and Modeling Tools
+45069a99-3bb4-4ff6-b183-1213d0f79000,name,Environmental Risk Assessment
+a04caac5-52f2-4c76-b0e2-a1ae29553ee9,name,Environmental Risk Assessment and Management
+ae8ac96a-eb32-4edc-a333-44025324497b,name,Environmental Risk Assessment and Management
+72c8c4de-388e-4d8b-a39c-9d30b59c5f18,name,Environmental Risk Assessment and Management for Resource Conservation
+d87b0a98-29b6-4b97-88ac-44acbeb47b80,name,Environmental Risk Assessment and Management for Sustainability and Environmental Policy
+5ad015a9-e360-441a-92e7-2ea3f83574f5,name,Environmental Risk Assessment and Mitigation
+16a4dbd9-ed57-4a2a-9f7f-664f259b3931,name,Environmental Risk Assessment and Mitigation for Transportation and Warehousing
+b279a298-8bff-49d5-a142-c5a3432b75c7,name,Environmental Risk Assessment for Environmental Remediation
+85cd0480-5d2c-4de0-a14a-137fdfbe9241,name,Environmental Risk Assessment for Healthcare Sustainability
+426d27b8-3337-4eb2-ad8d-92ba645690d7,name,Environmental Risk Identification and Mitigation
+1946ede2-f3aa-4478-8bba-abe04fba9a3b,name,Environmental Risk Management
+0ba483e6-24b5-47e5-8471-b0740345175b,name,Environmental Sampling Equipment Operation
+ab31ceaf-224c-4a8f-b48f-57f667d5e655,name,Environmental Sustainability Management for Education
+27e3258e-709f-4fd6-9c5b-3ca6934bc97c,name,Environmental Technology and Innovation
+4184a190-f468-4367-8954-69f6cce6b6a7,name,Environmental Technology and Tools Utilization
+29f5e65e-c35c-4bc9-b45c-9b8ad896f88f,name,Environmental Training and Awareness
+eef0c544-7884-4f84-b30e-d4d16a9bd87a,name,Envoy
+dc153a58-6ba1-446c-b2c8-f7d606413127,name,Enzyme Engineering
+598f01d9-4f56-4fcb-aa5a-9abb16e2aafe,name,Epic Systems
+fca8f99d-7276-40ed-9c17-54cf7e9e2c87,name,Epidemiology and Population Health Analysis
+1ef29e0f-df16-4eaa-a036-c66515764d9b,name,EPLAN Electric P8
+257ea8d3-c1c7-4984-ab31-4f1144842051,name,Equipment and Infrastructure Design Review for Maintainability
+5eb71565-d5e0-44d9-9ad5-7b39f00b65d6,name,Equipment and Infrastructure Inspection
+ca47ffee-7c86-46b6-8c66-ec0bca79b4f2,name,Equipment Operation and Maintenance
+a6c6ea9a-80bc-47d2-be48-18960750485e,name,Equipment Operation and Maintenance
+5e313571-3df5-4830-959c-6edf05f58ed5,name,Equipment Operation and Maintenance for Aquaculture and Fisheries
+a9e1e9ce-4260-4374-8d4f-be1628adfb5f,name,Equipment Operation and Maintenance for Waste Collection
+7af7cbe8-43d4-4584-8513-ed4c8aefbb22,name,"Equity, Diversity, and Inclusion Management"
+f361b989-7e85-49f4-9255-ab61139e565b,name,ERC Standards
+182e4f24-4695-4d66-bb74-ef879b272a64,name,Ergonomics
+07420d1d-3d1c-4a20-a0be-df11eb61aaed,name,Ergonomics and Safe Lifting
+0ed2ea71-e59d-474c-98a0-bedd2664a889,name,Erlang Programming
+677ad81f-d69d-4efd-b4d7-6ec94fd7bf39,name,Erlang/OTP
+1f5efd5e-bce7-4ca4-bcc0-279b98f26481,name,Error Handling and Fault Tolerance
+dd489c89-54ff-4ac2-960c-260833f6ea13,name,Erwin Data Modeler
+4a3ce605-26cf-4a0f-bf37-031cc113c707,name,Escalation and Crisis Management
+78827e37-7520-4e17-94f3-ede7cea07352,name,ESLint
+c0f7ab22-f005-48e9-8ec6-0ff11d6c9803,name,Espresso
+fa17ef77-e933-4b34-bfc8-3aedab57f3da,name,ETAP
+837643b3-4d9c-4fc8-9d72-8dfb4f0dce46,name,Ethereum
+bbd2adae-fae2-43be-bc4c-2e7c8f978836,name,Ethereum Consensus Clients
+8f2664fb-12c5-4931-9ba2-5d40a970db9c,name,Ethers.js
+629979be-46df-4339-bfe7-093dc087ac18,name,Ethical and Legal Compliance in Student Support
+eb70bf64-8800-497c-8819-79d5f7cf4f16,name,Ethical and Legal Considerations in Curriculum Development
+a8aadbb7-706b-490e-b5f1-6a623624531c,name,Ethical and Responsible Technology Use
+b9280874-cc2c-47ea-838e-ae70013f270d,name,Ethical Governance and Public Accountability
+1bec6fdb-c820-4009-84dd-630d2038da84,name,Ethical Governance in Education
+2e4d2938-50d4-418e-a64c-d00781e5aac4,name,Ethical Leadership and Integrity
+82e50c4e-c4c5-4803-b278-2fb577216123,name,Ethical Marketing and Consumer Privacy Compliance
+9dcd29a6-52f3-48ee-8c61-6b22ffb74cb3,name,Ethical Review and Oversight
+a188309c-ab3a-45ed-8741-d14a7c038e57,name,Ethical Risk Management Practices
+895b93ec-46ff-418c-bcb2-a2bd7d8b6477,name,Ethical Standards and Professional Conduct
+339c151c-022f-48ef-9662-ee10af3f236d,name,Ethical Use of Educational Data and Privacy Protection
+c85644bf-9433-43f7-ae69-94e8e6a51388,name,Ethics and Conduct Oversight
+0ff18e46-6b66-463c-8c04-729bb8de33ff,name,Ethics and Corporate Responsibility
+7d220136-1c9e-4c36-8361-be2989911ad7,name,Ethics and Corporate Social Responsibility
+daf76a10-7acf-4ce4-a710-2e38db557741,name,Ethics and Corporate Social Responsibility in Compliance
+091c7aba-0ea9-4ff1-abd9-f96563859753,name,Ethics and Informed Consent Management
+6b0b6db6-3b97-4f89-80fc-3e927ec0fe66,name,Ethics and Integrity in Public Financial Management
+b101bd42-db4f-4d1f-8e04-73c88bf199df,name,"Ethics, Professionalism, and Educational Policy Awareness"
+fbf0242d-93bc-43ea-9ff7-976d741ada1d,name,"Ethics, Security, and Privacy in Digital Innovation"
+63035843-7e9b-4a86-a80f-c2f1dbf7a1ae,name,"Ethics, Transparency, and Accountability in Policy"
+e140333e-1f76-4e7f-b61a-0e2440c44dc1,name,Event Marketing and Management
+18ac09cd-6ef4-475b-bfc4-2ea6b59db23d,name,Event-Driven Programming
+781c2520-2ee0-4256-93e9-ba5e43437bfd,name,Eventbrite
+e44eea67-9975-4fe4-b17b-d4510e39ca5f,name,Everbridge
+57c82fb9-31d8-45df-8038-cd9d1ffccb39,name,Evidence Generation Planning and Execution
+72ab15ef-9dca-48a7-ae5a-ba3cebbbc485,name,EViews
+b53b2df2-8dff-46bd-80e2-8db85151b4f0,name,Excel
+6203981a-aac7-4727-9348-3cff487d038e,name,Exhibition Design and Installation
+dd1b338a-af16-40f8-9fc9-d30fc2ff1e56,name,Exhibition Evaluation and Impact Assessment
+ea361c33-255e-45a0-846c-41aae3f22dfa,name,Expenditure Control and Management
+f282bfb0-51ad-4989-bdec-d096aaf91289,name,Experience Design and Journey Mapping
+170ae6a2-d088-467e-badb-752b3c2fb9c9,name,Exploration Project Planning and Management
+5f81e0ac-3dc3-4831-b5a8-7fc55eb27acd,name,Exploratory Drilling and Sampling Techniques
+f9f03324-7016-40cc-b23c-dd79bf362e70,name,Exploratory Testing
+6af8ae7c-efa3-4ede-9349-7d0365b189bc,name,Expo
+dbe035bd-312a-49c7-b4c9-ab12fe9d6ff0,name,Facebook Ads Manager
+b78b9b3f-95e7-4078-b3ef-6d27473eaba5,name,Facial Recognition Technology
+fc3d7431-c82d-46fe-af97-0d23cfa2f581,name,Facilities Budgeting and Financial Management
+58da4dfa-ebf0-4103-9217-09745e53844e,name,Facilities Information Systems and Technology

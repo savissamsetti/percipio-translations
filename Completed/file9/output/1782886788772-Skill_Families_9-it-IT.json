@@ -1,0 +1,1826 @@
+[
+  {
+    "messageId": "c2e3e911-af41-4538-a9b2-1ccd5c0b6676:name",
+    "message": "TI Code Composer Studio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a1d9e41c-dd04-416b-8b56-e5af0ab61dd8:name",
+    "message": "TigerGraph",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "adacc98f-597a-48ed-aa04-9fba8f6a46d1:name",
+    "message": "Operazioni di Raccolta del Legname",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8bea713f-527f-40e8-ba08-7bc89a926aeb:name",
+    "message": "Gestione del Tempo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8c0ea0f4-6c7b-4dd4-8ca4-059818f797f8:name",
+    "message": "Gestione del Tempo e Prioritizzazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "df42ba42-4ec6-49c8-b9a0-caf6df110fcf:name",
+    "message": "Analisi delle serie temporali e previsione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e07f4a85-bee2-4831-8d7c-bde788be927b:name",
+    "message": "Analisi delle serie temporali per la misurazione delle prestazioni",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6c4519af-926c-45ae-adcb-23ac443a00b2:name",
+    "message": "TLA+",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e79f6597-4e98-4909-9d46-2f919b8d53c5:name",
+    "message": "TMS (Sistema di Gestione della Tesoreria) di Reval",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "10e17a27-daed-472c-81a3-1c0626310c12:name",
+    "message": "TOGAF",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f63e7ed4-74ee-45c8-bb7a-6d9c5aee2e81:name",
+    "message": "Tokenomics e Gestione degli Asset Digitali",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dea1f532-e95f-430b-a694-01b6f17ed55d:name",
+    "message": "TolAnalyst",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "292878ae-cd4b-4ee2-9b35-23a3e64c8426:name",
+    "message": "Utilizzo di Strumenti e Tecnologie per la Gestione di Progetti e Processi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0d538962-ccec-4801-88a8-27ca4d00ed6f:name",
+    "message": "TopBraid Composer",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad72eb4c-8515-43eb-ab49-41c7670edb16:name",
+    "message": "Analisi del Costo Totale di Proprietà",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5276c00-f9df-4e45-88a5-5000b4361670:name",
+    "message": "Totango",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8eb416ce-7c78-40d8-8a5d-ffc00d703e2a:name",
+    "message": "Tracciabilità e Gestione della Catena di Fornitura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e69e9ec3-15c2-4c3d-8ae7-55a435fe68c5:name",
+    "message": "TraceLink",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a53d908b-9538-4e52-85bc-fba7af1a6da5:name",
+    "message": "TrackWise",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c39ea976-008b-40c2-99f1-2ed220c42142:name",
+    "message": "Esecuzione e Operazioni Commerciali",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c278c7e6-8ae8-46fa-99d1-5a306f8c2588:name",
+    "message": "Media Tradizionali",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8cb2b32c-d91e-4e37-a225-402325198016:name",
+    "message": "Progettazione dei Sistemi di Ingegneria del Traffico e Controllo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "51e13b86-aa36-4f4c-92dc-a92bf4d248ef:name",
+    "message": "Formazione e Consapevolezza nella Conformità Normativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb2bb8d5-1d61-40d7-b872-41c28fe63deb:name",
+    "message": "Programmi di Formazione e Sensibilizzazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "848a6fc3-13bb-49a2-bae1-5e95b2d60c78:name",
+    "message": "Formazione e Sviluppo delle Capacità per il Personale di Servizio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a60e40a-b9ad-482c-8a78-78f67506d39b:name",
+    "message": "Formazione e Sviluppo delle Capacità negli Affari Regolatori",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c96dd628-4f3c-4c1a-b327-da33cf86d8f6:name",
+    "message": "Formazione e Comunicazione per la Conformità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ea69c4fe-9829-4324-8016-fa1a77ac723a:name",
+    "message": "Formazione e Comunicazione sulla Conformità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3a8ec1d-245a-42bc-9ad1-f10a82ebe4d6:name",
+    "message": "Formazione e Sviluppo per i Team di Supporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "233a039d-b67e-418e-b291-aaaf0ef83288:name",
+    "message": "Formazione e Sviluppo del Personale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a0476a02-8d8a-4e2e-ba65-7f78a5827244:name",
+    "message": "Formazione e Sviluppo del Personale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e59b05b4-c178-4078-b82d-8523e8255f54:name",
+    "message": "Progettazione e realizzazione di programmi di formazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "54208573-0dc5-4118-91c5-d2916894b5db:name",
+    "message": "Elaborazione delle transazioni",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e067253e-6fac-4289-a9ea-1b47aebbfaed:name",
+    "message": "Ricerca Traslazionale e Innovazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6446d3c6-abd5-4184-bb1c-e9ab0c603f74:name",
+    "message": "Transporeon",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7cb54f53-2a61-4660-ab2e-ac2c6a1e3bd1:name",
+    "message": "Analisi dei Dati di Trasporto e Reporting delle Prestazioni",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e8123fc-adbd-414a-9338-ef210f53eda2:name",
+    "message": "Gestione delle attrezzature e della tecnologia dei trasporti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2cd44e7a-498a-4a4b-9ba9-43ac50e385ae:name",
+    "message": "Progettazione delle strutture di trasporto e del layout dei terminal",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a195749-0512-41cc-b328-8adbd0a2033d:name",
+    "message": "Modellazione delle informazioni sulle infrastrutture di trasporto e CAD",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5251e848-cdbf-4038-9610-a757628443bc:name",
+    "message": "Analisi dei costi del ciclo di vita delle infrastrutture di trasporto e valutazione economica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae3c7980-9fb4-41fe-925e-42ee5b993e5b:name",
+    "message": "Pianificazione della Manutenzione e Riabilitazione delle Infrastrutture di Trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c0912589-757f-4cb1-8794-e695e2733bc8:name",
+    "message": "Pianificazione delle infrastrutture di trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cbf2e63e-2aa2-485b-af08-537b2adffd1c:name",
+    "message": "Gestione dei Progetti di Infrastrutture di Trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e357865-63d1-4b5d-9d32-8fc0db17429a:name",
+    "message": "Assicurazione e Controllo della Qualità delle Infrastrutture di Trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "60bc979d-bd57-41a4-8b79-86745aefbaba:name",
+    "message": "Conformità normativa delle infrastrutture di trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06c5e8eb-f15b-4977-96fe-9cef4e572f10:name",
+    "message": "Gestione dei Trasporti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99bccb5c-a3cd-4973-b82b-34b024932f27:name",
+    "message": "Progettazione della rete di trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aac858e3-9cf4-44d1-8467-06db3cfbdfdc:name",
+    "message": "Gestione dei Progetti Operativi di Trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "223486bf-1044-4fd0-95e4-081fca2675ea:name",
+    "message": "Gestione del rischio nelle operazioni di trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cf17aa1e-0604-4f86-a937-c16edb864b54:name",
+    "message": "Tecnologia e gestione dei sistemi operativi di trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4e1ed21c-13d6-46fe-a552-0458fd8d505f:name",
+    "message": "Ingegneria della Sicurezza dei Trasporti e Gestione del Rischio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "39778f22-8889-46e7-84a7-500e693693ac:name",
+    "message": "Gestione della Sicurezza dei Trasporti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f5c8bb3-1d8f-494e-98e7-99ccf8d34cc0:name",
+    "message": "Comunicazione del rischio per la sicurezza dei trasporti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a29af104-d1cf-430e-be9b-78fa434cf109:name",
+    "message": "Sviluppo degli Standard di Sicurezza dei Trasporti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "039813b3-b695-419c-b2a6-aeb4879eeead:name",
+    "message": "Utilizzo della Tecnologia per la Sicurezza dei Trasporti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37569e1a-d73e-4d14-877d-1ec9ef9bc941:name",
+    "message": "Pianificazione dei Sistemi di Trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0a164800-64da-4751-98da-48577a522495:name",
+    "message": "Manutenzione dei veicoli di trasporto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "535470d6-4f20-407b-b82e-277508e6729c:name",
+    "message": "Coordinamento di Viaggi ed Eventi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fdb10e11-1ce6-4ce8-a0b9-ad7205a2280b:name",
+    "message": "Coordinamento dei Viaggi e della Logistica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29a3e51c-351d-4a1a-bf2d-b5b85bf49e09:name",
+    "message": "Travis CI",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4b210756-6b76-446b-8351-06702869316c:name",
+    "message": "Gestione della Tesoreria e della Liquidità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cd651c90-31e8-417a-94c0-89af99ae7b6e:name",
+    "message": "Controllo del Rischio di Tesoreria e Liquidità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4dd72da5-bed8-445e-a2d6-d2ab28aa055a:name",
+    "message": "TreeAge Pro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58c0028c-3e5c-4f8e-b50f-df699c3e5bf0:name",
+    "message": "Trello",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5f9f2a8-4646-4a89-82e3-0b86a2737544:name",
+    "message": "Trezor Suite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef21c085-e6b5-49f6-a4fa-ef4e751fa385:name",
+    "message": "Tricentis Tosca",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ecc942b3-93d9-450a-985a-418aadc1c529:name",
+    "message": "Tridium Niagara Framework",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "962cef75-03ae-42f9-a45f-929d7787427f:name",
+    "message": "Trifacta",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fd001e32-f881-4749-8da6-777279a5e9bf:name",
+    "message": "Trintech Cadency",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca3b6ced-3c50-440c-9e7b-33e977078476:name",
+    "message": "TripActions",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bfeeafb6-ab93-43a6-8477-ed4601afbd55:name",
+    "message": "Trivy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ff43feab-7aa6-40f4-9a68-7c9eb5b627ff:name",
+    "message": "Tartufo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6bf2ff0d-20bf-4d43-9293-cd35bbf4ae67:name",
+    "message": "Truffle Suite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c1bed0bc-30a9-4445-a5b9-f0592c663f94:name",
+    "message": "Trulioo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8c3f8d4c-2f01-493f-a57c-ec212de4cf66:name",
+    "message": "TrustArc",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dce0e093-bc83-4eed-8eb8-d73decfac49e:name",
+    "message": "Sistema di Gestione delle Carte TSYS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9eb07a0a-4a92-4ce7-b5ef-dc5c0cb96d10:name",
+    "message": "Twilio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6675cae9-ecc8-4a75-a4ea-b96752fb64f0:name",
+    "message": "Twilio Flex",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57593419-8117-4f29-9e9e-2ca7e28718b1:name",
+    "message": "Typescript",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96408c64-a876-45b6-908d-d3460d5cb4a0:name",
+    "message": "UiPath",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "87bf8586-72b6-4c41-b1dd-85907336394d:name",
+    "message": "UKG Pro (Ultimate Kronos Group)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1dac80dc-ff2d-40bc-9283-5f9486c26d22:name",
+    "message": "Ottica Ultrafast e Fisica degli Attosecondi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7cdcf4f9-fbfe-454c-9329-c7e7aaa59dfd:name",
+    "message": "Umberto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c454d2cb-41de-49ff-8f7f-335dee73e6c1:name",
+    "message": "UML (Linguaggio di Modellazione Unificato)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d6def2d7-03bb-4cc2-b296-bceade1ad56e:name",
+    "message": "Operazioni di Miniera Sotterranea",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0c76587a-71eb-4673-b83e-01eb10dc7b79:name",
+    "message": "Comunicazioni e Collaborazione Unite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a6714215-4993-4381-90c5-2ca474e67994:name",
+    "message": "Strumenti di Comunicazione e Collaborazione Unificati",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5093b140-45ea-42de-ad98-8bac80f6fc7d:name",
+    "message": "Unità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5c3610e2-efea-4f88-b5f4-861c6a3c01d7:name",
+    "message": "Framework di Test di Unity",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9dd0e70-81c4-4186-9c2f-322d0ee5913a:name",
+    "message": "Progettazione di Veicoli Aerei Senza Equipaggio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "80f7b91c-017d-4728-975f-92a2e00a95f5:name",
+    "message": "Unreal Engine",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb5bf087-3330-40f7-8810-6de959568d18:name",
+    "message": "Principi di Design Urbano e Architettura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "287ead2a-44f4-4988-88c2-4284bc4fe8f8:name",
+    "message": "Economia Urbana e Pianificazione Finanziaria",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "77de2884-98f2-413c-b35e-1df1eaa53b63:name",
+    "message": "Gestione degli Asset delle Infrastrutture Urbane",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "67add640-3b3f-4c69-b6ba-af378f056951:name",
+    "message": "Politiche Urbane e Quadri Normativi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1dacd2f-8f6d-4f33-b880-ecac937bdb8b:name",
+    "message": "Pianificazione del Rischio Urbano e della Resilienza",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b33fa33-beaf-4ffc-aa75-48457080e87d:name",
+    "message": "Test di Usabilità e Accessibilità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8861843-9148-4722-8eaf-3f319c384b37:name",
+    "message": "Utilizzo di software per la gestione dell'acquacoltura e della pesca",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cd010454-0632-49da-ae94-9138db40e4cb:name",
+    "message": "Utilizzo delle Tecnologie e Piattaforme di Supporto per gli Studenti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ccf63522-0e23-4c21-9cb1-a0a80b6e7223:name",
+    "message": "Ricerca e Design dell'Esperienza Utente (UX)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5378d4fa-d9fd-4f15-b7fa-ae13e53bb39c:name",
+    "message": "Esperienza Utente e Ingegneria dei Fattori Umani",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e53934e-86a4-4091-8495-6bdf05912bf6:name",
+    "message": "Design dell'Esperienza Utente per la Salute Digitale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "116c310c-aa36-4fc6-9e38-95abe2827ab8:name",
+    "message": "Design dell'Esperienza Utente per Piattaforme di Apprendimento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b304e51c-04c1-42b3-80af-ac7edda7da11:name",
+    "message": "UserTesting",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5647a45-7f5e-40dc-9410-348e6710a6e4:name",
+    "message": "UWP (Piattaforma Universale Windows)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93b0492c-0459-4ef1-95f4-2a1b5bc971d0:name",
+    "message": "ValGenesis",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "199f22fe-f32e-4d99-b6e7-69f567a9169d:name",
+    "message": "Valgrind",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e6e8e4c5-bf0e-429b-ba1c-3d6c1ffac275:name",
+    "message": "Validazione e Qualificazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e1c06248-f49e-4b52-a547-ae0a90d8d227:name",
+    "message": "Gestione delle Compensazioni Incentive Varicent",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e7740112-25d7-495a-812d-1c5545e44c85:name",
+    "message": "VBA (Visual Basic per Applicazioni)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "df367441-59fa-4450-b149-9560cecb8183:name",
+    "message": "Vector CANoe",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7ee83df8-3536-442e-92b9-96239be27704:name",
+    "message": "Veeam Backup & Replication",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e08cf40e-68b7-4e64-a444-03eef860e5aa:name",
+    "message": "Veeva CRM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e240adf-e6f4-464a-8708-165b8893db3a:name",
+    "message": "Veeva Vault Clinico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "775d59ce-0f78-486b-a710-597ca74ca897:name",
+    "message": "Veeva Vault Gestione delle Forniture Cliniche",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8eb13c7b-fbe3-4664-938b-41b26b9457f8:name",
+    "message": "Veeva Vault CTMS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ebfc5f8-3032-4061-a776-f9bd1957f598:name",
+    "message": "Veeva Vault MedComms",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e24ba027-4f90-48bd-95ca-c90670d921c8:name",
+    "message": "Veeva Vault PromoMats",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4e7dbeb0-e452-423b-97a7-18eda3870947:name",
+    "message": "Veeva Vault QMS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "402ffd98-9d4a-439c-8b11-162907cc4459:name",
+    "message": "Veeva Vault Safety",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f79b17c3-c128-456e-ace8-1e953905df5b:name",
+    "message": "Progettazione del Sistema di Sospensione del Veicolo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96c18f84-849d-43ca-9a91-cb42decc835c:name",
+    "message": "VelocityEHS",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f33a4263-6ef9-482e-9418-1035523f4d85:name",
+    "message": "Soluzioni di Prezzo Vendavo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a27e4615-8c05-458a-804f-49feb11b67c7:name",
+    "message": "Gestione dei fornitori e dei contratti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "59277f76-781d-4e84-819d-615298ffdf5d:name",
+    "message": "Gestione dei fornitori e dei contratti per le strutture",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9c29c93-e37a-4e5b-b336-f50b6f5f174b:name",
+    "message": "Gestione dei Fornitori e dei Contratti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5bc0d069-6b37-45ee-853b-9431203fcbe3:name",
+    "message": "Gestione dei Fornitori e delle Attrezzature",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c48db1c5-e298-4be8-8671-7d5542e8589c:name",
+    "message": "Valutazione dei fornitori e delle tecnologie",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f42e43e-877b-4093-bc64-0c1b203b4070:name",
+    "message": "Gestione dei fornitori e dei terzi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04c52cbd-4de2-4760-8887-979d29dfaad5:name",
+    "message": "Gestione dei fornitori e delle terze parti nelle operazioni bancarie",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22c2be8f-dafb-4069-b865-f0891f78a2e5:name",
+    "message": "Vensim",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8d0857d5-6759-47f8-a2a5-2d2c1315cfc6:name",
+    "message": "Ingegneria della Ventilazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f6d0d169-86cd-4c12-b035-2ca60055393d:name",
+    "message": "Gestione di Strutture e Locali",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f984a257-6991-4a53-b7c6-f6e2e9ddfba4:name",
+    "message": "Veoci",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c2ed223c-5ed5-49a9-a250-d7934d271601:name",
+    "message": "Veramo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a20f80a5-b5cf-458e-9888-2779e7aa0737:name",
+    "message": "Comunicazione Verbale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6905c73b-845e-4535-a347-f481888c3806:name",
+    "message": "Verilog",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d81ccdb-e49b-4c95-b731-e6544d59a7d4:name",
+    "message": "Verint Engagement della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ccab2c47-744a-43c5-9fba-f8786c45e901:name",
+    "message": "Verint Ottimizzazione della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "baa055dc-d739-4805-9c2c-5a3bd1fb8447:name",
+    "message": "Controllo Versioni e Gestione del Codice Sorgente",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b738764-6820-4c5f-a019-1a7fa6e61d9b:name",
+    "message": "Controllo Versioni e Gestione del Codice Sorgente (DevOps)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "951d7ae8-1351-44a6-85f1-9e83763d969c:name",
+    "message": "VersionOne",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "641a9bd9-609f-4c8d-87f7-8db4e9f1cf21:name",
+    "message": "Vertex Tax Technology",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4245d506-8f85-475c-ac96-29213f3a15a6:name",
+    "message": "Collaborazione e Comunicazione Veterinaria",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2fdc8e10-c20f-476d-9221-48d0e307170a:name",
+    "message": "Analisi delle vibrazioni",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "531d79b4-7b4c-41c7-9356-882f0b93df3d:name",
+    "message": "Vibroacustica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4d38d2be-d17f-41db-a66f-e822b2dd1220:name",
+    "message": "Video Marketing",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b8c0bec1-008c-40e5-8df4-114a8a476944:name",
+    "message": "Vimeo Pro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a28a9ec1-7ee2-411b-b72f-a762b0a151fd:name",
+    "message": "Facilitazione della Classe Virtuale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5474139e-75d4-407d-96f1-63d87669a263:name",
+    "message": "Progettazione di Esperienze di Realtà Virtuale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "919dd350-8761-498e-8211-57aa057de96f:name",
+    "message": "Tecnologie di virtualizzazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1627b315-3d51-43c2-ba47-95ceeb7cf99f:name",
+    "message": "VisaNet",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f22296e5-9850-416e-8ce2-a16d8bda206c:name",
+    "message": "Visione e Direzione Strategica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9b60b63f-193a-4ba4-8489-ce6457a93610:name",
+    "message": "Gestione dell'Esperienza del Visitatore",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "badb0e3c-4a22-4e80-b5eb-6753e39f7f73:name",
+    "message": "Visual LANSA",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "33cdc231-67dd-4144-ac23-2f1feb9f2bfd:name",
+    "message": "Visual Studio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f04eebba-7f8a-435b-86be-4a7d265dbf6a:name",
+    "message": "VisualVM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "916d5563-9dd5-4c41-9d7b-4e9033b14571:name",
+    "message": "VMProtect",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb8edd7f-d345-4570-b24f-3d256ec86060:name",
+    "message": "VMware Site Recovery Manager",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37d59e1a-2412-4440-8c7f-732951cc4588:name",
+    "message": "VMware vSphere",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e314dd1-613c-48c9-8e0a-60f898d874ff:name",
+    "message": "Progettazione dell'interfaccia utente vocale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2fa60a3a-d344-44e0-858f-0b6c5daf3c75:name",
+    "message": "Voiceflow",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3abaecfb-a6bd-4c85-8f90-e9404a682388:name",
+    "message": "Volatilità",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5fec4491-f39c-4aa1-b368-c9bf12d9e5d8:name",
+    "message": "VPItransmissionMaker",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ed6fa492-507f-43b3-9ff9-b100dd3dbbc9:name",
+    "message": "Vue.js",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2611784a-0683-4613-967a-1c40956b25d6:name",
+    "message": "VxWorks",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7583c9c3-c56c-46da-a5bb-7c4a1fa7c06f:name",
+    "message": "Vyper",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dcb3e273-19c5-480b-bc87-27972352946c:name",
+    "message": "Suite di Wallstreet",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a5e74c06-e216-4005-a2a0-02dfdb529170:name",
+    "message": "Manutenzione delle attrezzature di magazzino e inventario",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "403c3ed6-0ded-4724-ab37-0e4cff903ff4:name",
+    "message": "Gestione e Pianificazione del Lavoro in Magazzino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b75f00aa-3093-44f1-a436-9326eaa23120:name",
+    "message": "Progettazione del Layout del Magazzino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3a4c7227-bc2e-4f52-8ead-0f4b715489a5:name",
+    "message": "Utilizzo dei Sistemi di Gestione del Magazzino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2c250194-71f7-489a-a36d-ec8e69453d39:name",
+    "message": "Operazioni e Gestione del Magazzino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d7cdccc2-e005-45ca-a3d1-1c26e0f738c5:name",
+    "message": "Gestione delle Operazioni di Magazzino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bf02858b-fce7-4376-a136-18a7199d431e:name",
+    "message": "Sicurezza del Magazzino e Conformità Normativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8618159e-8a01-4552-a084-092a8f2ecde3:name",
+    "message": "Gestione della Sicurezza del Magazzino",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5435fbce-c9c1-4e2d-971b-60b98f2c1b0c:name",
+    "message": "Operazioni di Raccolta Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "46b28bda-1f08-4f6e-88d9-543c00616832:name",
+    "message": "Gestione e Reporting dei Dati sui Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3917c799-e509-4057-9b71-d5cf3c2c2ee6:name",
+    "message": "Gestione e Smaltimento dei Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96f42c23-f19a-4259-ab7a-d531c9a550a9:name",
+    "message": "Gestione dei Rifiuti e Controllo Ambientale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b100b8f7-2edd-4d98-bd34-a92052a7183d:name",
+    "message": "Gestione dei Rifiuti e Controllo dell'Inquinamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "92325776-5f69-4bc9-89cf-3baf24ae6a47:name",
+    "message": "Gestione dei Rifiuti e Controllo dell'Inquinamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "876c60f6-217e-47bc-8647-fbac5db29ddf:name",
+    "message": "Gestione dei Rifiuti e Controllo dell'Inquinamento per la Sostenibilità Ambientale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "70ea1fff-b35d-41f6-9586-755a36571ae4:name",
+    "message": "Gestione e Riduzione dei Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "655f166d-b06a-40fe-9032-419932639384:name",
+    "message": "Strategie di Gestione e Bonifica dei Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8194096-621c-48dc-9ccd-4b77e9ce48d8:name",
+    "message": "Gestione dei rifiuti e sostenibilità nella sicurezza alimentare",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "74171d9c-ead6-4a11-b90f-a9101ad42c91:name",
+    "message": "Riduzione e gestione dei rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5b76b55e-1f9f-415f-b2da-2bbd91cf5a2e:name",
+    "message": "Riduzione e gestione dei rifiuti per la sostenibilità e la responsabilità ambientale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ef4be2a-2be5-4c7e-8692-2a087d04a879:name",
+    "message": "Separazione e Smistamento dei Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "934a832c-bda6-4150-9c80-79cd092bb751:name",
+    "message": "Trasporto e Logistica dei Rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e772fa0-6501-487b-b7ae-490ef21468e7:name",
+    "message": "Gestione del trattamento e dello smaltimento dei rifiuti",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "389d4038-d6b5-471b-ad34-8ff041fa61dc:name",
+    "message": "Monitoraggio e gestione della qualità dell'acqua",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "013c7be3-1163-449f-bb5b-8b7f0fdfd67b:name",
+    "message": "Conservazione e gestione delle risorse idriche",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "23ed2876-b474-4ae6-8cf5-a55748ac2fb5:name",
+    "message": "Conservazione e gestione delle risorse idriche per la sostenibilità ambientale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ffa9622-54bf-4728-809a-7b9d5850211c:name",
+    "message": "Gestione delle Risorse Idriche",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "846d0536-108f-4019-8341-ecceeaefe38a:name",
+    "message": "Gestione e Conservazione delle Risorse Idriche",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b7e7cbab-f90a-4124-b9e7-c779423b8d1d:name",
+    "message": "Gestione delle Risorse Idriche e Gestione delle Acque Reflue",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e2a499a1-78f2-40ef-8aac-91e42c0ed3dc:name",
+    "message": "Acque Empower",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b44d2329-fe45-4e80-a1d1-c575413996b0:name",
+    "message": "WAVE (Strumento di Valutazione dell'Accessibilità Web)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e8c8205-be60-437d-87cc-5b432744e7c2:name",
+    "message": "Analisi della propagazione delle onde",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f2b33c8b-1b15-472d-81e0-534211759b5d:name",
+    "message": "Integrazione dei dispositivi indossabili per la salute",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "52fc17b3-3d36-436f-b6f1-08eca56a516b:name",
+    "message": "Formati di Intercambio Dati Web",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "914717a0-22d7-4e1a-8586-52576dc1c5ca:name",
+    "message": "Web Services ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9b4c1dd-ca70-4306-b554-9b05189f5bd8:name",
+    "message": "Componenti dell'interfaccia utente web",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1394c06c-d360-4a0e-b69e-e2ad8d0f5206:name",
+    "message": "Web3.js",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ed6fe4a-1554-417f-b5de-dff8c9efb078:name",
+    "message": "Webpack",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0f11111f-06d0-4e64-9a80-0b1e9bb0837a:name",
+    "message": "Saldatura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a32a7a3f-4ca5-4f0f-a4bd-584a28d7aa27:name",
+    "message": "Completamento e Intervento del Pozzo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "31f38c83-c43c-4aae-af82-f34923fc814f:name",
+    "message": "Ingegneria di Progettazione e Perforazione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f61989ec-1b17-47ca-8727-afbd566d17ba:name",
+    "message": "Werum PAS-X",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ef7f061-50f3-4c1d-a5b7-a49cd2b5d467:name",
+    "message": "Westlaw",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "984ac92c-a28d-4454-81d0-b2f5dd0e370f:name",
+    "message": "Whispli",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "13725b21-487e-49da-89b3-04fcd493deb3:name",
+    "message": "Gestione del Programma di Whistleblower",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f7f9fde9-b309-4dc4-8f95-059b7845ef51:name",
+    "message": "Wind River Workbench",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc019469-5d7c-4202-8762-b0f6c82ac5b1:name",
+    "message": "Configurazione del sistema operativo Windows",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a171a09a-ef10-4d26-9542-81b88ee24e4d:name",
+    "message": "Editor del Registro di Windows",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ef0bf278-0f85-4bb0-b819-e6241ff3b094:name",
+    "message": "Ruolo Server NTP di Windows Server",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "97b854a9-3509-4e41-b013-8024e26479df:name",
+    "message": "Progettazione e ingegneria di reti wireless",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9b9c3414-63e4-4e1a-9838-718634f4c501:name",
+    "message": "Gestione del Rischio di Sicurezza Wireless",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d9d79e1c-b309-4278-af09-f89147636290:name",
+    "message": "Wireshark",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5d5094b8-5094-4a71-a2fd-8dfee3e0034f:name",
+    "message": "Wolfram Mathematica",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8b8056f-5dff-412a-8944-7fcee669bcb7:name",
+    "message": "Wolters Kluwer OneSumX",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2cb149f2-cdba-43cb-8232-f1714ab33d97:name",
+    "message": "Wombat Security (Formazione sulla Consapevolezza alla Sicurezza di Proofpoint)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9ad89cbb-21d6-4a0a-ac33-df99f38d24ed:name",
+    "message": "Wonderware InTouch",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "98cbd804-b0b5-4a14-8044-82a20132e407:name",
+    "message": "WooCommerce",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5bcbd126-77ef-409f-a047-bc4d5b2737cd:name",
+    "message": "WordPress",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f21a2b57-d14b-48d1-b03e-3be1ea707dab:name",
+    "message": "Gestione dell'Equilibrio tra Vita Lavorativa e Vita Privata",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0a974328-8807-471b-b3ea-d5b8d8326066:name",
+    "message": "Compensazione Workday",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "68af5aa9-634e-44c7-b126-63c1ef9c847e:name",
+    "message": "Workday Financial Management",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "63ad19fe-f573-45d1-920d-6754d53a0747:name",
+    "message": "Workday HCM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ecd06f6-405c-4e6e-92de-9ebcca491375:name",
+    "message": "Gestione del Capitale Umano Workday",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5ab01c1-d357-4a12-b755-51f9e76dd204:name",
+    "message": "Workday Recruiting",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1205724d-b54c-4d8c-a121-664990f9c7ee:name",
+    "message": "Gestione delle Entrate di Workday",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ebd3e79-adf7-4aa0-9101-37b131a35592:name",
+    "message": "Gestione dei Talenti Workday",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3ca9017-dd8e-4be6-8574-b8f465fd86c5:name",
+    "message": "Monitoraggio della salute dei lavoratori e programmi di benessere",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4412fcc-2d8c-4409-8704-e2502f36e1ec:name",
+    "message": "Coordinamento del Workflow e Gestione dei Processi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab26aabb-26f7-45bb-bb54-1ad204cd5a09:name",
+    "message": "Ottimizzazione del flusso di lavoro e miglioramento della produttività",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e8dbe7d3-15ac-4356-afdc-4b273bf987f2:name",
+    "message": "Coordinamento della forza lavoro e gestione del lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3c29eff-f258-4308-8840-a1663ba8a9f5:name",
+    "message": "Gestione e Analisi dei Dati della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ecc715b-e34d-4c61-8e90-8ae37de89005:name",
+    "message": "Gestione della Diversità e Inclusione della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4618f696-1690-44d0-a8ec-8634f8f89c58:name",
+    "message": "Evoluzione della forza lavoro e gestione del cambiamento",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "af77b502-0e7b-44a0-9875-8efefe8b6df7:name",
+    "message": "Salute, Sicurezza e Benessere della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a95504f-a7ce-4c57-ae01-a354c96c118e:name",
+    "message": "Pianificazione e Analisi della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2c3f2ef4-5098-433d-8768-5a3513087ca5:name",
+    "message": "Pianificazione e Analisi della Forza Lavoro per lo Sviluppo del Capitale Umano nel Settore Pubblico",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4663de4b-f67c-4fc2-92d5-422f9875c55e:name",
+    "message": "Assicurazione della Qualità della Forza Lavoro e Miglioramento Continuo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "96268dc9-66e3-4b55-acfd-3fbdcfd1a0fe:name",
+    "message": "Gestione del Rischio della Forza Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8076cef-49bc-4172-9893-c569faac7649:name",
+    "message": "Pianificazione della forza lavoro e gestione del personale",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "16579682-b700-47bf-b8b3-4153bb5886a1:name",
+    "message": "Pianificazione della forza lavoro e gestione dei turni",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1045d122-6748-4882-9d4e-7de7cbeef0db:name",
+    "message": "Workiva",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cff11154-af95-4b08-b869-e3a618324ad2:name",
+    "message": "Moda e Stile sul Posto di Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3e93d14c-785b-4a64-873e-3bc7da46f64d:name",
+    "message": "Luogo di lavoro di Meta",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "964cb621-4476-42ee-a4f8-931a27c73b4d:name",
+    "message": "Sicurezza e Conformità sul Luogo di Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "93ea9b5e-176f-4f91-bd55-c6f53cf3a64f:name",
+    "message": "Analisi e Reporting dei Dati sulla Sicurezza sul Lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0d450a1-0767-434e-88cb-ac32d14f6bac:name",
+    "message": "Sviluppo e gestione del programma di sicurezza sul lavoro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "160275ba-90c3-49c1-b1dc-232cf41ddc17:name",
+    "message": "WPF (Windows Presentation Foundation)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "01d3e20a-04b0-4061-bf51-f74347f1deca:name",
+    "message": "WPF (Windows Presentation Foundation)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45c42e6c-ee0d-4dc0-aa2f-462cd12abe5d:name",
+    "message": "Wrike",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "44709a0d-80ce-4a5c-8c7d-5444d97ae8c9:name",
+    "message": "Scrittura e Revisione",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9af8333d-95f7-4a66-bf59-3e1c7fdf4f98:name",
+    "message": "Comunicazione Scritta",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b9d0f22-188c-42c9-9ad4-9a1b14b47f54:name",
+    "message": "X-Plane",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "009c9794-982f-482f-9b52-57fe57750fca:name",
+    "message": "X-Plane",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9a477960-b2b3-4843-9aa4-3516968d0ffc:name",
+    "message": "Architettura del processore x86",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "06201e5f-7575-4af3-8ee9-bdecdccde0d8:name",
+    "message": "Xactimate",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5c787600-e4d9-4939-8d7a-338408069c70:name",
+    "message": "Xactly AlignStar",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d15e51a0-3203-40d5-9895-8af5f4b21632:name",
+    "message": "Xactly Incent",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad08c715-9aef-49b6-8473-2abe8eaf7071:name",
+    "message": "Xactware Stima dei Reclami",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e855efb4-5be6-486b-b522-3932cb05f155:name",
+    "message": "Xamarin",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e5a05124-929b-4db6-acad-8ec1c6a9e00b:name",
+    "message": "Sviluppo XAML",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6c89e714-2e9b-469f-8136-d255cacf3812:name",
+    "message": "XBRL (eXtensible Business Reporting Language)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3c2ace93-056c-4182-b6e1-9782fc976c12:name",
+    "message": "XCUITest",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0dd896fa-0b20-4b7e-a1f7-63ac2a7de631:name",
+    "message": "Xerces",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "16ca62a2-2e38-47c4-81a2-7039a0eba7a1:name",
+    "message": "Xero",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ebce5d44-ffd5-4cb2-bd9a-c8e2508189f8:name",
+    "message": "Elaborazione XML",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0a178e86-c849-4341-914b-20a989f53a1b:name",
+    "message": "Definizione dello Schema XML (XSD)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a3e224a0-e781-4edd-9347-a6828fad97f9:name",
+    "message": "XMLSpy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1b9009e-055c-47ac-8126-d365f30fc5f0:name",
+    "message": "Sviluppo di Applicazioni Aziendali XR",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85e10d77-ece3-4907-a5fb-cfe314ff7db4:name",
+    "message": "Integrazione dell'hardware e della piattaforma XR",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eef0fae5-344f-4478-b2ad-eaf0c1a59428:name",
+    "message": "XSLT",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "44c47ffa-6238-4320-8d3f-ddc15a7208e5:name",
+    "message": "Yammer",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8051fcc8-3973-4036-a024-5d0d0417f638:name",
+    "message": "YARA",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "14048984-f83b-426b-9622-bd23b04ec04f:name",
+    "message": "YOLO (You Only Look Once)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7706a460-60b8-468b-a478-3cb8acc91a77:name",
+    "message": "YouTube Studio",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "10dbe6fe-678f-407b-b49f-8c43939f61e5:name",
+    "message": "Z3 Theorem Prover",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b83f8b75-d24f-4f70-bd47-bc30f9cc88d5:name",
+    "message": "Zabbix",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ef8b0c3-87ed-423b-a9c8-3526145a0639:name",
+    "message": "Zachman Framework",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "321b4eb4-b81b-42c1-aed2-bdf21d1897cb:name",
+    "message": "Software di Serializzazione Zebra Technologies",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9c553c45-bee9-4bab-a74e-68cff1a1703e:name",
+    "message": "Zeek",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "11fce77d-7472-49d5-bc25-e29876c347de:name",
+    "message": "Zendesk",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "057d79b7-ff87-42a2-8bcc-e61652e0f4d3:name",
+    "message": "Guida Zendesk",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "38562812-43a3-4c90-b8b0-404698d1fa27:name",
+    "message": "Zendesk Sunshine",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b8086461-bd94-49e9-a9cc-b1dd973b829e:name",
+    "message": "Zendesk Support",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d56d1487-3ed5-40fd-b6d9-772e80fca9ce:name",
+    "message": "ZenGRC",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fed1c543-5713-42f4-9135-6242fb47dc0a:name",
+    "message": "Zefiro",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57af8f26-c63e-46fa-862a-9cfa5d66ff39:name",
+    "message": "Progetto Zephyr",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e9ad9f9e-0c8e-4726-a1dd-7273ff82f3af:name",
+    "message": "Zerto",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "23c63f79-65e3-4e7b-a5d5-e451bc4d9c02:name",
+    "message": "Zift Solutions",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6630020d-658b-45f0-a46a-6a37ffdcba33:name",
+    "message": "Zigbee",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "15b5b3b2-dda2-48d1-b007-987caf12e2e0:name",
+    "message": "Ottimizzazione dei Prezzi Zilliant",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "534510aa-ecb8-4ac8-8e59-728cb703552d:name",
+    "message": "Framework di zk-SNARKs",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9710f75d-2076-43ae-bf9c-2ff040b72a19:name",
+    "message": "Zoho CRM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b846e9f3-efca-4cd5-8240-b5360263895f:name",
+    "message": "Zonizzazione e Conformità Normativa",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a63bad3-d620-466a-93cc-72e4e07f0220:name",
+    "message": "Zoom",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "14ff7ad6-e505-4b3d-8ed9-2a7ed2ff0f36:name",
+    "message": "ZoomInfo",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e73ff27-355c-440c-ba1e-5eff5d09cd23:name",
+    "message": "Zsh",
+    "metadata": null,
+    "status": "success"
+  }
+]

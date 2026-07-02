@@ -1,0 +1,501 @@
+id,key,message
+c43f5d1f-f37d-40d8-9cdd-be9a7f4952d4,name,Natural Language Processing for Government Data
+098996f4-8da8-4c78-8b04-595475b0d470,name,Natural Language Processing for Healthcare
+3dcb50e6-5239-4346-af38-a523838e5e0f,name,Natural Language Processing for Healthcare
+6b298e20-45c8-43d6-bbec-ad9590255d07,name,Natural Product Biotechnology
+dfa34b48-72d7-4626-91ad-7be4578cb5c3,name,Natural Resource Conservation and Management
+5e03e074-ca49-4205-a6d9-48090e2a54e4,name,Natural Resource Management
+910d5f33-826a-4ccf-9729-50b512d98b71,name,Natural Resource Management for Environmental Sustainability
+eb358df5-f50a-41a4-b220-788dadf78c76,name,NAVEX Global Ethics and Compliance Software
+e699148a-a441-457d-9c63-d4c0ac646007,name,NAVEX Global EthicsPoint
+8efafbbb-241d-435b-8d28-8335d776b4b7,name,Naviplan
+5445bbe5-9bfd-4d89-8ead-cbb7924a0e30,name,NB-IoT Protocol Suite
+284321a2-ca69-4f45-818c-96481e931371,name,nCino Bank Operating System
+682e8a37-8c3f-4de0-8517-e956a0fc31fb,name,NCR Silver
+c193cd28-2a99-4048-82f8-d9abd6354758,name,Nearest Neighbor Search and Similarity Search
+8a60397f-039d-4718-a6ba-7aa36021ddf1,name,Needs Analysis and Learner Assessment
+026dff72-2e07-45a6-9fc4-882aba74ef26,name,Negotiation and Settlement Skills
+6e3064c3-cc80-4ba3-be39-f283cf082586,name,Neo4j
+c97a4fed-7b0e-4037-9ee8-12fb6f7ec08c,name,Nessus
+f529b9fa-2c52-42cb-a669-2ca606648a75,name,NEST Simulator
+61cdc1a2-f292-4a69-b0c1-3380a3074eca,name,NetApp Cloud Volumes
+02df32b8-31b0-41fc-ad48-f63749eb80c6,name,Netcool/OMNIbus
+33fe218d-ad42-410a-832d-04fbf6c106dd,name,NetDocuments
+81a6d3d4-8eef-4d96-a590-efc69d5fa0f5,name,NetFlow Analyzer
+b137c511-a90f-40d3-a492-25ad01322897,name,NetSuite ERP
+6f63015c-6000-485f-b994-0e560e0b4d45,name,Network Architecture Design
+97e8b049-3c73-48cb-ada6-cf6108520da7,name,Network Automation and Orchestration Design
+dabbfb2f-c303-44e6-bebc-dee5cc327683,name,Network Capacity Planning and Optimization
+1fd78da6-ae0d-4416-8fc9-ebd0c624595f,name,Network Configuration and Change Management
+0023d7a4-9e6b-4939-8abc-960aac24ffbc,name,Network Documentation and Reporting
+c8e12f27-6213-460f-965c-667e9238b686,name,Network Documentation and Technical Writing
+1ef8c1af-1808-4cbe-817a-1b4f983d879e,name,Network Equipment and Infrastructure Management
+38ca36fb-6bab-469d-8956-888e747bd30b,name,Network Integration and Interoperability
+ebba272d-7f29-4f53-81b0-4ea2dbf7f511,name,Network Management and Monitoring Systems Design
+cc35efa2-7305-4693-9f4b-c9152560ce1f,name,Network Operations and Monitoring
+06ff1811-4ac1-4621-9eaa-e126da49e389,name,Network Performance Monitoring
+480b1c30-2612-4c7a-af0f-2306b1a8be5b,name,Network Programming
+704bc964-2ae7-4a9d-9208-316ce7e25077,name,Network Reliability and Resilience Engineering
+b7e0b3d7-8b1e-4e88-8e55-c14afbea5814,name,Network Security
+d3678db8-e754-48f6-a874-6f6ba6f2d2ca,name,Network Security Architecture
+7dd52e3d-6e69-4c2e-9dba-cf5b8a39f513,name,Network Security Architecture Design
+4dbd25e9-8a6b-4853-bc9d-6dd947305905,name,Network Security Operations
+53159b07-dbf3-404e-80f9-a2afa4ea486c,name,Network Security Testing and Validation
+4ecb6c8d-e18f-42e1-84b1-170801538778,name,Network Simulation and Modeling
+7e4ba837-7e09-4b22-8fc1-1e0801a8222e,name,Network Systems Installation and Commissioning
+94b45655-60d9-448b-b1b9-69231f3a227f,name,Network Testing and Validation
+8c4f80d1-e872-44fe-98e9-38b974e1c853,name,NetworkX
+6ffa3fe4-2a0d-4a94-b0ff-c0e5e9d912bd,name,NEURON
+5038044e-33bc-46d4-b607-90d6f4ef2aea,name,Neuroscience
+d372c5bf-31e1-4487-857f-d893507e066e,name,New Relic
+9c6f7598-9635-4cf0-9e88-11e8b8226d8c,name,Nexus Repository Manager
+74b233fb-1752-4073-90b3-35a6a6ce55c9,name,Nginx
+252eb6d4-afdb-4dc8-b571-5bdd17c0cf2f,name,NI AWR Design Environment
+cefa3428-86b7-49bf-8a80-2a6903da0f9f,name,NI DAQmx
+e8adb7de-ac5f-4345-b371-5844342ba4ff,name,NI LabVIEW
+b447b509-81fd-4368-8317-36cf6feaa35e,name,NICE CXone Quality Management
+22ba3c25-2c2d-4c4f-a714-e97375552055,name,NICE Enlighten
+3301d99c-81be-4b61-a12c-928fbec56613,name,NICE Satmetrix
+71e8fbf8-4719-4fa2-81af-aa97300879fe,name,Nielsen
+8a1fabb2-ed9e-47b1-922a-22fdaf0eeb18,name,NIST Cybersecurity Framework
+a47a52cc-f671-4f3e-958c-b30c52d08d06,name,Nmap
+e427563b-5c85-4ad3-84a5-789464ee349a,name,Node-RED
+3f2e7e2d-d25a-436c-a54d-fbc108a88c7c,name,Node.js
+58c4ab9c-503e-4456-8188-7167583a42b3,name,Noise and Nonlinear Distortion Analysis
+19e4a236-20b3-45fd-9096-83e322ce8c77,name,Noldus FaceReader
+73575b29-d3b8-458b-a553-e23313a36314,name,Nonlinear Analysis
+6747e45b-8d9f-4d4f-8b8c-b6ecf142219e,name,Nonlinear Control Systems
+329a227f-fadf-4bba-ba8a-5fcd5b2d8069,name,NONMEM
+e0753c55-9b91-477b-8d6c-29c6b80def94,name,Nonverbal Communication
+0e417e87-4446-4be8-be3d-35328f51165a,name,Notion
+66e40f19-2258-4c19-a09a-1868ca967722,name,ns-3
+2b2bdb62-e38b-4147-8d93-f90dc7471faa,name,NS-3
+b14aef3f-a356-4995-ba98-908faad4f852,name,NS3
+137b1ce9-9d45-4361-a663-23e2b8fce504,name,Nuke
+177d607c-8d90-43bd-99e2-932078f1a605,name,Numerical Electromagnetic Modeling
+3c65cf85-db7a-46ba-b504-abcd7b907d80,name,NumPy
+dfc8abc4-eb95-4937-9c02-02fc8564552c,name,NVDA (NonVisual Desktop Access)
+fd74df9e-bf34-4684-b9f5-47a1bdfbb685,name,NVivo
+42b497ad-4b89-4cb8-919e-67be7ed6289d,name,OAuth 2.0
+2ca120b3-60ad-4b72-afe3-555de2ad5dcc,name,Observer
+298a3db8-80a5-40c1-8111-161ac807b6c0,name,OCaml
+f8f5bbe0-918b-4438-9419-3437aee7a609,name,Occupational Health and Hygiene
+4da472fc-3c61-42cb-a814-515f5efa93a0,name,Occupational Health and Safety in Forestry
+e19a5630-4dfb-4bfc-9a42-7efe92734648,name,Occupational Health and Safety Management
+0e03fe84-34d9-4106-95ef-7c45c4d84600,name,Occupational Safety and Health Standards Knowledge
+239bb18c-a462-41e6-9c66-0f675cfa54a6,name,Octave
+cf9a2d08-563a-4785-9354-d1293a88a28b,name,Octopus Deploy
+a3cdb57d-7b62-4721-b8f3-662018b8f8be,name,Office Administration
+7d735333-68b7-437b-a752-a3d5faad9486,name,Office Administration and Logistics
+25d29c5f-33bb-44e3-9cc3-493b60131411,name,Office Technology and Software Proficiency
+a2984962-de46-464a-b0a8-36e06d22f60f,name,Officevibe
+c6270241-e4b9-4ba3-900e-db838578b9b8,name,Offshore Mooring Hardware Engineering
+f970f0fe-bb9f-4e07-b74f-48a36e0352bb,name,Oil Refining Processes
+e3bf19bb-fa05-437d-9b10-11e228078499,name,Okta
+6ef6dcaf-daa3-45bc-b467-686e528aff49,name,OllyDbg
+4267cbd9-d22c-4c60-8502-ed4f1a343680,name,ONAP
+06f96d91-5bab-49e4-802d-487ddefd0da0,name,Onboarding and Employee Integration
+c193f195-1e81-4870-93c7-ede70da19e28,name,Onboarding and Employee Integration
+e81cfde3-d53d-4307-81f8-33b3c8238da7,name,oneM2M
+b636e871-2731-42f6-a817-f460b3e0877c,name,OneTrust
+5e7fd8e5-0d6c-46b2-95ae-51f1712eced5,name,ONNX
+85d39b34-d1fa-4071-ac75-bfd7d770bbb7,name,ONOS
+1e3f9ba9-9663-46e1-aa9e-5839fa2aed56,name,Ontology Engineering
+ce0d4d4c-6072-4976-953a-b9beafa3e94a,name,OPC UA (Unified Architecture)
+1334f0ca-ff8f-4c81-bb0c-6574bebf423d,name,Open Connectivity Foundation (OCF)
+14bc7972-2282-4e52-8cd3-fd053d17f090,name,Open Policy Agent (OPA)
+899256d0-ed79-4392-9077-bb4800c2d5c4,name,Open Source and Government Technology Ecosystems
+399deb44-09cd-4f03-b53a-cd8503ac8933,name,Open5GS
+b4e73cb2-dcc4-4927-a1e1-863684aca7bc,name,OpenAI API
+a05c7fba-2886-4c49-b151-cdd737f0cc37,name,OpenAI Gym
+eae76dc1-b4a6-40c7-9a6c-6e7c36af7390,name,OpenAirInterface
+18df8377-9b37-4e47-b284-d99d4265ffa2,name,OpenAPI Specification
+3a0bb329-2c87-4b01-a0c2-4574afdd044b,name,OpenCDS
+b20c0a5f-d464-49cc-a712-f5c839f4a79f,name,OpenCL
+6a365281-9c48-4141-9db8-236954ddbd28,name,OpenClinica
+465ecfcb-1e89-4227-928d-b4f38f69e5f2,name,OpenCTI
+1e935b78-9cad-4d56-86d1-9fa1f6eda18e,name,OpenCV
+fc0bf700-9857-481a-962f-e6910d492e15,name,OpenDaylight
+43da78b4-cea1-4037-b1fb-80670b1298aa,name,OpenDSS
+e21cd77f-5c09-487e-a746-e45ee2a22e35,name,OpenFace
+23a410f6-0d98-46e1-aca1-c0b3a198253d,name,OpenFlow
+fd6ca057-855a-49d9-856a-394fabaf5e5c,name,OpenFOAM
+4705e14b-8cd8-47ee-aa2f-8975f08123bc,name,OpenID Connect
+e1a7634f-2da5-44b2-9d61-3c73f9fc42fc,name,OpenLab CDS
+64d80e86-7ba2-4f0c-85a9-cb1742f6f0ab,name,OpenLCA
+4c19a811-bdc5-4b7e-981b-111a2bddb0a8,name,OpenMP
+49b4dca2-e1f8-4bd8-b861-050769e09394,name,OpenPages
+717401c6-adcf-41a8-ba3c-f03dae458347,name,OpenPages (IBM)
+45b8cb38-7a70-488e-a5bc-d668f53457a0,name,OpenPages by IBM
+ad509ec4-402f-4dfe-973a-0b121ebeaec8,name,OpenSCAP
+0aa80cd9-e100-4f44-9f0c-faa68e9aa199,name,OpenShift
+d02ca99d-9839-41e0-bf47-86b5dd6eb80f,name,OpenSSL
+22010b3d-35a5-4a16-856d-91f4ab56ba67,name,OpenStack
+cb11582e-c31c-4cc1-9665-0e837c6a9fdc,name,OpenText Content Suite
+4aba6d40-2331-4ea6-bf64-5e425481b4b8,name,OpenText Legal Hold
+b8c2a4a1-c226-4203-9397-6c22bafaf833,name,OpenVAS
+e15a97ca-abe2-4926-9a71-f48ad7859527,name,OpenVPN
+52fa5ba4-2b75-4139-b75e-5bcfcbf0df8e,name,OpenZeppelin
+29d07fd4-4b0d-469a-9446-758f40c5d461,name,OpenZeppelin Defender
+35cf5970-374b-4253-bb71-32432165f96e,name,Operational Data Analytics and Reporting
+785a818e-e1d8-4e81-a121-d94527232233,name,Operational Planning and Resource Management
+550e9f17-ddaa-4ace-a1f3-63a215ae43d3,name,Operational Quality Assurance and Control
+e04c2311-4167-4237-b244-9354f7e573c4,name,Operational Risk Management
+e76f8541-5027-4f9a-a08e-9c6de4839637,name,Operational Risk Management (BOS)
+59d4a511-3704-4999-a1a6-7d7e31a18313,name,Operational Risk Management (FRMC)
+5ec0fb6e-b152-45a9-a3ae-f33ec18bb612,name,Operational Risk Management (SDO)
+5dd9db86-7c92-4c0e-955b-b4876e76563b,name,Operational Risk Management for Extraction and Production Operations
+890990eb-67d9-4982-a5bc-a7692240250d,name,Operational Technology and Information Technology Convergence
+3d4d1663-3ad5-4f57-b473-16e4f1dbf120,name,Operator Algebras
+c9f561ab-5c6d-4dbc-8bb9-6be795eda57f,name,OPNET Modeler
+da63f763-f68e-45f7-be53-5af69e15dd11,name,Opsgenie
+33718aa3-e93e-4ea4-b71e-68ea4262fe93,name,Optel Group
+32e2e3f2-5467-4bdd-a6b7-c8b6706777e1,name,Optical Waveguide Design and Analysis
+99a0cfce-1d51-40cf-a2de-f6f8a2f6ceb9,name,Optimal Workshop
+6d5e4d83-8714-4637-ae75-71a9d5a68f8e,name,Optimizely
+affb4ab5-3e41-4096-93a0-435bb59b299b,name,OptiSystem
+e41080d6-15e7-4614-a794-586980b79156,name,Optiwave OptSim
+170498f0-6484-4515-a273-63a50d333846,name,Opus
+1cb283df-9e25-43a9-845c-8ea0775df565,name,Oracle Account Reconciliation Cloud
+b8cb94c8-096a-47ac-bc59-16bb016cd0fc,name,Oracle Analytics Cloud
+d8235bf1-c5aa-47ac-a779-76beb7643e41,name,Oracle Argus Insight
+0bfe2a3c-c161-448c-a35e-28e6452a86d4,name,Oracle Argus Safety
+f209f770-f132-420e-97c3-d36e04233a90,name,Oracle Clinical
+268a7706-0bb7-4c73-b95a-0a3285a9625e,name,Oracle Clinical Safety Gateway
+8152c5d5-d042-4321-be50-fa34c3516a89,name,Oracle Cost Management Cloud
+017164f2-2feb-4391-8a3c-0be90a0890f4,name,Oracle CX Cloud
+7a0adc8e-d009-4115-a4fa-3a6236324903,name,Oracle Database
+d4275a54-79de-4ffe-b451-db4c42035b34,name,Oracle Demantra
+0de3741d-f4c8-4d4e-90a7-18e1563a720f,name,Oracle ERP Cloud
+7ac4ce78-fc92-4131-b221-438fcf304d92,name,Oracle Financial Services Analytical Applications (OFSAA)
+9f8073a1-4f5c-4d82-962f-12c9bbc61a5d,name,Oracle Financial Services Analytical Applications (OFSAA) AML
+e18f7a14-d6dd-4613-b92b-1c88ce76b5b2,name,Oracle Financial Services Regulatory Reporting
+161f8415-92a2-4a3c-b3b2-35dcf22ffa6c,name,Oracle Financials
+d90a3465-4748-4b51-b177-792055fde0dc,name,Oracle Financials Cloud
+3d4dcdf6-2a9d-4280-ba21-aed2c94725b8,name,Oracle Fixed Assets
+b230bce6-5ead-4846-b2ca-c8a2432ce65c,name,Oracle FLEXCUBE
+e3440f51-c2cc-401a-8b4a-8bdcb4e42ad3,name,Oracle Global Trade Management (Oracle GTM)
+bd908af0-445a-4d8b-8782-c15513e2e0de,name,Oracle HCM Cloud
+058ee7cd-6dcc-4a2a-a9b6-8ecf83c9e464,name,Oracle HCM Cloud Compensation
+4b1424b6-588f-4f60-9061-93d44c674e9c,name,Oracle HCM Cloud Talent Management
+47791d3e-2492-4197-92f3-3a7e7e7ed1dd,name,Oracle Hyperion Planning
+2fa48948-cad0-4f6a-8f2b-aebfcf593358,name,Oracle Inventory
+cbc0e5c1-bcf6-465c-9b29-496a3f5f2ed7,name,Oracle Manufacturing Cloud
+078f04b5-1370-455f-bd01-a27534643ef0,name,Oracle Order Management Cloud
+789ebbf0-b96d-496b-966e-bfe2ea70cad1,name,Oracle Primavera P6
+d1b12b39-1887-4b22-9dc9-fd319e30d954,name,Oracle Procurement Cloud
+dd873ceb-b341-4545-9703-23ed18652098,name,Oracle Product Lifecycle Management (PLM)
+5293776b-8bb6-4935-a527-2c07cdff8ff5,name,Oracle Revenue Management and Billing (RMB)
+a41998ef-a26d-4a30-a29e-ab6561c9e32a,name,Oracle Risk Management Cloud
+2047a7d7-9b9c-44a6-a47e-18e6916faf3d,name,Oracle SCM Cloud
+4450cda7-2434-488a-ad45-745efbe59193,name,Oracle Supply Chain Management Cloud
+26ac6753-02e4-47e0-8ff7-ccdeacb54e09,name,Oracle Transportation Management (OTM)
+b1387f79-c446-4683-b9af-cc78c8cfa355,name,Oracle Treasury
+ad682ec4-f531-45de-b7f1-3311f5d5393a,name,Oracle Warehouse Management Cloud
+11b5e6bb-102b-406f-be39-ae1c39b5ec7d,name,Oracle Warehouse Management System (Oracle WMS)
+b84cda88-890c-43e5-b001-0f563e659c41,name,Oracle WebCenter Portal
+8c5b4d4f-4b19-4a1f-a34b-875b7830884c,name,Orbital Mechanics
+d83728fb-49cb-45ed-bb08-f41ba8c15e4e,name,OrbitDB
+b69e67fe-a24f-4f70-aba9-9ca1f291539a,name,Orbus iServer
+dab2f703-68f9-43d7-bd89-d7cbd1d23dff,name,OrCAD
+9255493f-2036-435a-af30-856eecda05c5,name,Orcaflex
+4b031d79-8217-4bd8-934c-4a3b4616998e,name,Order Fulfillment and Customer Service
+531eb6d3-b9b7-4dd4-bf49-cacb7609c6e1,name,Order Fulfillment Management
+5833c700-9997-489d-af72-74b4030667f3,name,Ore Beneficiation Techniques
+98204b87-84bd-45a9-bc3a-06b38e2d2362,name,Organizational Alignment and Collaboration
+530439a6-d9e4-49ab-a3f9-b571058ed0de,name,Organizational Alignment and Integration
+7d51d8c3-aeff-4037-88c2-b106dfbc7e37,name,Organizational and Competitive Positioning
+fce6dcf2-d3bb-4832-8147-fefc6b9dadd0,name,"Organizational Design, Development, and Talent Management"
+e8710307-3138-45e4-bccc-92a0b4c11d1d,name,Organizational Development and Change Management
+80156ad0-10ed-4b12-8ccd-8f648554804d,name,Organizational Development and Culture Management
+fa9059c1-3a9d-405d-8829-88672b146a1f,name,OSIsoft PI System
+08a5ee07-7fe5-4140-b2a0-60a905bbfac0,name,OTP (Open Telecom Platform)
+4b80b5cc-8883-4031-aa88-a84d2038e09e,name,OTP (Open Telecom Platform) Framework
+dcf0d310-8a66-42a7-93fb-039a7761e6b8,name,Outreach
+d1b79083-e98c-4b64-9e51-3e529686fcab,name,OutSystems
+ed435cf0-4a16-4511-88f2-6d58e5d3709a,name,OWASP ZAP
+60642271-3918-4cfd-9aa5-49aaee43451c,name,OWL (Web Ontology Language)
+3ba1d17b-7c24-4b67-8086-1662428430a3,name,OWL API
+fdb5bc23-656e-44e9-99b3-84f81b67a491,name,Pa11y
+d1f844a1-bd83-45ad-8ee8-8c4378145eec,name,Packaging and Labeling Operations
+12982955-e751-460c-9e7b-64005ce03333,name,Pact
+eb9a9d7a-b30a-42ce-bd1e-5740b608fc75,name,PagerDuty
+039f909b-971a-47d6-ae30-f935f2271d73,name,Palantir Foundry
+ef89dd38-edb8-4f04-88d1-b0eb511acd0a,name,Palisade @RISK
+1ab86494-e283-4112-934e-d751799a21d8,name,Palliative and End-of-Life Care
+dfa5e274-a10f-4aca-bca4-3ba13eb86e4d,name,Palo Alto Networks Cortex XSOAR
+25ec54e8-3d8b-4ba4-9d11-e3a3b5739eef,name,Palo Alto Networks Next-Generation Firewall
+dea39862-9742-486d-aa78-427546a8b6fb,name,Palo Alto Networks Panorama
+23cb781c-b8a9-4583-a8de-b5de1a0d0652,name,Palo Alto Networks Prisma Cloud
+ed13ab56-305f-4b06-8dc6-34d9cb7a05c9,name,PandaDoc
+b00fe182-9fe2-4eb8-bb3c-f0d45f21a5e5,name,pandas
+fad7423e-8fce-45f7-80f1-a193261da92a,name,Parallel Programming
+be27bd25-b206-44be-83ef-2f888593e906,name,PartnerStack
+c01493c5-a6f1-4586-9fa9-c3677420f39d,name,Patient Assessment and History Taking
+5b0e6703-0526-4da2-bce5-4d378221517a,name,Patient Communication and Counseling
+880b3a0c-3fc5-4433-b6f0-2a5e100ff992,name,Patient Engagement and Digital Therapeutics
+44e19b69-32ee-4c82-b3d4-80bdf6f4760f,name,Patient Experience and Engagement
+408d1b1a-8102-4240-a5e4-2970206fdd88,name,Patient Experience and Engagement Management
+8b024b36-0e52-4191-a43f-7be19e712093,name,Patient Flow and Capacity Management
+4e2614d2-8720-4e4f-88c8-37c9c85156f8,name,Patient Monitoring and Vital Signs Assessment
+051b02a3-c6a9-4457-99be-4a4f94432f68,name,Patient Recruitment and Engagement Strategies
+a0e01467-a0d2-4d08-997f-7f1e4760916d,name,Patient Recruitment and Retention Management
+ebbe19ea-9a95-409c-bced-cde27011fb61,name,Patient Safety and Risk Management in Clinical Trials
+74416b7f-029f-423a-95a3-9e7a77bf5558,name,Patient Safety Management
+a169fd7f-6daf-4ced-b7ad-6e3f5f941f06,name,Patient-Centric Engagement and Advocacy
+2364fd59-fae2-4368-bf7c-1898e5784790,name,PatSnap
+5292fc00-1b15-4a0a-86cb-dcd73dbf1b3d,name,Payment Card Operations
+da2c3e43-f2a2-4712-bc65-1aa6f48b44db,name,Payment Systems and Clearing
+ce3b3399-3f3b-43f1-98b2-30c97590deca,name,PayPal
+f70be6d9-9b08-4eb3-8be6-3dc683edabef,name,PayScale
+0d6b0f55-5e44-4144-8572-570ca977f916,name,Pedagogical Strategy and Differentiation
+b1a67be1-86cb-4d2b-9434-157b13567c3c,name,Pedagogical Theory and Instructional Strategies
+2069c813-d8b9-435f-88c2-ef14f1839fd0,name,Pellet
+06fbd761-b4fd-4be2-81d5-1e088c56ea36,name,Penetration Testing and Ethical Hacking
+ffe6ee13-26b2-427f-87f0-ddc4330f7c44,name,People Analytics and Workforce Planning
+b2983381-e993-4780-a19c-029b431318af,name,Perceptual Intelligence
+286bdecd-c7d3-4d15-8757-1e3d4faf5c7b,name,perf
+86fd68be-5ba4-4610-8b3a-39b8f093edfb,name,Performance Analysis and Optimization
+f8e29af3-d30d-4d9f-b163-c1ae4a3231a4,name,Performance Analysis and Sports Analytics
+5f4df40e-8431-4a7c-aa5a-63fcf7e8f1e0,name,Performance and Scalability Architecture
+41561610-b3dc-4ae6-bbd5-711db6230164,name,Performance Management
+4462234a-cc3c-4216-9813-8558de224c12,name,Performance Management (WDHC)
+68a1e7e2-efc9-4ace-bc36-2c0ca2391434,name,Performance Management and Monitoring
+99902d5b-dcb8-48ae-89a6-f9a5e0505f16,name,Performance Management Systems
+e38a9a88-b358-4bcc-90a6-19f226ef8fea,name,Performance Measurement and Analytics for Digital Government
+7bb6c794-240b-440f-acca-b634540743e3,name,Performance Measurement and Attribution
+4b07ba15-19e7-42b8-a35c-1c46334b5473,name,Performance Measurement and Budget Evaluation
+8fba6fd6-c759-4611-bace-7aa8069e397c,name,Performance Measurement and Continuous Improvement in Compliance
+f642e497-5d9d-460e-b49e-beebbc852913,name,Performance Measurement and Management
+475b6717-0a99-49f1-94ca-2aa24c12064f,name,Performance Measurement and Management (SP)
+a1045ae7-7d2b-43c1-ae22-3a7675b0718e,name,Performance Measurement and Reporting
+8bcaf52b-f406-403b-87a3-ff830bcc72e8,name,Performance Metrics and Reporting
+bb9f2535-0cda-47e6-84a9-596c749dbe18,name,Performance Metrics Development
+7bf7b425-2582-4587-bcc2-2dc795aea5ba,name,Performance Monitoring and Evaluation
+a7d0363c-fa76-4a53-9d71-f064c64f90cf,name,Performance Monitoring and Optimization of Digital Systems
+56f593f6-1b59-40ab-98bb-59bd74dd2383,name,Performance Optimization and Scalability
+3e02274d-cde0-4a29-b32a-2da743160fb2,name,Performance Optimization and Tuning
+493007a8-35af-4c39-a167-b498a8f6379b,name,Performance Recording and Media Production
+0c137d58-80ae-4e70-a1ba-0927ee1e3943,name,Performance Reporting and Visualization
+573d500e-c403-478c-9146-f7292bc37b51,name,Performance Testing
+3bef1c98-1020-4653-b171-8b05799524e4,name,Performance Tuning and Optimization
+5ee9a925-be51-4c84-890c-639ec9ed7143,name,PerfView
+d77bfba2-3f5c-4974-b74b-5fbcee14b887,name,PerkinElmer Signals Notebook
+8b195934-83e8-4495-b0b7-a11965939d81,name,Permit Acquisition and Management
+650f9a8f-186e-44ba-9bd7-67fc68f4e526,name,Personal Development and Self-Management
+19d77ddc-01b7-4dab-9911-20637fe0d821,name,Personal Hygiene and Handwashing
+d254c9b0-cb20-48d4-ab99-d34c8d7f35c1,name,Personal Protective Equipment (PPE) Management
+ae3e4e32-7492-4633-a084-4dc20d26e9a4,name,Personal Protective Equipment Management
+40aecee6-0a16-40d0-ac2d-39e904ca8d88,name,Personal Resilience and Grit
+ba4486ef-0732-4d61-ae74-c54e7bdd427c,name,Pest and Disease Management in Forests
+d9c44961-b185-4bc0-b4b9-1c62da52ffc3,name,Pest Control
+dbf794c4-41c1-482b-ade8-078b111f3a07,name,"Pest, Disease, and Weed Management"
+54028178-619a-443b-90a2-a140d5128d81,name,PestPac
+a7378409-5397-4f0a-832a-9e12b7db61ae,name,Pharmaceutical Automation Project Management
+f4327262-f56f-4d95-86d1-4ab463746b2e,name,Pharmaceutical Data Management and Governance
+3513ecc3-90a2-448d-b5aa-295773754f47,name,Pharmaceutical Equipment Automation and Control Systems
+c5abe5e9-fa36-4de1-ad85-4983ba14ceb3,name,Pharmaceutical Equipment Operation and Maintenance
+d2a9c152-1ebb-49c6-b51f-e4cd65d1583e,name,Pharmaceutical Formulation and Dosage Form Manufacturing
+fa8c65ea-4700-49ea-90fa-db324fbd3e61,name,Pharmaceutical Formulation Development
+ad0412d2-0d0b-4611-af08-d506855c49fa,name,Pharmaceutical Industry Strategy
+82faa274-ca0a-4a46-a284-0ddcb606e218,name,Pharmaceutical Packaging and Labeling
+1fb4328b-29a1-4e67-a3ff-0965d393bea9,name,Pharmaceutical Product Stewardship and End-of-Life Management
+5167391c-a913-4f47-a329-3f4aab85c1f2,name,Pharmaceutical Software Development and Engineering
+45b18019-eb55-43f8-9b8c-8be6a6c9924e,name,Pharmaceutical Supply Chain Continuous Improvement
+910b03a5-97e8-4460-9d2b-d0162c5a9006,name,Pharmaceutical Supply Chain Finance and Cost Control
+22354492-82fa-4db8-8ba3-554ee7046f08,name,Pharmaceutical Supply Chain Sustainability
+3db3169d-991a-47bc-90d8-4675b3bb9a17,name,Pharmacokinetics and ADME Studies
+46b9b81c-89ce-4a42-b3ec-918df1ad2331,name,Pharmacokinetics and Pharmacodynamics
+27d1dd4f-050e-4f91-982e-3bd18e11c76f,name,Pharmacology and Mechanism of Action Studies
+bbc28b5b-67d3-4825-b38a-631fea427567,name,Pharmacology and Medication Management
+b76d151a-734a-49f9-837e-c2cbc01a1100,name,Pharmacovigilance and Drug Safety Monitoring
+cabfc79f-e8b0-4d23-b15e-e166b43a9cc4,name,Pharmacovigilance and Safety Reporting
+a12cd59d-a99e-4914-adc0-eaf57f79ac2f,name,Pharmacovigilance Auditing and Inspection Readiness
+e0739f2a-81a1-49da-a60d-7404b9d33bdb,name,Pharmacovigilance Ethics and Patient Safety Advocacy
+dc8cbec9-3af8-42f9-87c7-e6ba1e308afc,name,Pharmacovigilance Policy and SOP Development
+ec66849b-dbbb-4d2e-824c-7b1cba7adc48,name,Pharmacovigilance Project and Vendor Management
+7d8d7c1d-7e36-4893-a3b7-dc58c04cec0b,name,Pharmacovigilance Quality Management
+c575b349-157f-413a-9946-93e817ef3572,name,Pharmacovigilance Risk Communication to Patients and Public
+4009349f-5f05-476a-889c-bfc5aba01694,name,Pharmacovigilance Systems and Technology
+0d8304d4-b212-403f-8a2c-4700d469f7bc,name,Pharmacovigilance Training and Development
+b42bcc27-8e0b-477a-b172-2fd0b2451b48,name,Philosophy
+ada75259-f3b4-4092-8cb1-c821a79f0958,name,PhishLabs
+8d55ec0d-d9ef-49fb-a95f-c8b059c4e9ee,name,PhishMe (Cofense)
+67b88b1f-8f40-43b1-b840-f987c08c3bba,name,Phoenix WinNonlin
+5ffda7b9-2fab-422b-b84a-c4e15fef8616,name,Photography Techniques
+34d55abd-696a-4ef3-8122-047411e502c3,name,Physical and Environmental Security for Network Infrastructure
+8534a067-94ea-4cb8-913e-1bdff1e6cdb0,name,PhysX
+cabacd14-28c1-4aca-b489-6294e7152e43,name,Ping Identity
+8772cd24-b40f-4a63-979e-afdbfc994937,name,pip
+f937d2f1-0523-4474-bebe-f2f4f7807f11,name,Pipedrive
+26daac80-49bc-4438-9525-88315cb04b2f,name,Pipeline Integrity Management
+7ebc52b2-d2c2-4d7a-bb9c-0ba300d4ac78,name,Pipeline Pilot
+cb7b627a-ad5f-4df3-bb31-63a49d615d31,name,PitchBook
+9fb09f5e-b1b7-4c42-8b3b-e1f6c81df0c0,name,Planon
+5598fb7f-6440-40f1-a8b3-ba677afd8381,name,Plant Physiology and Growth Management
+c38814fc-6402-4359-82fb-e0719b6aa319,name,Planview Enterprise One
+3a32da81-1d16-4e48-81db-e4d9a478ac16,name,PlatformIO
+3f8c20a5-128f-4672-b847-1f843510644d,name,Playwright
+4798a1d1-30db-4cb5-aaf9-ebfa8ed4b0f1,name,PLC Programming Languages (IEC 61131-3)
+c62d700e-0ad1-4dae-a2b4-c91f1996ac50,name,Plex Manufacturing Cloud
+ce1dba9c-8448-4160-827a-87f38b35ad21,name,PMD
+723df425-32bb-47df-91e5-e444f71bacd2,name,Policy and Procedure Development
+1239280e-2d44-4cef-86a3-c7eb4af56f6c,name,Policy Development and Governance
+89975293-8426-49fd-a588-0e05f1155655,name,Policy Development and Implementation
+685b0b8e-534a-41e9-8424-54aaeb7e33f9,name,Policy Development and Management
+c2ccf462-c1cb-4396-900c-1ad49662a3b4,name,Policy Development and Management (CGR)
+a2ee13ee-b201-43bd-acbe-3f51336e5070,name,Policy Development and Regulatory Strategy
+bb4c0a3f-022a-48bd-a3b9-e387cc146987,name,Policy Formulation and Design
+2e9b2f59-62df-40f4-a51b-4f1b02ffc838,name,Policy Implementation and Change Management
+c1323b17-9256-4c02-9332-73c77a30239f,name,Policy Implementation Support and Coordination
+ac388162-c0a4-4fc0-98ad-65acd408122a,name,Policy Monitoring and Continuous Improvement
+7e7f7e04-399c-4a87-8112-8ddbaabd1fd6,name,Policy Research and Evidence Gathering
+fe68a05f-d32b-4cc5-9aa7-64225becdf32,name,Policy Underwriting and Structuring
+345fe14e-2dec-4d7d-9800-44b780a87181,name,PolicyTech
+7e31226f-a5f5-462b-af40-2f1c09960a36,name,Political Institutions
+b38d273a-0183-4b7d-9189-b78359e4e40c,name,Polkadot
+3f47fc1c-c329-4b13-96db-7fc77dcd2bf4,name,Pollution Control and Waste Management
+fd6d30c5-cbdb-42e8-94fc-e9654efbdaea,name,Pollution Prevention and Control
+82251788-ea52-4c63-9c86-8a96fcb6c9ce,name,Polymer Chemistry
+59bc074d-76ae-4037-8936-475419812a4e,name,Polymer Processing
+d57b27f8-eccc-4132-86e9-d0ad129dc361,name,Portal Administration
+415249a8-c2b1-4dae-b6aa-9519b03f9b47,name,Portal Tools and Services
+a66c98d1-5fee-427d-b6e5-e16365e7a55f,name,Portfolio Management
+f9dcd1c9-da2b-4de1-8c97-09c83e7a464f,name,Portlet and Content Integration
+1ea51412-436b-4c66-8af9-a643c95e2b9d,name,Post-Market Regulatory Compliance and Surveillance
+36883e3b-e57e-4eda-af06-2972289146b1,name,PostgreSQL
+327bed34-be12-4fbb-8a2b-213b766c63e4,name,Postman
+d29ec38e-3dc7-43ff-8549-3f78300e76c0,name,Power BI
+d4ef6648-6c3f-4a58-919f-c10031d455a6,name,Power Management for IoT Devices
+5e2d3ee6-34ca-4927-a886-4fcd037cef04,name,Power Profiler Kit (PPK)
+9c8b6f50-3a47-42a4-b6f6-1e68004ed6dd,name,Power Quality Analysis
+7aaaec88-b378-42a3-8510-1467d2f985d0,name,Power System Protection
+27db60a9-c757-4367-9489-da1be9f522df,name,PowerBuilder
+7830d8cc-8e9a-4def-9d94-3bd7b6e353ca,name,PowerDMS
+ea8de7d3-fab5-4e8f-86c1-5458223af6da,name,PowerPoint
+b9e40885-0a30-4a95-a88c-d4dd20d3c05b,name,PowerSchool
+3e8cdb0a-f28d-4c6b-995b-a36b734a1c94,name,PowerShell
+b870042e-2d45-4be7-82ae-f31d1ffa4640,name,PowerWorld Simulator
+dd30c4c2-3852-4a3d-990b-6cadca4638ac,name,PQView
+e9ae0b45-d4f7-4098-8588-1e142bbe3080,name,PR Newswire
+93421e59-5a2e-4d4a-8982-563a3988c839,name,PractiTest
+f3cebbad-514f-443d-bc79-9a353c1eb723,name,Pragmatics
+faab570f-495a-4b19-9582-f3e153a62cd5,name,Precision Agriculture Technologies
+af0e361e-2210-4ff4-806e-5af4b4356492,name,Precision Input Application Technologies
+9c77ce19-14d3-4371-b0cb-deb43870e2bc,name,Precision Motion Control
+e193b571-6685-4ed8-b78e-ca8f6095e223,name,Preclinical Safety and Toxicology Assessment
+fe914f1a-bd09-4f8b-a16a-08205197be3d,name,Predictive Analytics and Modeling
+f512cf4a-1d21-4d26-b84d-5b2a248e8bbe,name,Predictive Maintenance and Asset Monitoring
+cc6da595-a884-4265-b1dc-bcf7caf12566,name,Predictive Maintenance and Condition Monitoring
+77077813-cc94-4b37-a6b0-03eb1d8be242,name,Predictive Maintenance Technologies
+1489d5a5-faf3-4bfe-ab8d-90e070e7609b,name,Predictive Modeling and Machine Learning in Healthcare
+e75408d2-c532-4fb0-a7a0-f8d96b2494f0,name,Prepar3D
+18d7ffd6-da25-4da0-88ee-347bf46fabf3,name,Presentation and Facilitation Skills
+65e53356-f6dc-498f-8271-9b0b87cd2a14,name,Prevalent Third-Party Risk Management
+06efaedc-1744-4db4-92b7-82d7f3f51f27,name,Preventive Maintenance Planning
+2a345669-efbd-48d5-b3ba-312c71bcd599,name,Preventive Maintenance Planning and Execution
+11d97ce7-6969-4fe7-87d8-2c108f36b724,name,Prezi
+72926b9f-c7ef-418f-9cd8-f12f06584779,name,Pricefx
+2d68e4d4-9178-44dd-841c-2553a28217bd,name,Pricing and Promotion Management
+efc71b76-d37b-4967-a30f-76ddd8644ced,name,Pricing Strategy and Management
+93a940b0-351c-4f12-a521-cd240b04eaa7,name,Pricing Strategy and Profitability Analysis
+b80522b4-4a40-4ccf-9209-27d8d14cb5a4,name,Primavera P6
+08781471-18ce-460e-9279-65944820de4c,name,Prism Library
+e3dc8482-dd45-4112-97f7-e4a6565dc47d,name,Privacera
+0cd6f2e8-5003-42bf-a612-220b90fa8017,name,Privacy Compliance and Data Protection
+4e3cae88-f681-4512-a41f-bad66a768f91,name,Private Pilot Training
+d5d0643a-0251-446b-8459-e1727e87558c,name,Problem Identification and Diagnosis
+de5c00ec-4d99-4452-8f16-f73397be4e21,name,Problem Management
+62c124d3-0aa3-4e6c-9591-6b2f45f43ecd,name,Process Analysis and Optimization
+14bdf9dc-d1c8-4ac5-9a9a-877991ff68ab,name,Process Analytical Technology (PAT) and Process Monitoring
+4c2733fb-d3dc-40c2-a597-e7bec518b5e0,name,Process Analytical Technology and Process Control
+0ab236a8-3c4d-4f3f-834b-10949488f5ff,name,Process Calculi
+73632826-df3f-4b80-bef4-91e5d585cbc3,name,Process Compliance and Regulatory Adherence
+377e166c-07c4-4879-9051-3e79d3026d79,name,Process Control and Automation
+4ed54780-0c9c-4209-98e6-dbee3edeb377,name,Process Control and Instrumentation
+bf5bb061-6cdb-4eda-9072-8213612e411d,name,Process Design and Optimization
+db159522-8107-4fb4-83bf-fec3ab312da3,name,Process Development and Scale-Up
+93ebcf24-21a6-47af-a51c-eb7f89b65393,name,Process Optimization and Continuous Improvement
+f3e6da0d-e083-4c74-94b6-9ac03fd76293,name,Process Optimization and Troubleshooting
+492d3bf7-24f6-44e3-b4f5-f9b992c2cdda,name,Process Simulation and Modeling
+35984a6e-0110-4abe-98ae-c130660cdc57,name,Processing Equipment Operation and Maintenance
+5e819a5b-1f13-4a47-a700-275e01aa6d5a,name,Procore
+2b9146f7-eb5f-4a4b-9721-a74faa61a2c9,name,Procurement Analytics and Reporting
+9114997d-295b-4a03-bc3e-732223049b24,name,Procurement Management
+6344babc-ca04-49a5-8587-5f21d56f080f,name,Procurement Policy and Governance
+b8b4560d-fbca-4842-bf4f-da8bb8e44bd7,name,Procurement Project Management
+80bf7e53-bb49-41db-8d7d-e1871bc86e37,name,Procurement Technology and Systems
+eeaf69f8-22fc-41fb-ac3d-ce89e949a105,name,Product Conceptualization and Requirements Analysis
+3f27063d-1de8-43bc-99d7-95d21e3081c1,name,Product Design and User Experience
+602f975c-037b-4f78-be6b-06ad1c8725a6,name,Product Development Lifecycle Management
+8a25f1af-b96d-42b4-8de7-03168f90cdad,name,Product Documentation and Knowledge Management
+8066bf1e-ccfc-4dd8-9104-c65e2eeb9b13,name,Product Launch and Go-to-Market Execution
+ea4f881e-22f2-4daa-bf52-1fbd7255fa25,name,Product Lifecycle Management
+02a07947-eccd-4708-bfc9-11cf3ab49260,name,Product Lifecycle Management (PLM)
+19eda987-ff5b-4921-af73-812e4e261346,name,Product Lifecycle Management and Governance
+7f1ef374-e59a-4b79-85b1-496fa87575cc,name,Product Management in Software Development
+4c36100c-3240-4bf7-b3ab-3549e0679d9c,name,Product Management Tools and Technologies
+db40c72b-ac08-4c7e-ac68-bbc30e87d30c,name,Product Marketing
+9f72258c-26a0-4284-8788-c41418eebc3c,name,Product Performance Measurement and Analytics
+38d56bd9-830d-4838-aaa4-d0af98ca5013,name,Product Portfolio Management
+2a839216-f230-4863-9de3-8b64ef632d67,name,Product Recall and Crisis Management
+fcabfc61-1899-436a-b6f0-c28433535080,name,Product Requirements Management
+5abc0504-79bf-4fbd-aaf8-9dda0d61bf97,name,Product Risk and Compliance Management
+e718c171-832f-4eb5-a989-7e46529981ee,name,Product Roadmap Planning
+70860d92-f53c-45bf-ae5d-16f7e16edd3b,name,Product Strategy Development
+c1f4faae-818d-4ec2-94ea-700b2e21018d,name,Product Supportability
+aa960472-6b33-4cba-930e-a8a298c61aa1,name,Product Testing and Quality Assurance
+3a1f83b3-9b6c-4607-9f3b-cbc7c61fa724,name,Productboard
+126d51b8-e179-4ccd-bc66-a688cf337b73,name,Production Budgeting and Financial Management
+6fae2526-355a-412f-9d43-c3e3543dd5a0,name,Production Forecasting and Decline Analysis
+75e732df-4b67-4858-a416-dd7d1f9671c7,name,Production Forecasting and Optimization
+cd4e10cf-8f37-47f1-9c62-3d1e0ff37319,name,Production Planning and Optimization
+49557724-4889-48b8-b04e-b426eb0b9a9b,name,Production Planning and Scheduling
+48b5b360-38a4-4be8-b2cb-169e633372e5,name,ProductPlan
+72537abd-a2b7-41b6-be54-51c7781bfba8,name,Professional Development Program Evaluation and Quality Assurance
+23daae7c-fda7-4fcb-9710-a95b59a46d80,name,Professionalism
+45192d26-fd4d-4314-aa26-2c48fea66348,name,Program Development and Evaluation for Student Support Services
+f8f71af1-4c79-4142-b59c-4228263cb12d,name,Program Evaluation
+e5cda7ee-46b6-4071-ab57-29439a51d506,name,Programming Fundamentals
+7b2ad312-3d8e-41c7-891b-06c2f808c86f,name,Programming in Go for Blockchain
+df2c7ebb-16b8-411b-acf5-84c9ae9b1403,name,Programming in Rust for Blockchain
+406911b0-267f-4d09-bf3e-e1f206a88a59,name,Programming in Solidity
+a6008330-a68c-458e-a9fc-16b351652b82,name,Project and Process Governance
+c802f79f-c38d-4da9-8a0a-6b454722ff31,name,Project and Program Management for Digital Government
+dbafbe74-38d5-4568-ac61-95a0a25779d7,name,Project and Resource Management in R&D
+28bbf56a-3ac7-4e4d-8ec3-d1f5cbdb231e,name,Project Closure and Post-Implementation Review
+eda96636-826e-4f31-bcac-81ebc9a347f0,name,Project Execution and Monitoring
+b76f8ed7-2bb2-44db-82fc-3753df5bef1f,name,Project Management for Agricultural Equipment Development
+c00c188a-088f-4454-80b8-e7d646b877ff,name,Project Management for Analytics Initiatives
+d386fa49-5c38-408f-922d-17adbfcff505,name,Project Management for Digital Health Initiatives
+9faa7f83-8d02-468e-b88b-88fa8ab8d618,name,Project Management for Digital Innovation
+51330a57-7a00-4361-a30a-d674056f1371,name,Project Management for Digital Transformation
+6257798d-3fc4-4ea7-bbc9-42d148e4ca9e,name,Project Management for Education Research
+d00c3938-af55-4da3-9d16-1661753157bd,name,Project Management for Educational Technology
+8aebc89f-70f0-4aa2-b51f-707a33251c67,name,Project Management for Environmental Remediation
+9190f329-7f0a-4576-9723-3db3e60b4567,name,Project Management for Environmental Sustainability
+122bff67-e94a-4bd8-b745-ee6b7319927d,name,Project Management for Facilities and Administration
+fde92a2a-830d-434d-97ee-4cecca769c8c,name,Project Management for Mine and Well Design
+ba8a7010-34e2-4ec7-ae50-78f0665d9e18,name,Project Management for Network Infrastructure
+6f4d4f2f-41d5-4283-8bb9-6a9b53d435be,name,Project Management for Processing Facilities
+cad21e1c-eec7-4741-933c-93eef0349778,name,Project Management in Aquaculture and Fisheries
+d1f13b8c-b947-4bbd-b8b5-0be3e1ad3fc3,name,Project Management in Drug Discovery
+a58fef6d-ce0d-480a-959c-85ecc85dc79c,name,Project Planning and Scheduling
+f5065402-47e8-490c-a01a-3b91ef6b7172,name,Project Portfolio Management
+f6714054-e1e2-452b-a1cc-c0c439cf9ebb,name,Prolog
+8e733066-172b-4d36-b3e4-130d2fe08c44,name,Prometheus
+1e409ece-362f-4086-a121-f2071a710581,name,Prompt Engineering
+6f7880bf-32e3-46bd-87ee-61f4fe43097f,name,PromptLayer
+e3fbd348-27d1-4409-8545-46e40aa50614,name,Prophet
+50f1b194-df5e-493f-91c5-e7aae6773af4,name,Proposal and Contract Management
+eddfa2f1-cea1-46eb-8519-c02a623f289a,name,PROS Pricing
+e3020179-e6b2-4a62-b15d-1c9f6880bc10,name,Protégé
+44cec29e-d789-4445-9c0a-cd0fe3c8ad3f,name,Protocol and Standards Integration
+b7e4c2f4-68cf-4c3a-ba8a-68800ead24a1,name,Prototyping and Proof of Concept Development
+29520c87-f69c-480b-8884-68758a71e867,name,Prototyping and Rapid Manufacturing
+4748727f-4d86-4966-8e4f-3d3db5fa45c6,name,Prover9
+54c13c20-1fc4-40ad-83e3-4c6761e4ff4b,name,PRTG Network Monitor
+02ac0a22-f91e-4b89-96a3-4246d44241fa,name,PSIM
+16275c7b-bf2b-420f-a398-26fcd2138e5d,name,PSS®E
+2e8b6283-9485-4700-beb1-83d5d8396236,name,Psychological Counseling and Mental Health Support
+b3ecff63-f621-4d15-b2e0-c93f9e66828a,name,Psychological First Aid and Crisis Intervention

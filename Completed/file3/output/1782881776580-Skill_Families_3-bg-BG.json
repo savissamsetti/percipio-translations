@@ -1,0 +1,3002 @@
+[
+  {
+    "messageId": "8964c8c3-e8fd-4b58-8357-7acbaaf76f44:name",
+    "message": "Управление на данните и управление на отворени данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2269e43b-3c5e-41a5-8195-0a445d6ac562:name",
+    "message": "Управление на данни и управление на качеството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1262814e-bf31-4d2e-8145-f1860ca22907:name",
+    "message": "Управление на данни и управление на рискови данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55bc48e9-268d-47fe-937d-c3bc5cb82176:name",
+    "message": "Интеграция на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "50922a7a-de3a-4879-8fa0-6e5677d4b0d9:name",
+    "message": "Интеграция на данни и интерпретация на геоложки данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e91ab2e-fb87-44d0-a473-bb876a7be59a:name",
+    "message": "Интеграция на данни и интероперативност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3edf26fb-c2c6-45cc-bb64-dff215a49824:name",
+    "message": "Интеграция и управление на данни за проучване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c11404e7-f19a-4504-9b5b-f59b89aa62cd:name",
+    "message": "Цялостност на данните и съответствие на електронните системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c81e8ad6-4be6-4bcb-87b4-e5b7dd12221c:name",
+    "message": "Цялостност на данните и управление на електронни системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bbf53166-3aa6-4445-ba8b-8dc39da25ea0:name",
+    "message": "Интерпретация на данни и генериране на прозрения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8fa16649-efed-4b78-aff7-635f161f29ab:name",
+    "message": "Управление на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cd77a9ec-4920-4c48-b9c2-b62a8a5ea951:name",
+    "message": "Управление на данни и аналитични инструменти за политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f4688216-64ae-49de-a66d-e2a1e1397538:name",
+    "message": "Управление на данни и системи за бази данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6ec109df-43b4-41d1-a1e2-b0437e09932a:name",
+    "message": "Управление на данни и документация в фармацевтичното развитие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2127d803-849d-4d49-a151-388d56036b75:name",
+    "message": "Управление на данни и отчитане за съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5bbf5c0-0bf4-4453-b0a7-bf2069a52400:name",
+    "message": "Управление на данни и отчитане за образователни програми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8d48f9ac-a8c9-4f8f-8b6d-8b9505f48016:name",
+    "message": "Управление на данни и отчитане за публични Services ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47c7e253-e7f2-4e6d-b3af-3c7158ebc83f:name",
+    "message": "Управление на данни, отчитане и статистическо подобряване на качеството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "44e56efd-ac23-4ae1-a020-d11c5f50170e:name",
+    "message": "Управление на данни за поверителност и информационна сигурност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fe2e0716-1e0f-4a34-85fd-7d65df9a5d80:name",
+    "message": "Защита на данните и конфиденциалност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e29dea4-a931-46b2-9337-58f630e2460f:name",
+    "message": "Защита и поверителност на данните (НСЦ)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "41680495-2010-4e06-af45-75e085355009:name",
+    "message": "Съответствие с правилата за защита на данните и конфиденциалност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "60c16c7a-ec21-43ad-b93f-6eed501d8062:name",
+    "message": "Управление на данни за поверителност и защита",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "461b24f5-85dc-4cf8-9c05-2c2150458eb9:name",
+    "message": "Осведоменост за защита на данните и сигурността в операциите за поддръжка",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "10633881-f60b-4bb3-a7ed-bca9b2eae4f8:name",
+    "message": "Съответствие с данните за поверителност и сигурност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7de43acd-6205-41f2-9dd3-cef2ea625bc8:name",
+    "message": "Съответствие с данните за поверителност и сигурност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ce389bc-e4f7-4a35-be3a-f3f4edec838b:name",
+    "message": "Поверителност и сигурност на данните в образователните технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a6ebcca8-7bdf-4c04-9e28-4b0e4d494953:name",
+    "message": "Поверителност на данните и сигурност в здравеопазването",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e571482-3b89-4cc8-a263-6d8fce65bb0a:name",
+    "message": "Осигуряване на качеството на данните",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9da2a177-38e8-4068-8a6a-c00c5d96def3:name",
+    "message": "Осигуряване на качеството на данните и валидиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0eeada6-75b0-4162-a98c-f1c4c2c0f960:name",
+    "message": "Инженерство на надеждността на данните и умения за кариера",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dcb9890c-632f-4f5e-af49-cc47b7f831e1:name",
+    "message": "Докладване на данни и комуникация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "575b5e7c-44c6-43af-bef1-2849cb17f562:name",
+    "message": "Методологии в науката за данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30af9c1f-ebb6-430d-a8db-4c231f3fd002:name",
+    "message": "Сигурност на данните и съответствие с поверителността",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "960b7b36-374a-4805-9ee3-f559a6ae32e9:name",
+    "message": "Структури от данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3f2e966b-c18c-4e65-ac61-2ceba3c0bfb2:name",
+    "message": "Оценка и измерване на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ed47727-ca67-4a2e-8682-a6a32bb91ad6:name",
+    "message": "Визуализация на данни и комуникация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e74883a-aa6a-4032-a6ea-2b7bbb28e43f:name",
+    "message": "Визуализация на данни и отчетност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "722a854d-2366-4495-b410-c22ebac39a83:name",
+    "message": "Визуализация на данни за измерване на представянето",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5be33cbd-2b18-428f-b6ef-28816563831f:name",
+    "message": "Обработка и подготовка на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e1c0182d-2fc3-4a53-96a2-0ed4bde854e9:name",
+    "message": "Анализ на бизнеса, основан на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "abca2556-2117-42b4-b99e-2efd2a74de2e:name",
+    "message": "Решения, основани на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f7761443-6492-49db-a4ce-1ecd0e12d3fd:name",
+    "message": "Стратегическо вземане на решения, основано на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e7463e01-25d5-46d5-bada-a21ed04b7fc2:name",
+    "message": "Дизайн и разработка на бази данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "80f9934a-bc6c-4662-9e66-fde28cb47c68:name",
+    "message": "DevOps за бази данни и управление на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3b527bbd-b8a4-4446-ab0a-2100a827a334:name",
+    "message": "Databricks",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a4a97e1-4fb2-4d1e-a77d-e27dec5c2b06:name",
+    "message": "Datadog",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ada05377-66e8-4565-b346-7c7c4573a78e:name",
+    "message": "DataStax Enterprise",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ba6c63fd-35e9-44c7-92a3-01375969dfae:name",
+    "message": "DaVinci Resolve",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c1a316a4-92f4-4aed-a780-bba8945bce81:name",
+    "message": "Отстраняване на грешки и автоматизация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e7f404d4-c84c-4718-ad60-2f781ad08956:name",
+    "message": "Разработка на децентрализирани приложения (DApp)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "75d92fae-92e6-4aea-b89d-ecd6c850e21d:name",
+    "message": "Децентрализирана идентичност и управление на достъпа",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "61250c4c-1f6e-448d-9c23-e066159bba30:name",
+    "message": "Анализ на решения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d5f880ec-dc3f-4692-97f0-ac5f0b2875cf:name",
+    "message": "Системи за подпомагане на решения и софтуер за управление на ферми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f5f3a31-eb4d-429e-8775-c676f0436bcb:name",
+    "message": "Вземане на решения и преценка",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00ebb162-4da1-4e09-81e9-1f967cbd5b4f:name",
+    "message": "Вземане на решения и анализ на компромиси",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "610ab8ee-69c0-4b4a-b3eb-584dc205e9e8:name",
+    "message": "Вземане на решения при несигурност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce21d912-bd24-431e-8fd9-20b4b2ff4d62:name",
+    "message": "DecisionTools Suite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1df54fa0-f618-43f6-a022-b4261e52c8f8:name",
+    "message": "Дедусе",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "892dcdf8-c7db-442b-9a4d-383c2d47e20a:name",
+    "message": "Дълбоко обучение и невронни мрежи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ff84c423-d572-4c3a-9b06-50af04aad2f7:name",
+    "message": "ДийпКем",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4b686f82-6986-4ae1-85cf-2256749e00aa:name",
+    "message": "Деек",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "855a5d52-8ccb-4d7c-ab88-f548ba08af8b:name",
+    "message": "Управление на дефекти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9039431-c786-47e8-a883-1f5d2b424406:name",
+    "message": "Управление на дефекти и анализ на коренните причини",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6457ea47-668b-433d-9694-84efe1e1a788:name",
+    "message": "Делегиране и овластяване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f4d7830-0ddd-419d-bd7a-30b4e839bf40:name",
+    "message": "Dell Boomi",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d00829e-6dfd-4634-b79a-46116ecf87a5:name",
+    "message": "Делфи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "69f5d686-caa7-45c5-98a2-790b4366ea83:name",
+    "message": "Delphix",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0dfe36fe-e4f5-4cc3-a026-fb6380a5fda7:name",
+    "message": "Deltek Costpoint",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6ec82952-51b4-4e92-bde2-62d8c20d49d2:name",
+    "message": "Прониквам",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0741662d-5599-43e2-a8e1-a83aa7d7ba9e:name",
+    "message": "Прогнозиране на търсенето",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "528b1584-297c-409c-b779-daa314cd4427:name",
+    "message": "Прогнозиране на търсенето и планиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6100f5ff-0741-4a53-ac41-fa1e8d47b85c:name",
+    "message": "Планиране на търсенето и прогнозиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3b69c43-d3a7-48a8-982a-2f67db788522:name",
+    "message": "Демократична теория и анализ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3af17770-40a4-46ab-aeb5-f8163b8b9417:name",
+    "message": "Група на системите на Декарт",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d98b60d0-7331-48b9-a29e-c8fd0aaf2fd8:name",
+    "message": "Координация и сътрудничество в дизайна",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e7bfdd12-7845-4a8b-b232-52e005cfc9d9:name",
+    "message": "Дизайн за X (DfX) и Робустен дизайн",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9530f830-95fc-4de6-8870-9e23d7598cdf:name",
+    "message": "Адвокация на разработчици",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e55c0f73-fdf7-48fa-918f-6e69deb8658a:name",
+    "message": "Разработка на индивидуализирани планове за подкрепа",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ad12d5e9-9d06-494f-95fc-d12b238493ee:name",
+    "message": "Управление на отклонения и контрол на промените",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c9486923-9ef8-4f9c-b19c-45c5190c365b:name",
+    "message": "Управление на устройства",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "712cb952-40de-4aac-91aa-3d766ad0c150:name",
+    "message": "Автоматизация и скриптиране на DevOps",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8022af00-7583-4418-b70a-c29728d2efdc:name",
+    "message": "Метрики и отчитане на DevOps",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f1ec38e4-5540-444f-abc9-e0d1749861a7:name",
+    "message": "Dialogflow",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5dd822e8-5073-48f5-b6db-4a5a664bf5d0:name",
+    "message": "DIALux",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37aad932-0c27-4616-ac24-bead1e15bea6:name",
+    "message": "Диализатор",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bf184a22-5114-40b0-a2ab-0bc83909d615:name",
+    "message": "DIDComm",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b34f4a6d-ab59-47ed-adfb-9be46b97e772:name",
+    "message": "Диференциални уравнения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "adccb629-cabd-4f55-9cdd-205d7f3651a7:name",
+    "message": "Дифузери",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "be8a5ecb-3793-4fed-bcf8-2b8bb6cd8947:name",
+    "message": "Цифрово архивиране и дигитализация на колекции",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "479e39e1-f7e2-4a04-aeea-2bf650d6a003:name",
+    "message": "Управление на цифрови активи и проследяване на жизнения цикъл",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7222c334-2638-4aec-a252-f752e6d7fe81:name",
+    "message": "Интеграция на дигитална банкова платформа",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99f20a62-3daa-49ff-8585-5a8d6ce60b90:name",
+    "message": "Цифрови биомаркери и анализ на данни от сензори",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6c2d3a8c-5524-4474-98ee-906bded55d2d:name",
+    "message": "Цифрова комуникация и сътрудничество",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3543c292-7d7e-47f0-b82f-91aba8994001:name",
+    "message": "Цифрови комуникационни и колаборационни инструменти за нововъзникващи технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0dd6f7fb-c5e0-4adc-aa57-4a11e9b59c45:name",
+    "message": "Умения за цифрова комуникация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22a4e35d-642b-4837-a449-dd5e3a0165b1:name",
+    "message": "Цифрово строителство: осигуряване на качеството и контрол",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fe40034b-1dde-424b-8313-ebaf7e5a9e57:name",
+    "message": "Създаване на цифрово съдържание",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8595e436-d186-43ef-a96f-a72292e1aa9b:name",
+    "message": "Цифрова култура и лидерство",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "22b3cbc2-6601-498b-bfc0-09118c624b5b:name",
+    "message": "Цифрово ангажиране на клиенти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b36bfd00-d2b6-428d-a3ed-73595395eb25:name",
+    "message": "Интеграция на цифрови екосистеми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8edc3f47-87ce-4754-a96a-27a49b2628bb:name",
+    "message": "Цифрова етика и съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "32346bb5-4f46-4b35-8742-e3dde8868be9:name",
+    "message": "Цифрова етика и отговорна употреба на технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fdfaf3d9-55d4-41f9-85f7-dffce6de40de:name",
+    "message": "Цифрово управление и съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "69d93dee-e0ea-432b-b021-613f09665c5c:name",
+    "message": "Етика в цифровото здравеопазване и поверителност на пациентите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b4651c5e-788a-499a-a24e-c19597c0ed57:name",
+    "message": "Цифрови здравни иновации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4727a3d4-08fe-4bb9-ad0a-01a33781f26a:name",
+    "message": "Управление на цифрови здравни проекти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0324be20-a71c-492b-a3bd-74b4adb7899d:name",
+    "message": "Осигуряване на качество и тестване на цифровото здраве",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "429e8c4c-2451-4a78-859f-fe928cb3060d:name",
+    "message": "Знания за регулации и съответствие в цифровото здраве",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d01d1c2c-8b1f-4ff5-b440-fc1cdc916b22:name",
+    "message": "Регулаторно съответствие в цифровото здраве",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6e878905-48b4-4160-b2be-47330bc39a0f:name",
+    "message": "Интеграция на цифрови здравни системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55ed4d17-298b-4ae1-8d39-5b911ce32545:name",
+    "message": "Цифрови здравни технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bc9fef4a-534e-4ae6-8d3f-7b9abda54b5c:name",
+    "message": "Цифрова идентичност и управление на достъпа",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "10f84c4c-a550-4a2b-ac01-aa04335f75d6:name",
+    "message": "Цифрови идентичности и технологии за достъп",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "246b9cb6-1b50-4ecb-81b7-e76054966e10:name",
+    "message": "Цифрови идентичности и технологии за удостоверяване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8f15e82-822e-4f44-93fb-4d48e1e92b52:name",
+    "message": "Технологии за цифрова идентификация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9572042f-dd10-4978-b674-a33968e6d591:name",
+    "message": "Цифрова инфраструктура и интеграция на системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "840820af-1ba5-4716-a1c9-2ee753cddb83:name",
+    "message": "Оценка на цифрови иновации и нововъзникващи технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c49e9023-68d7-44fb-b434-474bd33cf787:name",
+    "message": "Цифрови иновации и мониторинг на нововъзникващи тенденции",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "623fec9d-9758-4d86-9336-af2623942a77:name",
+    "message": "Управление на цифровите иновации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5bbe418d-8af9-4b5d-92b1-402979d93f26:name",
+    "message": "Цифрова грамотност и обучение за служителите в публичния сектор",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ac309693-d730-4ea6-bdf0-43743f9e449a:name",
+    "message": "Цифров маркетинг",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4f67eb5c-71d1-433c-b5ba-766a3e9f0afb:name",
+    "message": "Цифрови плащания и транзакционни системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "378fcf1a-8456-427d-809e-4c9d71064e1e:name",
+    "message": "Цифрова педагогика и учебни стратегии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9ff3ff3-f5dc-43b5-99be-cba9458f09d7:name",
+    "message": "Дигитално проектиране и оптимизация на процеси",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8855a62e-6eab-4486-936a-dcc09c393a2e:name",
+    "message": "Цифрово възлагане на поръчки и управление на доставчици",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "315feb33-f3dc-465c-a3db-ee304ada15cf:name",
+    "message": "Иновации в цифровите продукти и услуги",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "123b5687-0b2e-4e57-a12a-eb82d413e5b0:name",
+    "message": "Цифрови иновации в продуктите за финанси",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "227f2828-0a72-4113-8706-7e97ffbdf0cd:name",
+    "message": "Цифрово управление на проекти за инициативи за трансформация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "43561c56-03b5-4089-b6d3-cd4882891a71:name",
+    "message": "Цифрово осигуряване на качеството и тестване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45c5671b-3d07-4ba7-b713-874242b05de0:name",
+    "message": "Управление на цифровия риск и устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6594f9cd-e585-44ea-ab02-4b573afe5afd:name",
+    "message": "Управление на цифровия риск и устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0c0f53c2-35d6-4a8b-bb95-dceec6be9443:name",
+    "message": "Управление на цифровия риск и устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0085db0e-a14c-4318-aa02-0b2fe79f759d:name",
+    "message": "Цифрови продажби и електронна търговия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "db755806-ce89-4df3-8d80-ed2d4782b746:name",
+    "message": "Дизайн и доставка на цифрови услуги",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1fb318a2-b678-481d-b9d3-cf985f4f0f46:name",
+    "message": "Дигитален дизайн на услуги и потребителско изживяване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "43b2a07c-3b90-4964-97f0-04104743a72a:name",
+    "message": "Разработка на дигитална стратегия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "02ed788b-d6d7-4e70-851a-3af10698dcb7:name",
+    "message": "Цифрова устойчивост и оценка на въздействието върху околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0590a511-97fd-46ee-9cc2-642820d6d794:name",
+    "message": "Изпълнение и внедряване на цифрови системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "72b830f6-2afd-4b00-a4ef-7c3fb766ed55:name",
+    "message": "Архитектура и дизайн на цифрови системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cb25f220-1740-4ef3-b7f7-3763d13e4996:name",
+    "message": "Развитие на цифрови таланти и изграждане на способности",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6ae072e7-9adc-4765-b824-bc14295b6239:name",
+    "message": "Интеграция на цифрови технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5e6bd26-cc6c-44a6-9c36-6f1aec4bd710:name",
+    "message": "Цифрови инструменти и платформи за разработване на политики",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "add1d04b-4a2b-416d-9132-0a85902122c2:name",
+    "message": "Архитектура на цифровата трансформация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a34fc377-ccbf-4a4e-b133-b2b2a633ba17:name",
+    "message": "Цифрова трансформация в производството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f4c6165-e2fb-428c-8fe9-af62739d2f16:name",
+    "message": "Управление на проекти за цифрова трансформация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1fccf2e-c692-46a7-9385-f503c7cd8100:name",
+    "message": "Стратегия за цифрова трансформация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c5f5e4b7-427e-4e37-9520-75578c58ffda:name",
+    "message": "Стратегия за цифрова трансформация и управление на промените",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3dd189e0-7aa9-41e6-9592-f76312539366:name",
+    "message": "Стратегия за цифрова трансформация за нововъзникващи технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ce29a4a8-2d1f-418b-a106-9966907b29c7:name",
+    "message": "Цифрови близнаци и технологии за симулация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "21c8890c-9d24-4e9c-a621-73918d82ce35:name",
+    "message": "Развитие и управление на цифрови близнаци",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ba84c78c-910f-46a6-aaee-e8cf31d92bba:name",
+    "message": "Развитие и управление на цифрови близнаци",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7e136ae0-119d-46f2-9eba-c4b04ed08286:name",
+    "message": "Цифрово благосъстояние",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7c37d644-ed36-4b75-9dee-1685592ff164:name",
+    "message": "DIgSILENT PowerFactory",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0877679a-b418-4453-8b69-fb7be66434a0:name",
+    "message": "Старателен",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07ba15fe-90d4-49a5-ba62-f236c3cf4f10:name",
+    "message": "Старателни дъски",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c54954a8-811e-4bac-9ff6-2ed26f17c9a9:name",
+    "message": "Старателна етика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0c82d813-49ce-40b8-ac23-3d97f364c2f6:name",
+    "message": "Старателно управление в облака",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8898dd13-163a-4d98-9c38-02885b7d459d:name",
+    "message": "Изследвания по инвалидност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4f6321e1-b90a-4b82-98b3-2e3f37ac7028:name",
+    "message": "Възстановяване след бедствия и бизнес непрекъснатост за управление на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e755926d-3956-4d6b-a6eb-016e10ea57ef:name",
+    "message": "Възстановяване след бедствия и бизнес непрекъснатост в облака",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2d09bc1c-6eac-43b9-993b-e56bc3444c05:name",
+    "message": "Операции по възстановяване след бедствия и непрекъснатост на бизнеса",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "678938de-7870-4f28-b1d1-f94b4b3c58af:name",
+    "message": "Устойчивост на бедствията и моделиране на опасности",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bb2e02a2-c080-4e53-99a4-890c38a6e3b3:name",
+    "message": "ДИСКО",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "deeebe27-07b0-4070-bb9b-b251dcd17899:name",
+    "message": "Дискорд",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9d3a5feb-3ba1-4384-a517-711b69038676:name",
+    "message": "Диагностика на заболявания и управление на здравето",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3bc0c9fa-77da-418d-b3a0-2c050bdace28:name",
+    "message": "Управление на спорове и искове",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "24c8c83f-02e2-48e0-be45-7314975cf792:name",
+    "message": "Разрешаване на спорове и управление на конфликти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f66f9792-2bed-4f89-a2f1-a02ab03ffb60:name",
+    "message": "Управление на данни в разпределен регистър",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1e27458f-39be-4209-af13-2ca68486b2d5:name",
+    "message": "Дизайн и оптимизация на разпределителни мрежи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "639df54f-349c-4e52-8141-df4d31f4efe1:name",
+    "message": "Разнообразие, равенство и включване (DEI)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "75c37cd0-523a-4267-8ec1-fb03f02adf0c:name",
+    "message": "Инициативи за разнообразие, равенство и включване (DEI)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c67c5724-20d0-43f8-bae9-a768efef9147:name",
+    "message": "Практики за разнообразие, равенство и включване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "da978fe7-89cb-4d61-ae5d-416109e6f0c6:name",
+    "message": "Джанго",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c2f6ffd3-93d8-4740-b592-7876460e4af5:name",
+    "message": "Docker",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "94fc3ce6-8849-4839-9aeb-8a7dbeb5c02a:name",
+    "message": "Docker Swarm",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a784ae35-10e0-4cfa-b00f-7210e8342e6c:name",
+    "message": "DocketTrak",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bdbfd8d2-201b-42f7-8295-37b80bb8ff76:name",
+    "message": "Управление и контрол на документи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e985dc9f-930a-4400-81a2-e5c794ef571b:name",
+    "message": "Документ360",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c5ef4d4a-0947-4e2b-9151-76ce693d52ca:name",
+    "message": "Документация и управление на знанията",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b9c46d5-d14b-4a6a-8ea1-f3505e056713:name",
+    "message": "Документация и водене на записи за съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4e20667c-79b8-48e0-9f14-41736e50fa7f:name",
+    "message": "Документация и управление на записи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f2f0b61-16ee-4917-bb1e-4db6b98941c3:name",
+    "message": "Документация и отчитане",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "df02148b-9159-4482-a48d-1c29d8072d40:name",
+    "message": "Документум",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1a846999-55f2-46c7-8130-7325069fc338:name",
+    "message": "Docusaurus",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6de6f360-5ee9-4f0f-997b-6e281346d98e:name",
+    "message": "DocuSign",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "721cd859-0b9b-408a-acd4-4b23d2c7be83:name",
+    "message": "DocuSign CLM",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8984d10-ae7e-46d2-b79e-dd63e4820d62:name",
+    "message": "DocuWare",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b52fca0c-2bd6-4558-a6d7-fff11800737a:name",
+    "message": "DoDAF",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bde397ed-1987-418c-9213-9dc4f1257fcd:name",
+    "message": "Приложения на изкуствен интелект в специфични домейни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d50a5d0f-3bf5-4d1e-a659-d80b08d0af49:name",
+    "message": "Дома",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8ab75cb0-8558-434f-bebd-a6ac445fd75e:name",
+    "message": "ДозирайТ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a1a2b21-794b-47d5-b7f7-cdd1eae59ba4:name",
+    "message": "Doxygen",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "11abf5a2-6907-4740-9359-04688d7ceb57:name",
+    "message": "dplyr",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "243565a3-f067-4f50-bfb6-3253c26331c4:name",
+    "message": "Техники за пробиване и взривяване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "94dbf305-59da-4130-a36b-c98b1a1da3ef:name",
+    "message": "Управление на шофьори и екипаж",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "50c8b057-5cf8-4af0-b506-904967a1dabb:name",
+    "message": "Дроново проучване и въздушно събиране на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c746ef84-57fd-466e-94cb-bb6ce939ba77:name",
+    "message": "DroneDeploy",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c0a6a520-ef9d-4d4d-8260-1862bdf6f95c:name",
+    "message": "Друлс",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d5088614-b7e9-45a4-bce4-6b99c406efdb:name",
+    "message": "Откритие на лекарства и предклинични изследвания",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47f99aa9-f215-4199-a340-3176ad8a15ce:name",
+    "message": "Drupal",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4ce69318-f87f-4917-99af-8f3b3324eeb5:name",
+    "message": "Дък Крийк Клеймс",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cfcb9de1-9a31-4106-92a0-485a3fdcd280:name",
+    "message": "Полицата на Дък Крийк",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aa2dccac-222b-4d97-a101-647e1b4a5c82:name",
+    "message": "Duck Creek Technologies",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc3acb94-7eb2-45b7-ac6f-3b033c90f4ce:name",
+    "message": "Dune Analytics",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1dd25d06-eca5-4fa9-915d-4340c6627487:name",
+    "message": "Дуо Секюрити",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09df65f0-23fe-45a8-a21c-4b5c9cb5a980:name",
+    "message": "Издръжливост и оценка на жизнения цикъл",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "029c579f-2b57-4121-a8cb-33fa9b031511:name",
+    "message": "Динатрейс",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ca49500-09e4-48a1-b8a1-c0790c279492:name",
+    "message": "Дизайн на съдържание за електронно обучение",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "46c73170-5fae-4a31-b6e2-1278f4116b61:name",
+    "message": "E-Prime",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2e682057-1a5f-4c87-8d4b-e5a9bb3f084b:name",
+    "message": "Инструменти за подаване на E2B XML",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc957db1-7bc0-4588-b0a9-833af47633b2:name",
+    "message": "ЛЕСНОТА",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c6a931d0-c1d8-41b9-9e8e-4c23a1b7f5b6:name",
+    "message": "EASE SpeakerLab",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f39906a5-48d0-4bf6-81bb-eca14dc4d877:name",
+    "message": "Еховю",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e6bcb530-277d-485a-a034-619bb5080f3f:name",
+    "message": "Eclipse Kura",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "86f53bc7-b09b-4bae-b9f1-77e4417bb7f4:name",
+    "message": "Икономическа оценка и оценка на резервите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6f467c64-f283-4133-933c-294be4632612:name",
+    "message": "Икономическа история",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ffd7a443-12bd-45b9-a693-af8520be6593:name",
+    "message": "Икономическа неравнопоставеност и политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "82502bbc-2792-41e7-bbd6-66273f003e6f:name",
+    "message": "Екосистема Services Оценка и управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3f4d58b-d468-4b7d-bdb8-405086e1c441:name",
+    "message": "EcoVadis",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58dc83e2-55b5-4d14-a279-5b782d7255c2:name",
+    "message": "eCTD (Електронен общ технически документ) софтуер",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dfa81676-a927-469a-a3ff-63ef8f9eff8a:name",
+    "message": "Ръбови изчисления и обработка на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca4df651-0c8e-4244-be1d-3c2a87d474f6:name",
+    "message": "Ръбови изчисления и разпределени системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1435f75d-20eb-40ee-9abc-bda7d83169bd:name",
+    "message": "EdgeX Foundry",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ccd9b6e8-10fc-42df-9761-8b02ca50bd16:name",
+    "message": "Предизвикателства в образователния сектор и стратегически решения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb0be149-f39e-4e24-b95b-70521070a8d1:name",
+    "message": "Политика и съответствие в образователната оценка",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b001c7c7-921e-4563-856a-2b7b3e83ea1b:name",
+    "message": "Образователна аналитика на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8e612808-fc24-47d1-a915-c1f0463da8d9:name",
+    "message": "Образователно право и правни рамки",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c412485d-8452-42ac-a23c-f370d7cb9d59:name",
+    "message": "Образователно измерване и психометрия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3bbf202e-8145-41cb-abe8-86e6181e86a0:name",
+    "message": "Анализ на образователната политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9de8cf5f-912e-49f6-a01d-a0492af90e3e:name",
+    "message": "Анализ на образователната политика и оценка на въздействието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "01a6ae55-4f74-4551-8b16-573161519b13:name",
+    "message": "Дизайн и доставка на образователни програми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "638dabb4-5616-449f-97f3-82ac3a084586:name",
+    "message": "Маркетинг и популяризиране на образователни програми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "23beb7b5-3cfa-4362-9cd1-a2bf7100babe:name",
+    "message": "Планиране и разписание на образователни програми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "91ca621d-2cc7-4285-bcb3-185784023e43:name",
+    "message": "Образователно програмиране и обществено ангажиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7da3799a-fe38-4d08-b09b-db3f2c082176:name",
+    "message": "Писане на предложения за образователни изследвания и придобиване на финансиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b695b5ca-0fd1-4604-b34f-a9f6e702c826:name",
+    "message": "Стандарти и насоки за отчитане на образователни изследвания",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e8f9958-ea6f-45ab-9104-1d4c17f1e53d:name",
+    "message": "Съответствие на образователните стандарти и акредитация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4025793-f9ed-409d-8f75-28c9aa43a1d8:name",
+    "message": "Развитие и интерпретация на образователни стандарти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "beb9bd9f-3539-402e-817c-b8da2a225632:name",
+    "message": "Интеграция на образователни технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "46124f9c-7dbc-46a6-917e-063b57c45cd3:name",
+    "message": "Интеграция на образователни технологии за професионално развитие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "62f5d541-2e9e-43c2-bec2-a066aef408d7:name",
+    "message": "Методи за изследване на образователни технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "67853a2d-3ec8-49fb-a294-e984070951d7:name",
+    "message": "Приложение на образователната теория",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b4e76e1-08c0-4496-8801-2087a6f4c243:name",
+    "message": "Еластична сигурност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2be3ee1c-b0ae-4fed-b4e4-98224c520682:name",
+    "message": "Elastic Security (Elastic SIEM)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5210227c-ad6c-4f09-9965-c0e443b4d0b6:name",
+    "message": "Elasticsearch",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b0a84c9b-2b8b-4a81-96aa-4c1917297d16:name",
+    "message": "Интеграция на електрически превозни средства",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5dbb47de-7d17-4703-9524-61611c9ed9b3:name",
+    "message": "Поддръжка на електрически и инструментални системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d7510f62-6bc5-4561-aac1-b6e31201c715:name",
+    "message": "Електрическа безопасност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "093a3101-745b-4242-a8e6-708e1b842062:name",
+    "message": "Дизайн на електромагнитни измервателни съоръжения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6a63695b-577a-440b-8268-c14fc608ec5f:name",
+    "message": "Електромагнетизъм",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "733439a3-e53a-442f-8b7e-5bc7b25d6fc8:name",
+    "message": "Електрон",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4b54a872-27d0-4df3-898e-a5ff092206b8:name",
+    "message": "Интеграция на електронни здравни записи и интероперативност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bf6aec97-fb62-4f4f-adec-d72ee4825948:name",
+    "message": "Управление на електронни здравни записи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "be66525b-3994-43d4-8449-cbf6237f4fcd:name",
+    "message": "Основи на електростатиката",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5463e26-db3e-4831-8efc-7bd6f4e4d0d1:name",
+    "message": "ELK Stack",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "04c22e18-0541-4693-8166-d6f582b0b269:name",
+    "message": "Елиптичен",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85d1f78e-a5c0-4d6d-9d91-00a6beb3d2d9:name",
+    "message": "Ellucian Banner",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "422d2ea1-96f7-4946-8294-87279b6db9b9:name",
+    "message": "Елм",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b70a9e38-1ac5-4370-85bd-3ab1151c5a80:name",
+    "message": "Имейл маркетинг",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b28c5d5c-9783-46bd-b57c-218ab336554e:name",
+    "message": "Вградено софтуерно развитие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "30d1ecb6-f24f-46b4-b6a4-f5fb2be571dd:name",
+    "message": "Дизайн на вградени системи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "053e267f-da75-4da7-8c24-9152f36e8149:name",
+    "message": "Анализ и отчитане на данни за управление на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a2723be-3eb1-482c-a6b2-49456d7fe106:name",
+    "message": "Системи за управление на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2f818e0e-6e47-4bad-bafc-cc7782781f2d:name",
+    "message": "Политика за управление при извънредни ситуации и регулаторно съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a0a4b01-cbc9-49bb-b20f-bc70978c1a6f:name",
+    "message": "Обучение и проектиране на упражнения за управление на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a7c3bc5-4eb4-4035-9c2d-3c5c55cadb10:name",
+    "message": "Координация на Services за спешна медицинска помощ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "72a88966-12c5-4b46-b5f8-934d978067a4:name",
+    "message": "Управление на Центъра за спешни операции (EOC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "89e2f33b-c30a-4f12-9028-9f39f9b15b96:name",
+    "message": "Подготовка за извънредни ситуации и бизнес непрекъснатост за съоръжения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3b5996ae-098e-4c80-80c6-802de28f5563:name",
+    "message": "Подготовка за извънредни ситуации и бизнес непрекъснатост за управление на съоръжения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1efb895-f674-4e05-ab03-4fa6cdb0950a:name",
+    "message": "Подготовка за извънредни ситуации и бизнес непрекъснатост в здравеопазването и администрацията",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "47e2e063-1249-4e40-929c-b9b98fe6c95f:name",
+    "message": "Подготовка и реагиране при извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "40cd9cb5-2099-4e92-977b-32727a981124:name",
+    "message": "Подготовка и реагиране при извънредни ситуации за екологични опасности",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "413aef58-5f52-4755-bbef-0e4586cc6781:name",
+    "message": "Подготовка и реагиране при извънредни ситуации за регулаторно съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "194bba6d-79af-410d-8a3c-807075ed0ab2:name",
+    "message": "Планиране за готовност и реагиране при извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7198bf5f-3049-4367-b832-d98e0e60fec4:name",
+    "message": "Планиране за готовност при извънредни ситуации и реагиране за управление на рисковете в строителството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a4079702-d60e-4714-8d91-b16e1330ea3d:name",
+    "message": "Планиране за готовност при извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "691b469b-7772-4030-81c8-08023f0f0155:name",
+    "message": "Спешна помощ и остри грижи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "799a57c2-8609-47d4-8f16-1c978a80f3e9:name",
+    "message": "Спешно реагиране и планиране на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5dfeb665-5fa2-4e1e-9211-029461eb6d1b:name",
+    "message": "Управление при извънредни ситуации и инциденти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "82c6dbf8-1b56-461f-ac2b-94c95e5407fd:name",
+    "message": "Спешно реагиране и управление на инциденти в безопасността на храните",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c0e649e2-6cd3-4043-9284-c4eac9dcf6ee:name",
+    "message": "Координация на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3b05910a-9fdc-4373-86e3-e033e20a6abc:name",
+    "message": "Операции за реагиране при извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bfbc4eee-4a42-44be-a05c-ff35cbe0cc2c:name",
+    "message": "Планиране и управление на извънредни ситуации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5876ba62-eb52-4179-b89b-a507c504e216:name",
+    "message": "Нови технологии и тенденции в блокчейн",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0d85b2ad-e331-4d6c-962b-18a2693e1377:name",
+    "message": "Оценка на нововъзникващи мрежови технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e898f73c-fdd6-4867-88ac-64a5114cab49:name",
+    "message": "Нови технологии за екологична устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "75a922e6-a42a-4639-843b-ec89770011b3:name",
+    "message": "Нови технологии в цифровото здравеопазване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2e2faf1a-991e-41d2-93eb-7bf97044b122:name",
+    "message": "Нови технологии в откритията на лекарства",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "36d33b6d-a0d7-4b48-bf9e-ba99e26282f6:name",
+    "message": "Нови технологии в образованието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "830fae48-7026-4cca-927c-3bcb26fdcde4:name",
+    "message": "Практики за внедряване на нововъзникващи технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "95163299-6b23-4a76-b0ec-3b90428b14a5:name",
+    "message": "Оценка на нововъзникващи технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8202898e-56db-4b32-a5ad-03bc2c9865a8:name",
+    "message": "Оценка на нововъзникващи технологии (TPRD)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4fb98fea-7253-4b33-991c-6b77a09175e5:name",
+    "message": "Оценка и приемане на нови технологии за цифрова трансформация",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "11d3b024-d6d7-4d50-9907-ba0c7f8b312b:name",
+    "message": "Анализ на новите тенденции в възникващите технологии и иновации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e4b575c0-bf09-4590-a19e-d55b2bb81c2d:name",
+    "message": "Анализ на нововъзникващите технологични тенденции в здравеопазването",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "55b41ae8-bf86-4145-baab-921687e99933:name",
+    "message": "Мониторинг и отчитане на емисиите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "033e5eed-731b-475a-b552-16d27e0f9d74:name",
+    "message": "eMoney Advisor",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "3bad1e05-ccd4-4f4d-8632-af6a4b947b83:name",
+    "message": "Измерване и анализ на емоции",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7b379a8a-ab3b-42ef-b349-650e3e577753:name",
+    "message": "Теория на емоциите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "65e43be5-514c-4e12-8dad-8a4aaf74ad26:name",
+    "message": "Емоционална интелигентност и емпатия в клиентските взаимодействия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "490dd03b-a718-48d6-8705-46a4538ddf81:name",
+    "message": "Емоционална интелигентност и самоосъзнаване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1180eebb-5856-4675-8eb3-71cba9edcb32:name",
+    "message": "Емпатия и емоционална интелигентност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "acb0e98b-f077-47df-ab75-2e290557d981:name",
+    "message": "Емпирика Сигнал",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "da1dddec-1eda-4c21-950b-f6b78db9c2a3:name",
+    "message": "Администрация на служебните предимства и компенсации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29ea7873-e776-4038-acef-aa5987f74615:name",
+    "message": "Ангажираност и задържане на служителите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bd8e91e2-cf64-452e-aef1-36b751ebafbd:name",
+    "message": "Ангажираност и задържане на служителите (WDHC)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c3977fc5-200a-459f-a18e-4b55dcd1d9ca:name",
+    "message": "Стратегии за ангажираност и задържане на служителите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "39c2d25d-4266-48ad-8f8b-713c61fbb732:name",
+    "message": "Отношения с служителите и разрешаване на конфликти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1710512c-7990-4085-a463-672562069125:name",
+    "message": "Отношения с служителите и подкрепа",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d8194ffa-6ef6-4e6f-bda8-ec4e1386b314:name",
+    "message": "Координация на обучението и развитието на служителите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6d640500-7f87-4957-bf32-b97346ac4639:name",
+    "message": "Enablon",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a6d46983-b837-4f9f-b991-0a3a5744508e:name",
+    "message": "EnCase",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5812dfb-8408-4041-9d93-51704c153fb1:name",
+    "message": "Шифроване и криптография",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b4fcae0-da2b-449c-b25f-fe914589ac8d:name",
+    "message": "EndNote",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ede7aa6-2412-48c6-b4aa-6481d5ca0b55:name",
+    "message": "Сигурност на крайни точки",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e87ad4ca-9f29-40be-9fcc-df4ca80b2b21:name",
+    "message": "Енергийна ефективност и управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d3607470-300f-41f0-bc66-58a10915d8e3:name",
+    "message": "Енергийна ефективност и опазване на ресурсите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45219873-e857-492a-9da9-deba72af6d55:name",
+    "message": "Енергийна ефективност и опазване на ресурсите за екологична устойчивост в здравеопазването",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4bd03c2-c0ff-4a05-8ada-acaff944148a:name",
+    "message": "Енергийна ефективност и устойчивост в поддръжката",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cac8bc5d-10f7-4da2-82e0-76ad0aaa1333:name",
+    "message": "Управление на енергийната ефективност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b5cec13f-243e-4bdb-8296-b74baa75e3f2:name",
+    "message": "Управление на енергията и намаляване на въглеродния отпечатък",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7a4e0ae7-988c-4748-987d-1198e851e803:name",
+    "message": "Управление и оптимизация на енергията чрез цифрови технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0b7ca469-c6d4-4de3-b016-d8740b3e5047:name",
+    "message": "Управление на енергията в операции по извличане",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b789c00c-2106-46a3-acba-f053daba27c1:name",
+    "message": "Управление на енергията в обработващите операции",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "09793016-3752-4c36-800c-620b84529b89:name",
+    "message": "Дизайн на енергийно ефективни сгради",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ab296ea-4068-423e-be14-22a0f8aaf62a:name",
+    "message": "EnergyCAP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b8ed81c8-8851-4396-8407-16a2cd3ccc11:name",
+    "message": "EnergyPlus",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2264f858-2e27-40a3-9399-4d20a7557377:name",
+    "message": "Енергийна следа",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4d3b440-a2c1-4c40-b952-74ac4c8a4641:name",
+    "message": "Инженерни изчисления и технически анализ",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8742b34b-477b-473b-9b17-a85d1f3db112:name",
+    "message": "Интерпретация на инженерни чертежи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "28ae0e1f-698c-4ac2-915c-bcadfcdc2e97:name",
+    "message": "Английска граматика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "cc05bb33-3cee-41c5-884a-eff9e340e039:name",
+    "message": "Структура и синтаксис на английските изречения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "36bf92e2-9b74-44d2-87b2-cdc166661353:name",
+    "message": "Английски глаголни форми и настроения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "61dc0289-3bdf-49cf-9097-b59fd6322d58:name",
+    "message": "Развитие на английския речник",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9cdf14d1-dccd-408a-873f-a91fb2f7740d:name",
+    "message": "Техники за подобрено извличане на нефт",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c4bf504d-0a73-494b-8673-43b1319b4866:name",
+    "message": "Управление на записването и регистрация на студенти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f6935e2-58d2-4968-a223-9b0721b427a6:name",
+    "message": "Архитект на предприятия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b3f9073a-8947-4f66-9643-309f98ac4bbf:name",
+    "message": "Комуникация в корпоративната архитектура и управление на заинтересованите страни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dad023f3-6c5e-44e5-8f91-2c7a28449bde:name",
+    "message": "Рамки на корпоративната архитектура",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "99103b5f-619b-4c77-a0c0-5becaa105b34:name",
+    "message": "Моделиране и документация на архитектурата на предприятието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc3dd68b-2034-47d5-bb17-8212ad32bbe6:name",
+    "message": "Стратегия и планиране на архитектурата на предприятието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9bff2063-6bcd-4052-8cd1-bfc6c94ed796:name",
+    "message": "Инструменти и платформи за корпоративна архитектура",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45b04c09-ce0a-4483-a72d-fa4a27c91bc8:name",
+    "message": "Управление на съдържанието в предприятието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d240b8dc-6573-427a-aafa-69ba5c0ca96b:name",
+    "message": "Архитектура на данни за предприятия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aba8d0cf-838d-4219-84b6-57c6870883bb:name",
+    "message": "Разработка на корпоративен портал",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f560bdb0-28bf-4f5b-b702-71b875fcb917:name",
+    "message": "Управление на корпоративния риск",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5d58a487-9312-4763-845d-f64d9e7c5426:name",
+    "message": "Корпоративно търсене",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "baaadf64-6115-4ec3-815d-a63e0118d457:name",
+    "message": "Развлекателно програмиране и координация на събития",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0619974a-8b11-4caa-a5e6-ffd29b4ae606:name",
+    "message": "Entity Framework Core",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bb39f115-c03a-4c5f-af28-22d89727479d:name",
+    "message": "Управление на риска в околната среда и инфраструктурата",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1feeb183-7d4b-426f-b086-430a4bf8cf40:name",
+    "message": "Съответствие в областта на екологичното и професионалното здраве",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4cceed39-6207-400c-b718-cc373fc52f4a:name",
+    "message": "Съответствие с екологичните и общественото здраве",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a19f4d62-f01b-41af-a6b9-0aa96809709b:name",
+    "message": "Оценка на въздействието върху околната среда и социалното въздействие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "271bbc74-3617-4dac-aa1a-a581d1c0b26c:name",
+    "message": "Практики за околна среда и устойчиво развитие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4755a312-e6ff-4c01-9654-5debe4edecb3:name",
+    "message": "Екологични и устойчиви практики в производството на медицински изделия",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f64eed54-90a9-44f1-a800-4ef7e6a0455c:name",
+    "message": "Практики за опазване на околната среда и устойчиво развитие на място",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2ebe9740-c536-4d39-9885-729720d7b430:name",
+    "message": "Оценка на екологичните и устойчиви рискове",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6bda9f66-e636-4d56-a979-34aed49b8db8:name",
+    "message": "Екологичен одит и непрекъснато подобрение",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "12f20975-514e-46d2-a13b-ad065e722ba5:name",
+    "message": "Екологичен одит и осигуряване на качеството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c3811a51-d10b-4f5a-9a66-a532b4e3debf:name",
+    "message": "Екологична химия и токсикология",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d42f544f-5a1c-43c0-affb-bc8b2eed23fd:name",
+    "message": "Екологична комуникация и застъпничество",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bf5762e6-eb06-4e8e-97c5-0db570414f99:name",
+    "message": "Съответствие с околната среда и управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8761e1a8-7c79-4157-b330-fff71fae3300:name",
+    "message": "Управление на екологичното съответствие и регулаторно управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f5538f35-e3b1-4430-870b-045a086f3ca8:name",
+    "message": "Управление на екологичното съответствие и регулаторно управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37813050-890a-4bfe-b4bd-9c90b8ba8a1f:name",
+    "message": "Съответствие с околната среда и управление на регулациите за горските операции",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9e583d1e-1725-4a7a-9b89-f75a3febc21a:name",
+    "message": "Инженерство за екологично съответствие и устойчиво развитие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b6fec062-45bf-458d-86b3-9a683af88228:name",
+    "message": "Съответствие с околната среда и управление на отпадъците",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "86852ede-de1a-43a5-b443-13b7a85028ba:name",
+    "message": "Екологични контролни системи и автоматизация на сградите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "044ab0e2-2f96-4588-91e4-f3345ffb523e:name",
+    "message": "Анализ на екологични данни и подкрепа за вземане на решения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9ff63594-c24e-4fa7-a955-0ea776b2a7fd:name",
+    "message": "Събиране и анализ на екологични данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9553c3b7-4e45-4c41-8ecc-ba2c1d8327f5:name",
+    "message": "Управление и анализ на екологични данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "20234d53-3e0b-4906-bd7b-9b4752d79548:name",
+    "message": "Управление и анализ на екологични данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9ceee50-c633-4bca-a16b-bcc8ef4549fc:name",
+    "message": "Управление на екологични данни и географски информационни системи (ГИС)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d010057a-b350-478f-99de-7cbc3cc7ed9f:name",
+    "message": "Управление на екологични данни и географски информационни системи (ГИС) за устойчиво развитие и екологична политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c046f5c5-8be0-4568-9504-246253cb0511:name",
+    "message": "Управление и отчитане на екологични данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5257c86e-cb77-4b76-b16b-a71eb64bbd52:name",
+    "message": "Дизайн на екологично инженерство",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1b7d7b42-52fa-4cb1-ba62-1f27ad621c25:name",
+    "message": "Екологична етика и управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ae81ef4-8f80-4ae8-b653-66b74f412389:name",
+    "message": "Финансиране на околната среда и механизми за финансиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7bbaeaf7-e6ad-4510-9799-90c79f4bdaba:name",
+    "message": "Околна среда, здраве и безопасност (EHS) в производството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "40fcfdcf-8dbb-4d4e-a6e1-0488491e9996:name",
+    "message": "Системи за информация по екологично здраве и безопасност (EHS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "19db09c5-0b8b-4956-87c9-431ccb51ff6b:name",
+    "message": "Управление на екологичното здраве и безопасност (EHS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ff889f2-78d1-4d03-9174-9b036331cbe5:name",
+    "message": "Съответствие с екологичното здраве и безопасност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07713d48-8708-4c37-ae1e-0570b77eaed4:name",
+    "message": "Околна среда, здраве и безопасност в производството на фармацевтични продукти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "38c55293-0d11-4f1b-91e2-9a1fa852edeb:name",
+    "message": "Интеграция на екологичното здраве и безопасността",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "77853c0f-a7a9-4b8b-b610-4af86fb37de7:name",
+    "message": "Обучение и комуникация по здравеопазване и безопасност на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "997bbd29-6132-44e1-8f73-86a5a7d2e262:name",
+    "message": "Анализ на въздействието върху околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dac80479-8a18-43d2-99f9-c6c63a11b92e:name",
+    "message": "Оценка и анализ на въздействието върху околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d85e9527-7ea0-4d1c-ab28-cf703f35fe08:name",
+    "message": "Оценка на въздействието върху околната среда и смекчаване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "815bbbd2-f7b4-4268-b73a-b92cf8cb1627:name",
+    "message": "Оценка на въздействието върху околната среда и мониторинг",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c99e7189-121d-49a4-bcfc-7eb9029109d6:name",
+    "message": "Оценка на въздействието върху околната среда и мониторинг за екологична устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9c823e86-2e49-4977-8e41-060230d9505a:name",
+    "message": "Оценка на въздействието върху околната среда и устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8334470a-cd52-41c7-ad71-949a7500cbec:name",
+    "message": "Оценка на въздействието върху околната среда и устойчивостта при проектиране на транспортна инфраструктура",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bbbfaa6f-4ecb-46da-81dc-c9105e4db6f6:name",
+    "message": "Оценка на въздействието върху околната среда и устойчивост в управлението на резервоари",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1743802b-fc9e-41e4-aa0e-6058d3220451:name",
+    "message": "Оценка на въздействието върху околната среда за устойчивост и екологично управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8fb8aa92-2b8e-495e-b15b-33c2586da663:name",
+    "message": "Оценка на въздействието върху околната среда за градско планиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "37f66b5a-cfb2-4e9b-a112-c649ed98014a:name",
+    "message": "Разследване и докладване на екологични инциденти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "81074277-33de-4f9d-bc4b-1a2fafeed0c2:name",
+    "message": "Внедряване на системи за управление на околната среда (EMS)",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "975c97b9-0dcc-4975-8b7b-9c5ee46d6ba7:name",
+    "message": "Внедряване на системи за управление на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "00bc220e-706e-4c44-876d-62350b4de45c:name",
+    "message": "Внедряване на системи за управление на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f101e967-1490-4232-9352-e20d6da158e6:name",
+    "message": "Мониторинг на околната среда и спазване на изискванията",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "49734449-b591-48e4-9e0e-e48a4558e3a7:name",
+    "message": "Мониторинг и контрол на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e6e80e1b-dc18-49f0-b41d-f4c5a67a0508:name",
+    "message": "Мониторинг и контрол на околната среда в животновъдни съоръжения",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8a9d53e4-904f-43b5-b493-0ec7acb8a7c1:name",
+    "message": "Мониторинг на околната среда и оценка на въздействието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9c83784c-bacb-473d-8187-389d3bc8fb29:name",
+    "message": "Мониторинг на околната среда и осигуряване на качеството",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d1142abd-0289-4518-af7c-06078b63053c:name",
+    "message": "Мониторинг на околната среда и осигуряване на качеството за устойчивост и екологична политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9f5e9c8a-8a57-4bef-9012-eb4570488704:name",
+    "message": "Мониторинг и отчитане на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9fde4aee-5f18-4688-a9c0-6628222c7807:name",
+    "message": "Мониторинг на околната среда и отчитане за устойчивост",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "39d61035-5906-4f51-b3ca-319cb28dfe41:name",
+    "message": "Мониторинг на околната среда и отчитане за устойчивост и опазване на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e3df97a7-7745-4439-8d90-372e315ba2e1:name",
+    "message": "Мониторинг на околната среда и анализ на устойчивостта",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d303f0dd-bf94-4492-b5d3-2119b16f41eb:name",
+    "message": "Мониторинг на околната среда и практики за устойчиво развитие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b00b5627-9a58-4b68-8335-29182a662696:name",
+    "message": "Технологии и инструменти за мониторинг на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dca593d2-2564-45cb-a054-65c0931cf8d2:name",
+    "message": "Екологична политика и регулаторно съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "835e7608-87cc-4efb-8e51-f2ae8f04e8d7:name",
+    "message": "Политика и регулаторни знания за околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "aea963eb-d6b5-4401-98b7-e4bd79262b72:name",
+    "message": "Развитие на екологичната политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e415a54f-7d06-4b9e-8d7c-38b4bb0b8757:name",
+    "message": "Стандарти и насоки за качество на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca8e59e9-a905-4a67-be38-1f0922277a50:name",
+    "message": "Регулиране на околната среда и съответствие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c7348ab1-358b-4478-84ae-cfce93959361:name",
+    "message": "Регулации и спазване на околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c5e327bd-8978-4d26-b102-2a0206e98af0:name",
+    "message": "Софтуер за екологично възстановяване и инструменти за моделиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "45069a99-3bb4-4ff6-b183-1213d0f79000:name",
+    "message": "Оценка на екологичния риск",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a04caac5-52f2-4c76-b0e2-a1ae29553ee9:name",
+    "message": "Оценка и управление на екологичния риск",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ae8ac96a-eb32-4edc-a333-44025324497b:name",
+    "message": "Оценка и управление на екологичния риск",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "72c8c4de-388e-4d8b-a39c-9d30b59c5f18:name",
+    "message": "Оценка и управление на екологичните рискове за опазване на ресурсите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "d87b0a98-29b6-4b97-88ac-44acbeb47b80:name",
+    "message": "Оценка и управление на екологичния риск за устойчивост и екологична политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5ad015a9-e360-441a-92e7-2ea3f83574f5:name",
+    "message": "Оценка на екологичния риск и намаляване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "16a4dbd9-ed57-4a2a-9f7f-664f259b3931:name",
+    "message": "Оценка на екологичния риск и смекчаване за транспорт и складове",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b279a298-8bff-49d5-a142-c5a3432b75c7:name",
+    "message": "Оценка на екологичния риск за екологично възстановяване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "85cd0480-5d2c-4de0-a14a-137fdfbe9241:name",
+    "message": "Оценка на екологичния риск за устойчивостта на здравеопазването",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "426d27b8-3337-4eb2-ad8d-92ba645690d7:name",
+    "message": "Идентификация и намаляване на екологичните рискове",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1946ede2-f3aa-4478-8bba-abe04fba9a3b:name",
+    "message": "Управление на екологичните рискове",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ba483e6-24b5-47e5-8471-b0740345175b:name",
+    "message": "Операция на оборудването за екологично пробонабиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ab31ceaf-224c-4a8f-b48f-57f667d5e655:name",
+    "message": "Управление на екологичната устойчивост в образованието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "27e3258e-709f-4fd6-9c5b-3ca6934bc97c:name",
+    "message": "Екологични технологии и иновации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4184a190-f468-4367-8954-69f6cce6b6a7:name",
+    "message": "Технологии и инструменти за опазване на околната среда и тяхното използване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "29f5e65e-c35c-4bc9-b45c-9b8ad896f88f:name",
+    "message": "Обучение и осведоменост за околната среда",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eef0c544-7884-4f84-b30e-d4d16a9bd87a:name",
+    "message": "Пратеник",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dc153a58-6ba1-446c-b2c8-f7d606413127:name",
+    "message": "Ензимно инженерство",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "598f01d9-4f56-4fcb-aa5a-9abb16e2aafe:name",
+    "message": "Епик Системс",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fca8f99d-7276-40ed-9c17-54cf7e9e2c87:name",
+    "message": "Епидемиология и анализ на общественото здраве",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1ef29e0f-df16-4eaa-a036-c66515764d9b:name",
+    "message": "EPLAN Electric P8",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "257ea8d3-c1c7-4984-ab31-4f1144842051:name",
+    "message": "Преглед на проектирането на оборудване и инфраструктура за поддръжка",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5eb71565-d5e0-44d9-9ad5-7b39f00b65d6:name",
+    "message": "Инспекция на оборудването и инфраструктурата",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ca47ffee-7c86-46b6-8c66-ec0bca79b4f2:name",
+    "message": "Операция и поддръжка на оборудване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a6c6ea9a-80bc-47d2-be48-18960750485e:name",
+    "message": "Операция и поддръжка на оборудване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5e313571-3df5-4830-959c-6edf05f58ed5:name",
+    "message": "Операция и поддръжка на оборудване за аквакултури и рибарство",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a9e1e9ce-4260-4374-8d4f-be1628adfb5f:name",
+    "message": "Операция и поддръжка на оборудване за събиране на отпадъци",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7af7cbe8-43d4-4584-8513-ed4c8aefbb22:name",
+    "message": "Управление на равенството, разнообразието и включването",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f361b989-7e85-49f4-9255-ab61139e565b:name",
+    "message": "ERC стандарти",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "182e4f24-4695-4d66-bb74-ef879b272a64:name",
+    "message": "Ергономика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "07420d1d-3d1c-4a20-a0be-df11eb61aaed:name",
+    "message": "Ергономика и безопасно вдигане",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ed2ea71-e59d-474c-98a0-bedd2664a889:name",
+    "message": "Програмиране на Erlang",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "677ad81f-d69d-4efd-b4d7-6ec94fd7bf39:name",
+    "message": "Erlang/OTP",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1f5efd5e-bce7-4ca4-bcc0-279b98f26481:name",
+    "message": "Обработка на грешки и устойчивост на системата",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd489c89-54ff-4ac2-960c-260833f6ea13:name",
+    "message": "Ервин Моделатор на данни",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "4a3ce605-26cf-4a0f-bf37-031cc113c707:name",
+    "message": "Ескалация и управление на кризи",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "78827e37-7520-4e17-94f3-ede7cea07352:name",
+    "message": "ESLint",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c0f7ab22-f005-48e9-8ec6-0ff11d6c9803:name",
+    "message": "Еспресо",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fa17ef77-e933-4b34-bfc8-3aedab57f3da:name",
+    "message": "ЕТАП",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "837643b3-4d9c-4fc8-9d72-8dfb4f0dce46:name",
+    "message": "Етериум",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "bbd2adae-fae2-43be-bc4c-2e7c8f978836:name",
+    "message": "Клиенти за консенсус на Ethereum",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "8f2664fb-12c5-4931-9ba2-5d40a970db9c:name",
+    "message": "Ethers.js",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "629979be-46df-4339-bfe7-093dc087ac18:name",
+    "message": "Етична и правна съвместимост в подкрепата на студентите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "eb70bf64-8800-497c-8819-79d5f7cf4f16:name",
+    "message": "Етични и правни съображения при разработването на учебни програми",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a8aadbb7-706b-490e-b5f1-6a623624531c:name",
+    "message": "Етично и отговорно използване на технологии",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b9280874-cc2c-47ea-838e-ae70013f270d:name",
+    "message": "Етично управление и публична отчетност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "1bec6fdb-c820-4009-84dd-630d2038da84:name",
+    "message": "Етично управление в образованието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "2e4d2938-50d4-418e-a64c-d00781e5aac4:name",
+    "message": "Етично лидерство и интегритет",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "82e50c4e-c4c5-4803-b278-2fb577216123:name",
+    "message": "Етичен маркетинг и съответствие с потребителската конфиденциалност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "9dcd29a6-52f3-48ee-8c61-6b22ffb74cb3:name",
+    "message": "Етичен преглед и надзор",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "a188309c-ab3a-45ed-8741-d14a7c038e57:name",
+    "message": "Практики за управление на етични рискове",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "895b93ec-46ff-418c-bcb2-a2bd7d8b6477:name",
+    "message": "Етични стандарти и професионално поведение",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "339c151c-022f-48ef-9662-ee10af3f236d:name",
+    "message": "Етично използване на образователни данни и защита на личната неприкосновеност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "c85644bf-9433-43f7-ae69-94e8e6a51388:name",
+    "message": "Надзор на етика и поведение",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "0ff18e46-6b66-463c-8c04-729bb8de33ff:name",
+    "message": "Етика и корпоративна отговорност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "7d220136-1c9e-4c36-8361-be2989911ad7:name",
+    "message": "Етика и корпоративна социална отговорност",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "daf76a10-7acf-4ce4-a710-2e38db557741:name",
+    "message": "Етика и корпоративна социална отговорност в съответствието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "091c7aba-0ea9-4ff1-abd9-f96563859753:name",
+    "message": "Етика и управление на информираното съгласие",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6b0b6db6-3b97-4f89-80fc-3e927ec0fe66:name",
+    "message": "Етика и интегритет в публичното финансово управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b101bd42-db4f-4d1f-8e04-73c88bf199df:name",
+    "message": "Етика, Професионализъм и Осведоменост относно Образователната Политика",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fbf0242d-93bc-43ea-9ff7-976d741ada1d:name",
+    "message": "Етика, сигурност и поверителност в цифровите иновации",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "63035843-7e9b-4a86-a80f-c2f1dbf7a1ae:name",
+    "message": "Етика, Прозрачност и Отговорност в Политиката",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e140333e-1f76-4e7f-b61a-0e2440c44dc1:name",
+    "message": "Маркетинг и управление на събития",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "18ac09cd-6ef4-475b-bfc4-2ea6b59db23d:name",
+    "message": "Събитийно-ориентирано програмиране",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "781c2520-2ee0-4256-93e9-ba5e43437bfd:name",
+    "message": "Eventbrite",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "e44eea67-9975-4fe4-b17b-d4510e39ca5f:name",
+    "message": "Everbridge",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "57c82fb9-31d8-45df-8038-cd9d1ffccb39:name",
+    "message": "Планиране и изпълнение на генериране на доказателства",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "72ab15ef-9dca-48a7-ae5a-ba3cebbbc485:name",
+    "message": "EViews",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b53b2df2-8dff-46bd-80e2-8db85151b4f0:name",
+    "message": "Ексел",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6203981a-aac7-4727-9348-3cff487d038e:name",
+    "message": "Дизайн и инсталация на изложби",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dd1b338a-af16-40f8-9fc9-d30fc2ff1e56:name",
+    "message": "Оценка на изложбата и оценка на въздействието",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "ea361c33-255e-45a0-846c-41aae3f22dfa:name",
+    "message": "Контрол и управление на разходите",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f282bfb0-51ad-4989-bdec-d096aaf91289:name",
+    "message": "Дизайн на опит и картографиране на пътувания",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "170ae6a2-d088-467e-badb-752b3c2fb9c9:name",
+    "message": "Планиране и управление на изследователски проекти за проучване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "5f81e0ac-3dc3-4831-b5a8-7fc55eb27acd:name",
+    "message": "Изследователно пробиване и техники за вземане на проби",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "f9f03324-7016-40cc-b23c-dd79bf362e70:name",
+    "message": "Изследователско тестване",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "6af8ae7c-efa3-4ede-9349-7d0365b189bc:name",
+    "message": "Експо",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "dbe035bd-312a-49c7-b4c9-ab12fe9d6ff0:name",
+    "message": "Мениджър на реклами във Facebook",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "b78b9b3f-95e7-4078-b3ef-6d27473eaba5:name",
+    "message": "Технология за разпознаване на лица",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "fc3d7431-c82d-46fe-af97-0d23cfa2f581:name",
+    "message": "Бюджетиране на съоръжения и финансово управление",
+    "metadata": null,
+    "status": "success"
+  },
+  {
+    "messageId": "58da4dfa-ebf0-4103-9217-09745e53844e:name",
+    "message": "Информационни системи и технологии за съоръжения",
+    "metadata": null,
+    "status": "success"
+  }
+]

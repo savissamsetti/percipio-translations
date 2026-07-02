@@ -1,0 +1,501 @@
+id,key,message
+b5da3c06-7196-497b-b3d1-905d3714cf9e,name,Internet of Things (IoT) Applications for Construction
+d4f72fd5-bad6-4190-8a6c-ba4706161cf4,name,Internet of Things (IoT) Systems and Device Management
+92395c07-465f-4606-924a-6877dc10854e,name,Internet of Things Integration for Digital Transformation
+d63807fc-7f80-4d12-8cb4-0120952fe182,name,Internet of Things Solutions
+667e046b-ef6c-4708-8c5b-5917137c6932,name,Interoperability and Integration of Government Systems
+a38becae-a571-427f-8f19-8c13b6dc2dcb,name,Interoperability and Standards Compliance
+a375a4b5-2a17-4d7f-8acb-1b1f9f508fd6,name,Interpersonal Relationship Building
+4bdc4afc-409b-49e3-960d-7feff3775d44,name,Interpretation and Communication
+518dd29c-3f6a-4730-ab40-fff372fa6079,name,Intrusion Detection and Prevention Systems (IDPS)
+57dda2da-5a48-43d6-984a-8819aaa7b043,name,Inventory and Spare Parts Management
+6d50b7b3-04c9-4686-82b9-4dcdade675bf,name,Inventory and Spare Parts Management for Fleet
+4a09c662-90ea-49d0-889b-523bf56e6f15,name,Inventory and Warehouse Coordination
+3bfb7cb5-6e50-452a-8f76-2f2817add7d2,name,Inventory and Warehouse Management
+9db7903f-48a4-49d0-8452-e545f658b608,name,Inventory Data Analysis and Reporting
+fb132825-e24a-488b-bfe3-936195829867,name,Inventory Management
+35e8568e-c789-4374-aae5-ab1a5d28c63d,name,Inventory Management
+5a0f8209-cde2-4153-906a-fb572d8b6c71,name,Inventory Management for Extraction Products
+1e2fabbe-c6d1-45b3-89ba-f5ae1832d8df,name,Inventory Tracking and Reconciliation
+af64157c-5bc4-4be6-ae7d-96adf43308f9,name,Investment Analysis and Portfolio Management
+bb8a6111-0831-463e-bab1-f3fc3bcb08da,name,Investment Policy Development
+3ca9a954-e61c-4910-abec-c14325811b19,name,Investment Product Knowledge
+1e5ea0b9-4549-4529-90be-fd5bc6ebef70,name,Investment Strategy Development
+122c71b1-78eb-46d3-99d0-93552d0048a5,name,InVision
+7ff98ee4-b233-4de9-bece-8ceaac5e0506,name,ION Treasury
+af8c9e77-bc6b-4aa5-a1b8-36763a56caa5,name,IoT Cloud Integration
+fdbcb5f7-c8d5-4fe5-b2aa-c684c335fdb0,name,IoT Data Analytics and Machine Learning Integration
+5094e8fa-daa9-4544-8ca7-00ebbbf07533,name,IoT Deployment and Provisioning
+751355ab-4d7f-4ae8-bb1a-144e6a6e64f9,name,IoT Device Security
+891c7460-4b04-45a4-8d3f-6d7991f43751,name,IoT Network Protocols and Communication
+4cd4c653-c447-49f9-ac53-23d77c24754b,name,IoT Operations and Maintenance
+22fab212-aae5-4ae1-92d3-f593fd9938df,name,IoT Platform Management
+8c5089fd-5afa-4943-b1e2-13b0c218e455,name,IoT Project Management
+0bd7be3c-52ca-49a9-98f9-3eb3c67efa60,name,IoT Regulatory Compliance and Privacy
+bf546430-56f0-442a-bc37-85b792a30197,name,IoT Risk Management and Resilience
+45f24494-d90c-4d6c-af10-4d56b5add5ad,name,IoT Standards and Interoperability
+758f6d6d-3ca0-454e-ba9f-651face522a5,name,IoT System Architecture and Design
+0375487f-88fa-4739-915d-e40f375f23c4,name,IoT Testing and Quality Assurance
+656d2f69-05ee-41f6-9628-d149bd57d319,name,IoT User Interface and Application Development
+a27d0452-fd81-4584-b76c-a142660fae69,name,IPFS
+b9a62e82-7dcf-483c-b487-0e3c748a757f,name,IRI
+d4a6d2f5-9203-4079-996c-96ef2d3ea551,name,Ironclad
+4c4068fd-952f-47ad-bbf2-6efc84166a50,name,Irrigation and Water Management
+5b311e3e-5243-4b46-ba95-78d346ad76b8,name,Isabelle
+fa4aaba3-3372-454b-bbab-f7fe8336456c,name,ISC DHCP Server
+e114d8ca-4bc3-48fd-8d86-94e2ca333a11,name,ISO 20022
+4cd1075f-09f4-40ca-a0a3-62bae8937e9d,name,ISO/IEC 27001
+17d1f6f9-346a-4815-aca6-ac9e13ea36a4,name,ISPC (Intel SPMD Program Compiler)
+83d38cec-e29c-4b09-8cf4-2d4fa3216bc3,name,Istio
+7b64da24-d53f-4796-aad7-0260d99de40f,name,IT Control Design and Implementation
+d2404e84-18bb-4a9d-a007-0cb95daf91b5,name,IT Governance Frameworks and Practices
+26bb96cc-a061-49bc-938a-04374ed6508b,name,IT Human Performance Management
+9d6f5372-b0ef-4380-a5f0-f9d9163eade5,name,IT Infrastructure Management for Government
+4093ce2c-a536-4313-b848-e4239f48cc52,name,IT Operations Management
+beb1ad6a-cb4b-4004-af12-8c3a326d4eb9,name,IT Service Continuity and Availability Management
+cd6c40fe-e84e-402c-ac19-66d7cb2b0b68,name,IT Service Management Tools and Platforms
+55e883ee-d9f5-41a5-8651-452326ee4ea0,name,IT Service Reporting and Metrics
+bd019dea-46d0-49f3-a81c-5fc311f8f58a,name,IT Service Strategy and Governance
+cda85302-d770-4067-8001-092be9236b42,name,ITIL
+f0727952-be3c-4985-b445-8fb745f919ce,name,ITU-R Recommendations
+af9f856b-0858-47b7-8461-f01359d0ebeb,name,Ivalua
+a7724a42-a1f8-419b-aa2c-196618635d5c,name,Ivanti Service Manager
+0e8af642-6b5b-4388-ac6b-cf1bfe3ba580,name,Ixia
+8a6ef394-7aae-43e7-ad6b-802c7b063661,name,Ixia Network Test Platforms
+281a17f6-f750-4352-a8a9-244bed157188,name,JaCoCo
+bd9ab18e-f7c4-4f25-9776-130a89fd421b,name,Jaggaer
+f8149e55-5581-424c-8e62-81dca5df3766,name,Jama Connect
+6b5fed27-d9e4-4240-93ac-44399e5dfb6a,name,Java
+94c2cd14-46b1-45b5-8c54-53c670af4c6a,name,Java Character Encoding and Formatting
+1eebb661-cde3-46e1-8b94-a91328bc36a3,name,Java Programming
+8276657e-3fcb-47c4-ac79-43dee09687e3,name,JavaFX
+ce332c5d-2473-4265-bdf5-17a9d2ab2083,name,JavaScript
+9e4116de-bdde-464f-82e0-72e19724c7e8,name,JavaScript Programming
+4018455d-c24d-4308-ba9a-1dadb63949fb,name,JDA Transportation Management (Blue Yonder TMS)
+b3b5ca8d-78f3-4ecf-ac51-250ef0e2bb0e,name,JDA Transportation Management (Blue Yonder)
+08c2b8af-bd50-4e5e-9009-62385adbd8ee,name,Jenkins
+22e6dd2c-fabd-42f2-a36b-06b88399d11e,name,Jeppesen FliteDeck
+28d9148e-3f02-439d-8d3a-8af4431acbdc,name,Jira
+e5b0ef8b-0f10-427a-848d-ea7ce6340468,name,JIRA
+13fcb6c8-d5c5-4b7c-9de0-622fdc5c0b5c,name,Jira Align
+96523789-8a48-429c-878d-a5b7dd15847e,name,Jira Portfolio (Advanced Roadmaps)
+a65d30ed-7af2-49e6-8236-75347d036847,name,Jira Service Management
+1df48ff9-707d-4e8c-b577-22ce502831b4,name,Jira Service Management Change Management
+5838ea6b-678b-40ea-8c33-896fa58b8ee5,name,Jira Software
+7c3a0932-d613-4708-9bf6-40952c34f824,name,JMeter
+251252fa-ce37-4cf7-9762-08c2992c9527,name,JMP
+574623e0-452e-4cd5-9f57-cebf193ffbdb,name,JMP Statistical Software
+8f83cab6-d36f-4886-8c64-f244b2b3370f,name,John the Ripper
+160b7f4b-c0a3-40bb-96ef-3ebd6528e1a2,name,JProfiler
+d2860994-4225-4e3a-8525-dea47a171953,name,jQuery
+682ae3b9-b011-4720-a7b3-aa93e3faf3af,name,JSON
+b6abfbc1-c978-41c5-be17-296da9c0c333,name,JSON Schema
+b91ca915-3d23-4164-83ba-a0f8ab18e532,name,JSR 286 Portlet API
+51593229-05f0-4dcc-9891-16ef5fe86742,name,Julia
+011a0117-9329-48d4-ba8d-bcaa256b0805,name,Juniper Junos OS
+a20afd1a-ff75-466a-ad23-7ceec9333bf9,name,Juniper Networks Junos OS
+ae22d118-a3e5-4a3f-8edf-fe4f1004e276,name,JUnit
+f88d8f57-c99e-416a-bbae-6e4ca4de7e9c,name,Jupyter Notebook
+627093cd-7770-4b93-92fd-f22b54061b16,name,Kafka Connect
+d5c9ea6b-6561-485c-bcb5-e3c1a461d8eb,name,Kafka Data Streaming and Messaging
+1eab1890-4451-4a66-80a9-6716d0e15e1f,name,Kafka Streams
+07b04924-621e-4b28-b4f9-6010a7da83ce,name,Kali Linux
+9e23ab58-00d1-4c3b-a1e2-cd3ec74de290,name,Karate DSL
+e18d7d8d-d380-47ec-af7d-972da1fae700,name,Keil MDK
+c7bb6207-2609-4cef-bd4a-dae2619581ed,name,Keras
+7265c1b5-d8c4-4cf7-ae24-09eddb178501,name,Keysight FieldFox
+f79cedd2-ea5f-4c95-87e6-070b7faace1d,name,Keysight IC-CAP
+f3a02ea8-3be9-476e-b926-9fd0d8869289,name,Keysight PathWave
+49ce8bb9-75c1-47c2-a5e9-be98ab9b6b12,name,Keysight Technologies Spectrum Analyzers
+52f95864-f450-438c-8553-625ace150af7,name,Kinaxis RapidResponse
+c281df46-e85e-4f0e-be8d-9b94de17b559,name,Klaviyo
+7a80525d-44c7-4f21-93b8-53976a3aa0e6,name,KNIME
+03723818-f68d-4282-99b4-146f4f035933,name,KNIME Analytics Platform
+4d9f58bd-6ece-4de4-8e1f-ac857d69758d,name,Knit
+e83f0bf5-6f6c-4a22-abf7-1b22c8960672,name,KnowBe4
+20d21953-0dd3-461c-824a-eacef3d1e936,name,Knowledge Management
+1d0aacb1-1e1a-485b-881b-7353380e1305,name,Knowledge Management and Documentation
+61bded46-66e7-4607-afcd-7b7735ed4289,name,Knowledge Management for Customer Support
+e04bb17b-c620-43f1-a2d4-f3b145a65f35,name,Kong
+4d8a106a-f31d-4b4e-ae97-ae16ecfd57c4,name,Kong Enterprise
+a3cbf197-55bd-49f9-b3db-027320e60b95,name,Kong Gateway
+67b4bd52-0056-4e58-b9c8-bf1c62c7e615,name,Kotlin
+63d16aaf-6990-455f-8c37-d1601334ddae,name,Kronos Workforce Dimensions
+b9cb572a-95e0-4291-b32c-161770853cfa,name,ksqlDB
+2f0172e6-0127-4bf7-9e1d-fce356e190f0,name,Kubecost
+2f8e39ee-41e4-45d2-8f88-622f1e922ca7,name,Kubeflow
+30f2527f-eaba-4189-b9c7-3989b4bcdf66,name,Kubernetes
+f18365b5-534d-4ed8-a0ac-bfde9f8988bd,name,Kuma
+e7f47fcb-f82a-471a-9deb-9e7e3ff251de,name,Kumu
+e36306a4-ee12-4f37-a821-d4f5ccecd088,name,KVM (Kernel-based Virtual Machine)
+d3900ddb-6194-4ce5-8ebc-13f647138cb4,name,Kyriba
+c13d162a-2654-4082-8c65-7e702287ce30,name,LabChart
+0a052ac4-fa61-4e84-945c-528cb3c9e3c0,name,Labeling and Advertising Compliance Management
+f5403a20-38ab-4556-b771-46450243a84c,name,Labguru
+79862dfe-cb1d-4f14-9faf-14d87840ce93,name,Labor Law and Employment Compliance
+095d4f23-8c85-4449-b412-241b410d5fd0,name,Labor Law and Regulatory Compliance
+0d31e77f-7fdc-4c60-a72a-37b98acb50cd,name,Laboratory Quality Assurance and Control
+20eee41c-7fa7-492a-ba86-3b8ec6e819f0,name,Laboratory Techniques and Experimental Design
+0b37ac37-4c42-49cb-a4f0-d3dbb69e7398,name,LabVIEW
+333bf1e1-aaa0-4021-801d-230e4323ef74,name,LabWare LIMS
+40dcf174-af84-4e66-9764-6f06205ca2a6,name,LabWindows/CVI
+5962321f-142a-4095-bc08-961365e1fcb5,name,LAMMPS
+4b7e04ed-3c04-4f8b-a2a9-573d4918f269,name,Land Reclamation and Rehabilitation
+375a5602-0ad1-42b0-9b54-9f1f9b37981e,name,Land Use Planning
+2a05d114-65b0-420f-a882-38ea56011af0,name,LangChain
+925ec231-e16e-4af1-b4a1-c19165246515,name,Large Language Models
+49dd5cb8-72a1-4dba-b4bc-627f5f4cc11f,name,Laser Applications
+2c68f297-8120-4ee8-b8d0-a5c44fffddf0,name,LaTeX
+04eb7782-05d7-4bd9-8852-be14da5eeb66,name,Lead Generation and Prospecting
+2e4f2f1e-c38c-46c9-8de2-2da7c8f4a597,name,Lead Optimization and Medicinal Chemistry
+da4249c8-94eb-4f85-bc4d-d8c4fb58ec00,name,Leadership Coaching and Feedback Delivery
+bccac637-12d3-48b9-b600-dba2d62c7d51,name,Leadership Development
+53c798ac-557c-498e-bd15-46491982feef,name,Leadership Development
+b9a5d7fe-7ef9-4624-a346-f4b14e331167,name,Leadership Ethics and Corporate Social Responsibility
+e2bcf74b-0e6f-4f97-8c11-25bddb899c81,name,Lean Methodologies
+7ce85c7a-d8b7-41f0-99c7-997f7a4ec8b2,name,Learning Agility
+63714903-2a73-4d59-8b8c-400637418e5c,name,Learning Analytics and Educational Data Science
+10e23655-c930-412d-8754-a698f41e1853,name,Learning and Development
+9a5b55d2-dac0-4b47-ac51-654d90d2a5a5,name,Learning and Development (WDHC)
+7e9a0988-590f-4a81-9d3a-dac359081768,name,Learning Management System Administration
+896825a2-990b-4d1b-8e0f-4d8c8611b65f,name,Learning Management Systems (LMS) Administration
+acc27020-2df0-4b14-b05e-29c8a5670982,name,Learning Support Strategies and Academic Interventions
+0fb9920b-cce2-45b4-9a4b-76e21d6e64b3,name,Learning Transfer
+8df76986-1642-4428-a651-f3677205697d,name,Ledger Live
+3233b677-91c0-49ae-bacd-bd8b6a57d79b,name,LEED and Green Building Certification Management
+410d5599-7c02-455e-a6da-b2dd69588013,name,LEED Online
+d17d6bd7-d742-41a7-b600-bde24071fe6a,name,Legal and Contractual Documentation
+ff96aec3-2c3c-438c-98fb-e99c9ed13fc0,name,Legal and Contractual Knowledge in Insurance
+95dcbe10-657c-48a3-911c-55648c8d3cfd,name,Legal and Ethical Compliance
+ddae33a5-dcbd-4647-90cd-1a36b7a2d7ff,name,Legal and Regulatory Framework Interpretation
+e65cb6cf-e95b-4d69-8eab-d6f1b7b2ecad,name,Legal and Regulatory Interpretation
+1ec51c11-adc0-4612-af33-f0e80fcd95e4,name,Legal and Regulatory Liaison
+47fc6924-d96d-46b7-ae1f-c71c046bb7a9,name,Legal and Regulatory Research for Regulatory Compliance and Risk Management
+68d2b5c4-f230-40ed-8b33-2cb921fac0dd,name,Legal Documentation and Record Management
+653c83cd-e5ee-4996-a584-0ee05cad1896,name,Legal Research and Analysis
+c861dc69-75b5-4ef8-9a0a-a798df0d1484,name,Legal Risk Assessment and Mitigation
+decc026b-0ed1-4b40-9b09-48a7d64dd969,name,Legal Technology and Tools Utilization
+7ad0a0ad-04e6-4b76-97dd-e87eb483f4a3,name,Legislative and Regulatory Analysis
+9b2a3696-6ac5-4d17-b73e-3002bf56969d,name,LenelS2 OnGuard
+b14b73f6-8001-4ec7-b8ec-1e6989052061,name,Lenovo Data Center Infrastructure Management (DCIM)
+2ca64a78-65fc-4997-870d-09059ec4a291,name,Less
+f3b015b2-fd65-49a3-9251-ef75ed187073,name,LexisNexis
+2a06a153-5f32-409b-a5cb-dacba2b24448,name,LexisNexis Regulatory Compliance
+0936e58b-7f6e-4455-8dbf-cd2448fc1921,name,Libsodium
+afa5dd1c-5271-48f7-a7ea-5a5e29df68b0,name,Licensing and Authorization Management
+3050dc68-107a-4123-9ed2-7a8aff9273af,name,Licensing and Permitting Management
+a0e1225f-58f5-4d38-8ece-e29b447bfdf2,name,Lifecycle Assessment and Environmental Impact Analysis
+5121b979-1377-4638-9c6b-a5753ed7396f,name,Lifecycle Assessment and Environmental Impact Analysis
+f4bd9521-37b5-49f9-9b7e-2725394866ea,name,Lifecycle Assessment and Environmental Impact Analysis for Sustainability and Environmental Risk Management
+c68bf785-5e89-4761-ab84-fad0dbb978a6,name,Lifecycle Asset Management
+19657c76-8a46-4010-b4ac-8150cbabc82b,name,Lifecycle Asset Management for Maintenance Engineering
+41f096c0-e46e-4c32-b519-ff915af3ecfd,name,Lighting Design and Applications
+a760f694-4462-449a-924e-164070a789cd,name,Lighting Design and Engineering
+11a37d3f-950f-4833-8507-003c61cd8ec0,name,Linear Algebra
+101270f3-bc7f-4a5e-bb94-e8449506dca8,name,Linear Systems Analysis
+c6a686c4-d8b6-4c25-9f25-a35c106df457,name,LinkedIn Learning
+e7e2ff81-3f58-4041-8465-b1b55a6d095e,name,LinkedIn Sales Navigator
+2c35d95f-02b5-4f68-ba4f-102007c0efce,name,LinkedIn Talent Solutions
+38587330-943e-4fd6-9f6e-3a7193c1f442,name,Linkerd
+adad768b-787c-48b4-b5ad-e8f21186d308,name,Linux and Open Source Systems
+64a2947f-84a3-4b5b-a17d-2c79681973d1,name,Linux Installation and System Administration
+e669cf00-e026-41ee-b63e-19421b70e301,name,Linux System Administration
+15c2ddba-bb84-4ccc-b4f7-77fa24a8632f,name,Lipofectamine
+af589153-8d4a-4781-a53f-e9c2f27626ee,name,Lipper
+c8306288-c36f-4842-8d34-960969102965,name,Liquibase
+f77c638c-de28-46ab-ab87-348db9bf23b9,name,Liquidity Risk Management
+1df0d522-a1bc-4da3-82e1-8ca119bb177e,name,Litigation and Dispute Resolution
+e13eb8c9-59d4-43b4-a9e2-aa60fa199bbb,name,LivePerson
+5426449c-6d30-471a-af2f-590992b3c5f8,name,Livestock Equipment Operation and Maintenance
+618062e3-5a1a-48ec-b2d6-f210f4a91142,name,Livestock Health Record Keeping and Data Management
+13dbdd0e-6ecd-43ed-9d69-f12da82a8888,name,Livestock Housing and Facility Design
+946c6972-9032-43d7-b8b3-8eb50fa569ed,name,Livestock Marketing and Economics
+2fe00247-8a8c-43da-af4b-5ea0600c29f9,name,Livestock Production Systems Management
+dfe12f71-384d-40ea-aba3-918b79022b58,name,Llamasoft Supply Chain Guru
+ca71614c-2d6c-4fd1-9126-5e2526932282,name,Loan IQ
+47bbe6eb-3147-47c5-9c7d-f785fe180bec,name,Loan Processing and Credit Administration
+8419410f-4519-4bfa-86a5-a24209a4debf,name,Locust
+59fd72e1-f039-46ad-b316-6a216ec6493f,name,LogicGate
+bdbfaeee-97c1-400e-85bb-d10c22180400,name,LogicGate Risk Cloud
+dfcf8b06-265a-445a-9407-c794332d0c00,name,LogicManager
+e95ab9ca-fe81-426a-bc15-d7ab473127d5,name,Logistics and Distribution Coordination
+e20ec3a0-f5db-452c-b098-4dfad9e992fa,name,Logistics and Transportation Management
+52171cec-88b4-451a-8f00-2bc8c4a82377,name,Logistics Operations Planning and Execution
+10fa72d5-2df0-4e33-b307-3e6a8adfca5e,name,Logistics Planning and Coordination
+b8975021-85d6-4701-82eb-bf16a94acf5c,name,LogRhythm NextGen SIEM
+11cd65e5-3f43-4f3f-b709-cf332bf50088,name,Looker
+bd6b92e1-9dfa-4439-8d07-19e5722a6355,name,LoRaWAN
+ed53e0c2-bf28-46c0-a8cc-0d7bfe9de271,name,LOTOS
+6f3eaa75-9636-4066-960e-30b49cd124ba,name,Loudsoft
+483632ce-df73-4a38-9079-e389e0f145e4,name,Loudspeaker Systems Design
+da3791c1-b191-4c15-8d01-c6b70f8148d8,name,Loyalty and Customer Relationship Management (CRM)
+3ebea74a-b48e-45f4-891a-b9880f51559a,name,LoyaltyLion
+693c8daa-3641-40a8-b7e4-b2391acc5eb1,name,LTE (Long-Term Evolution)
+b41469b2-764c-43d5-a163-23f5b8cf0b02,name,Lua
+4ea63f67-b272-4072-9a28-d9282a34fa07,name,Lua Programming
+8188b3aa-d321-4b5b-932b-71060685175e,name,Lucene
+b459097f-6d7c-4814-9f9c-75155e012104,name,Lumerical (Ansys Lumerical)
+b61b208c-d90d-41dd-a9c4-a912e136f4b3,name,Machine and Equipment Safety
+03d74255-6f9f-47f3-943e-3f08e67b8ff8,name,Machine Design
+b2f2d0d2-8049-4d6e-a402-57d3a645fa76,name,Machine Learning Development
+21b17407-be85-4c8b-bda0-3d0793b159c2,name,MadCap Flare
+8a32d39e-55fc-4f07-8ff9-47b5e70c240c,name,Magento
+78049396-e16e-4c8f-b52b-09b3e856f4a2,name,MagicDraw
+77d83601-43c1-4da4-ad32-990a3bc91c5f,name,MagicDraw (Cameo Systems Modeler)
+a39d753e-0c65-449d-bfd8-0ee5b99b6c9e,name,Mailchimp
+d67fe304-21c6-49eb-a01a-ffb0846fb3eb,name,Maintenance Budgeting and Cost Control
+8a725093-d6bd-4524-89f4-b8471ce46521,name,Maintenance Budgeting and Cost Control for Maintenance Engineering
+5f3c2b6d-3e93-4f87-84ea-5eef9ed179eb,name,Maintenance Coordination and Asset Management
+e2473a38-537f-47fd-a86f-4abdf9f528c8,name,Maintenance Data Analysis and Reporting
+89bb97cf-525e-411d-b48a-3e020b0ce81b,name,Maintenance Documentation and Technical Writing
+c6fc0486-b4e7-4a42-83be-f1622834e9bd,name,Maintenance Engineering Design and Modification
+6e6ab555-765e-46d3-8d2a-848e54673ccd,name,Maintenance Management Systems
+fecaaf11-713f-4eab-b583-f7e84332702b,name,Maintenance Management Systems and Software
+e2bce3d5-4d5d-4bad-900b-e0ca424804b7,name,Maintenance Project Management
+07bb4792-c9c0-49c2-a51e-83232c8137aa,name,Maintenance Quality Assurance and Compliance
+a4decba4-20eb-4802-b3e9-17a02a21fc63,name,Maintenance Safety Training and Competency Development
+17a21362-6662-4bd1-8f70-9cef235066b2,name,Maintenance Scheduling and Resource Coordination
+170a8166-9b27-46ab-a785-ac9b2c82b820,name,"Maintenance, Troubleshooting, and Repair of Agricultural Machinery"
+8c08c923-9393-450b-ba7e-b2aa30e31cb8,name,Maltego
+7a0e7968-d1aa-4447-a346-31ed7be864e6,name,Managing Difficult Conversations
+4f5e8300-fa29-4fdb-ad34-04337fece8ca,name,Manhattan Associates Warehouse Management System
+d8e6ea1c-0ed4-4ddb-acaa-afd1a32864c0,name,Manhattan Warehouse Management System
+3b95d40e-980f-4fcc-b694-45f0b70c62ee,name,MantisBT
+b27b8969-51ef-4316-914e-589f73760d15,name,Manual Testing
+56d22846-8677-4e8a-8baa-e42a834efc6d,name,Manufacturing Business Models
+c963cf5f-4de3-408a-8a29-f40cf9d8e0d9,name,Manufacturing Operations and Process Optimization
+dd279596-b098-4390-9131-a590c99a0c15,name,"Manufacturing Process Development, Technology Transfer, and Scale-Up"
+8074ac51-58e7-4444-b4f9-6c107f091529,name,Manufacturing Process Quality Control
+ac5b7771-8ee9-45b6-9d99-ffebe0ff8eed,name,Manufacturing Strategy Development and Deployment
+22d46492-5fd2-4f85-9d3f-0a27c3962a9c,name,Manufacturing Systems and Platforms
+0e380d08-1fc7-418e-ba93-95d3a84b9686,name,Manufacturing Technology Evaluation and Integration
+a1522e26-5d0f-412b-ba2e-ae6fc40ba73a,name,MapAnything (Salesforce Maps)
+4f51f683-1bf8-4b86-b277-33b595892bcd,name,MAPP Online
+6701e943-279c-492d-9ea1-6a2112e5216b,name,Marine and Aquatic Ecosystem Conservation
+06c24ff2-d427-41fc-9799-8c31646359ad,name,Marine Collision and Grounding Analysis
+555c40d0-e986-4632-85de-0a6a88609b04,name,Markdown
+d4d5e7ca-43ee-4f61-a03f-cc888f0c16d0,name,Market Access Strategy and Pricing
+3f415883-23f3-4d48-a53d-34959917dd7c,name,Market and Customer Insight Analysis
+53f099ac-b15c-4766-a964-8e5bbde4fdb3,name,Market and Economic Research
+44404213-36cd-4c8d-8505-b09a45f39f7f,name,Market and Sales Data Analysis
+f6b38f91-6edd-4f35-a92a-273b91cc5874,name,Market Research and Competitive Intelligence
+fe8a0328-ef72-4887-9ddb-7e8ded104f10,name,Market Research and Consumer Insights
+37d73c1e-86ef-47d5-9184-bef19d02ccc9,name,Market Research and Customer Insights
+48583961-2b81-4f9f-ae06-e8c9e45d4f32,name,Market Risk Analysis and Control
+42877ca0-b282-4a3b-adf3-c7689b503247,name,Marketing Analytics and Performance Measurement
+6e4c9d65-fd68-4d98-abf2-da9b371dd506,name,Marketing Campaign Execution and Performance Measurement
+af1cd5a8-0b52-4254-86dc-6c9bc2edd54c,name,Marketing History
+10f9b691-e2a0-4813-8edd-c32cee416b76,name,Marketing Strategy and Planning
+2f10d356-a00e-4750-9abb-aab8c1a412ff,name,Marketing Technology and Automation
+270d3a3b-edff-47c1-8f1f-94b8e880bc25,name,Marketing Theory
+d73dc668-11a8-4a60-b32c-ad875f378000,name,Marketo Engage
+8c1f53ae-f77d-435d-8c8a-73fddc0eff64,name,MASM
+7e935d53-dcbc-418b-81e1-2804bbf49959,name,Mass Transfer
+090eb09a-3255-4f26-8144-2effc2491790,name,MassLynx
+a603c462-e17e-4d8e-845a-14f58ede49d3,name,Mastercard Payment Gateway Services
+447afcb6-8484-4eea-81ad-c12a3c2735fb,name,MasterControl
+09f5fa35-a155-4f52-bf71-3b03112252ab,name,MasterControl Audit Management
+c9a227cd-48e2-4f21-a192-7c8006971d81,name,MasterControl Quality Excellence
+0598f5cf-e93c-496f-88eb-3c68d5a7a056,name,MasterControl Regulatory Compliance
+565b5333-9195-4675-9027-9eabbdd159b3,name,Material Handling and Transportation
+605b2140-b1e2-4770-8769-52cf931d4846,name,Material Handling Equipment Operation and Management
+ca5d85d1-7468-4f04-841c-d3042b5956c2,name,Material Procurement and Supply Chain Coordination
+23ce7694-f05a-433c-8ccf-d20e13d399c8,name,Material Sampling and Testing
+c8033a02-ec9a-40f5-b40e-061ec7089ee6,name,Material Specification and Selection
+33f08719-39d9-4076-b2ec-6dc55f25cec0,name,Material Testing and Evaluation
+6035313c-ce9a-4506-afca-95bd19608f06,name,Materials Engineering for Transportation Infrastructure
+d4de8c62-0274-4067-ae47-d3ace157ce92,name,Materials Handling and Logistics within Processing Plants
+71c23488-6489-4950-a28b-068b6b49a3d3,name,Materials Science and Biomaterials
+e4d9528f-e9de-4152-a6d9-ebb1142e0015,name,Mathematical Foundations for Computing
+ce22ad52-aee2-4054-8635-e028cffd01e6,name,Mathematical Modeling
+a2d5f187-9187-4d01-8ba9-d699254221ec,name,Mathematical Optimization
+155994ea-0dbc-4bad-a806-e255830467ce,name,MATLAB
+71b12efe-7437-44f3-964c-d943b056d538,name,MATLAB 5G Toolbox
+ef9f969e-56bb-4b0f-8130-099fa782c8f2,name,MATLAB Image Processing Toolbox
+6eb8d4f3-92ac-471d-85f3-427304e24204,name,MATLAB Simulink
+d764d9de-6270-4076-a485-a2acbc5d0539,name,MATLAB/Simulink
+7af972f5-9a09-4c2e-9b1e-1ec6ffcae688,name,matplotlib
+c647d577-5a5b-4ca2-b9b6-4e4ecf6a66f7,name,Maven
+20155e7b-03b5-4579-b0cd-cc602fbce9cb,name,MAXQDA
+bbee1eca-8dd0-4135-8436-4c2ce1a91191,name,mCRL2
+c3d0632e-1870-461d-8ed7-8668bac10be2,name,ME'scope
+fe6de4af-cbe5-4b8f-a319-b8459439176c,name,Mechanical Component Analysis
+29d7d662-596d-40f8-af7c-78d1b4338bee,name,Mechanical Equipment Maintenance
+261ba429-6f6a-44bc-9830-3dd8f8d3c81c,name,Medallia
+31f8204f-516f-4ed6-8f7c-768391b4e322,name,Medallia Experience Cloud
+3b5c54ca-0023-4f17-89f8-e53a1e6ce98e,name,MedDRA
+14dfab9c-f277-43b0-aff5-f79fb491acd8,name,Media History and Evolution
+453cff50-48c1-4b0a-88a2-84431c6d8c29,name,Medical Affairs Analytics and Insights
+ef7ab810-d365-40b3-bab1-d78cad07e09d,name,Medical Affairs Budgeting and Resource Management
+55d8ba89-0d25-40b6-8b55-11880831eec6,name,Medical Affairs Compliance Training and Auditing
+e15ff98c-7917-4938-9f40-fb31c075d6e6,name,Medical Affairs Digital Tools and Technologies
+f550cf6b-5e3a-4db3-9670-512828d8a774,name,Medical Affairs Leadership and Team Development
+5b3760a4-39cd-4528-9b0e-2142876be151,name,Medical Affairs Risk Management
+14d363d7-e27e-4032-8e00-e97c41faaf1e,name,Medical and Scientific Evaluation
+ddfe5867-4df3-4b1d-add4-5c40edace71b,name,Medical Device Cybersecurity
+7c246434-e3bf-487a-be42-67d0ca8b65ab,name,Medical Device Design Engineering
+e41213ef-97d5-4270-ad19-480c303eecfc,name,Medical Device Documentation and Technical Writing
+008ce4bd-074a-49cc-bb2f-50479e662e63,name,Medical Device Manufacturing Processes
+ed5e3e89-54d3-4737-9e33-787d2237a523,name,Medical Device Packaging and Sterilization
+7b564631-77be-432a-b6e3-03a7fe6de25b,name,Medical Device Project Management
+98f2260a-eee2-4565-9d6d-40e6c040dce1,name,Medical Device Research and Development
+8beaf2b5-0b66-425f-9f32-1cfd75149a27,name,Medical Device Software Development and Validation
+5ac89286-b45c-414b-8650-c0461fb9931d,name,Medical Device Testing and Validation
+8dab93c3-e229-4cbd-82b4-4f7d4f63bf87,name,Medical Education and Training
+930498c6-7586-4a97-b998-49dd5826acbe,name,Medical Imaging and Diagnostic Technologies
+e82b0282-5e86-4af8-a62c-18e8f18e6f2f,name,Medical Information and Inquiry Management
+622b9040-d280-4913-937b-10958c6454ac,name,Medical Research Data Management and Informatics
+5625b2b8-5d58-4366-ba85-b74a7972d80d,name,Medical Research Project Management
+a2a0ba2d-a727-44d9-b1ea-9114595db440,name,Medical Scientific Communication
+5a270af9-6f06-4d47-9208-ea20dcf9a816,name,Medical Writing for Clinical Trials
+54f8f11f-dd5a-425a-a0c5-59c08e3d061f,name,Medidata Patient Cloud
+c9bb8267-645f-49de-b9af-214a88bb4255,name,Medidata Rave
+05bc9abf-2774-4fc9-9d95-120a7d638b78,name,Meeting and Event Coordination
+040f289e-b92f-4518-bda8-0e30239c75b4,name,MEGA HOPEX
+40d75d98-2655-416b-aade-a232bcce559a,name,Meltwater
+ce86891e-4af6-4553-b4ad-6bfbfcbfa83d,name,Memory Improvement Techniques
+f5293b4c-f113-4d9c-9fbf-c10d651a8448,name,Mender
+fbb88d66-5726-4fbd-915f-a67088f959bb,name,Mendix
+c78ec298-a6b1-43d8-8ff2-172a03b8de8c,name,Mental Imagery and Visualization Techniques
+a174ce29-29f4-48e3-be00-8455df529485,name,Mentor Graphics PADS
+fe1fd692-b1a0-419b-834f-fe24ed25377a,name,Mentoring and Coaching Educators
+aa53f017-950d-4641-974d-fde05995000f,name,Mentoring Program Design
+e294df54-7036-46ac-a44e-25e5da809ad4,name,Mentum Planet
+732f25d0-0ecb-4e1f-80bb-0302625fb094,name,Merchandising and Category Management
+6a3a7ba2-0849-49df-925f-c3a38b1b86d6,name,Mercurial
+6bb93a93-ab17-4204-9a93-e8cbe98b9e7b,name,Mergers and Acquisitions
+id,key,message
+ac9ccc11-de59-4d96-809b-510e54218041,name,MetaMask
+90780106-da41-40eb-bd65-f2ba0a456783,name,Metamask
+d7f63b3a-afbd-4248-8fc9-264df3d50bee,name,Metasploit Framework
+81a5eaec-8864-4085-b315-7d32805bdf4b,name,Method Validation and Verification
+64b31f40-7946-4fec-8af7-02fbd42b101e,name,MetricStream
+cfb1fac1-3bf5-40ae-98b0-36ab5a932d23,name,MetricStream Business Continuity Management
+1be86b6b-0e79-4021-a3cd-35eb4a9127e9,name,MetricStream ESG Management
+9bb17902-55fa-4679-8892-0d1e9db26a68,name,MetricStream Operational Risk Management
+f96bd283-38b6-42de-bd78-95e90be822bd,name,Micro Focus LoadRunner
+ab503741-f418-462c-ae1e-c668fd1e2a65,name,Microbial Biotechnology
+77520e4c-4c72-47b7-92b3-df0f2bd0f6b8,name,Microfluidic Flow Control
+3b47318f-d104-4293-b52e-6020040a2792,name,Microfluidics Design and Fabrication
+d14c79f3-a2e7-4ae0-a879-9faa827bf69a,name,Microgrid and Distributed Energy Systems
+0438aea0-cd66-4317-b199-aa70555c06e3,name,Micromachining Processes
+8f7dab46-151e-4676-9012-ee547e9d0055,name,Microservices and Service-Oriented Architecture (SOA)
+c2e5da63-cd60-4b07-a8db-4f5af352419e,name,Microsoft Active Directory
+e8b46e4c-2aec-43d1-8c52-d25558c799d0,name,Microsoft Azure
+40bcd7e0-41ef-45b6-8e92-a1283ff63119,name,Microsoft Azure Active Directory (Azure AD)
+b1bf761f-d601-4be0-b7f3-32160a2d5d4a,name,Microsoft Azure Active Directory Verifiable Credentials
+449d605a-eeb9-45fa-bb23-19011c5bf8c9,name,Microsoft Azure Arc
+4e10fa07-7996-4429-8793-2e1bbc295dd1,name,Microsoft Azure Blob Storage
+eda706c1-71b0-40df-af4c-111667da3a59,name,Microsoft Azure DevOps
+260f988f-fd71-4ae2-a694-1d5091b33ca6,name,Microsoft Azure DevOps Boards
+40acf9da-cc5f-4a41-9911-38c2d5716408,name,Microsoft Azure Face API
+eefb71f6-d876-49ae-8f84-b46f99b51b49,name,Microsoft Azure Functions
+248ca4ed-7877-429d-8634-afd144ccde7d,name,Microsoft Azure IoT Hub
+2c55e745-6123-4f42-bf65-fd9c557aa179,name,Microsoft Azure Policy
+e1553566-7c5f-4928-b127-f0ac7a23de57,name,Microsoft Azure Security Center
+df89c3c7-149d-49d7-8562-b22024a62563,name,Microsoft Azure Site Recovery
+cbbe86b0-64e2-4f26-a09a-5204dda16d5f,name,Microsoft Azure Test Plans
+6588ff3d-a7ae-4079-a579-94d144538f91,name,Microsoft Bot Framework
+08878748-01a6-4536-b27c-1981d82740c8,name,Microsoft Compliance Manager
+8404f937-7633-4b99-b3d9-3fac0e9e7352,name,Microsoft DNS Server
+db594ecc-132b-4a94-aa7a-6cadc0025d6f,name,Microsoft Dynamics 365
+84eb6f71-45e8-4291-9a08-1f550d3d43a6,name,Microsoft Dynamics 365 CRM
+14853791-8611-4d5f-8d87-8fc4aaacb434,name,Microsoft Dynamics 365 Customer Engagement
+6ecca8a6-274b-45db-a5e3-8e6326a8b96b,name,Microsoft Dynamics 365 Customer Service
+9cb0a85a-352f-4709-9aed-196d1175f976,name,Microsoft Dynamics 365 Finance
+5fb91f07-cac5-4981-ba8f-aa8f5bebf9f7,name,Microsoft Dynamics 365 Finance - Fixed Assets
+9bf8e2e4-f483-46b1-8436-cdc240a475b2,name,Microsoft Dynamics 365 for Healthcare
+1574b6e5-8cb1-4a89-9faf-5ba2280ee26d,name,Microsoft Dynamics 365 Partner Management
+f6957d05-c078-4524-be9f-de12e7eaa5d7,name,Microsoft Dynamics 365 Sales
+cb5800d1-75c9-4793-9206-5c0033689806,name,Microsoft Dynamics 365 Supply Chain Management
+09b69eb0-ecdd-40a5-9610-fbab5a7c0a3d,name,Microsoft Endpoint and Group Policy Management
+5ec393e3-35ef-4ad0-92ea-564f65ed3592,name,Microsoft Excel
+3e5333fa-c551-4b63-a722-dce928047e67,name,Microsoft Flight Simulator
+0308d1dd-a643-479e-8225-1ecf3c96a193,name,Microsoft Hyper-V
+10fda470-7aab-4e30-b22d-ea9a5d3a00a3,name,Microsoft Intune
+e47f79ae-ffba-46c2-a23a-b55303b689fc,name,Microsoft Management Console (MMC)
+ac0229db-414a-4f90-8968-da17cc864009,name,Microsoft Office 365
+6e5eb916-4665-422b-b70d-75e5d7bf1c02,name,Microsoft Outlook
+13c78bfa-f99e-4a2f-a8b6-97382ba68aac,name,Microsoft Power Automate
+590ad443-0b3f-4684-bf23-18c36073cbe5,name,Microsoft Power BI
+492e39c8-c74f-46ba-b16f-d981c90fd227,name,Microsoft Power Virtual Agents
+18977205-56fc-4df9-a693-f13db666373c,name,Microsoft PowerPoint
+61415dde-96b2-4e3d-9543-56f5cf39b019,name,Microsoft Project
+c40e8495-8df3-4522-88f7-d07bfb84619a,name,Microsoft SharePoint
+795a32a7-efaf-4f43-aef5-7bbe0c392bfe,name,Microsoft SQL Server
+f5aa75e1-9817-40ac-8280-9039f9565a9d,name,Microsoft Teams
+ecb9a2ce-210c-45f3-94de-8389e1464923,name,Microsoft Test Manager
+5d5888c8-e94a-426e-b72c-02f181d6b59d,name,Microsoft Threat Modeling Tool
+c2a30d2d-0cf5-4d29-a8b3-978ee5c95e4a,name,Microsoft Visio
+a7df7984-47b6-4f60-b12b-94037f634ed6,name,Microsoft Word
+4e0b82d5-e7b6-4e05-9b3e-4e2a182c6d5a,name,Microwave Engineering
+06c36f9e-f7ac-4287-859c-b0b33ac92067,name,Microwave Office
+3e142d75-8386-429d-a6b3-e6217e56749d,name,Microwave Systems Engineering
+167c9a30-e4c7-4e5c-b0c2-e70caf9a6fe8,name,Milestone XProtect
+b571d32e-eb49-493f-9adc-d2f02b2a8877,name,Mimecast Awareness Training
+1878133f-82f5-4150-98e4-6eb652f6c61e,name,Mine and Well Design Software Proficiency
+cb4865eb-72b8-438c-8cb6-2eb75edb3229,name,Mine Planning and Layout Design
+a1f27c2d-2bdf-4b13-8a9b-36dc578ce267,name,Mineral Processing Operations
+228e3d5a-e909-47a6-b353-d5e264ff0ddc,name,Minitab
+4325113d-283e-4c22-a75b-65fbebf52e94,name,Miro
+964424ac-0117-4407-a562-c3b9c95b8d05,name,Mirth Connect
+6fba6dbc-d762-4d02-89eb-ab5e5bc33b5d,name,MISP
+a22551fb-16e0-4c17-8b53-de517d20cdc0,name,MISP (Malware Information Sharing Platform)
+02699cd7-4e2d-4207-84a3-9f4458d24aa5,name,Mitigation Planning and Implementation
+093a2f60-960a-40f5-9c59-0a66f8b10e3a,name,Mitochondrial Health
+9451df58-5d99-4521-b384-d741dfc7639e,name,Mixed Methods Research in Education
+b0d925dc-aec9-4978-a58d-39a3ac0db01b,name,Mixpanel
+80dc6b80-64f9-4a79-a674-1721548d3d00,name,MLflow
+caa7ac94-2a5f-4fde-b423-9af6a609a866,name,Mnesia
+6b2d1f19-9174-4a81-b72a-750cd6d5ff80,name,Mobile Application Management
+cae6a196-4f2c-4c3c-8858-83f8355040ef,name,Mobile Application Testing
+9c28de40-10e3-4930-8961-5c15e56c07ab,name,Mobile Government Services Development
+8855b297-f5d3-4c7f-a2cd-0eac4d4a74ea,name,Mobile Learning Development
+79b7de2f-b819-49ed-8032-ed25e3490868,name,Modbus
+f204ee95-c00d-4308-bd00-14d8b0f48f03,name,Model Evaluation and Validation
+884545fb-39c9-424a-9056-b795ef81e94a,name,Model-Based Systems Engineering
+da231a83-a1e1-4aed-bc89-46d295889693,name,ModelSim
+3be80968-6d8f-40db-b91d-baedd0d9c91e,name,MOE (Molecular Operating Environment)
+30803618-bd19-4d7d-ad9a-a41962e5a85b,name,Moldflow
+2441451b-1bd7-4f3f-b460-eb9a4ff1f282,name,MolochDAO
+f73736ff-8794-4e38-a1a1-2e463bff081b,name,Monday.com
+d05e3ef8-90d4-4db0-b8bc-f3b4048b2371,name,MoneyGuidePro
+7c098c45-63fd-4ef0-9806-6fef698490f1,name,MongoDB
+9363cebd-82ac-41c4-9875-f5518852357e,name,"Monitoring, Logging, and Observability"
+9db49f65-b773-4c6e-8bc5-953c96b2ef30,name,MonkeyLearn
+48d1a810-af92-4a26-ba09-01774b67b10a,name,Moodle
+0363f6c9-86f5-4f3d-8584-ec9b6e4c77c5,name,Moody’s Analytics RiskConfidence
+cf5d5907-5f8a-428c-9fde-5b29d61a0dec,name,Moody’s RiskFrontier
+6be7570f-ce64-4634-ac19-2522bd09b635,name,Moody's Analytics Stress Testing Platform
+7c72e082-39bd-4d2b-9a3a-c10ae39bca89,name,Moody's RiskFrontier
+28333ceb-8282-4571-ba5b-c906ddf2daf2,name,Mooring System Design and Analysis
+80965b6d-313f-4939-aebc-cfa6df3a23fc,name,Morningstar Direct
+13cc4964-0265-47ac-adee-e473f2d71ac7,name,MOSES
+64fc3e2e-f4bd-4dfc-9285-1cb46ebe2b0a,name,Motivation and Self-Management
+a47e22bc-b0fa-49a3-ad89-17c20bed5f41,name,Motor Drives
+bb29c5c8-739e-432b-bdf4-9642406fbc12,name,Moz Pro
+2d539ea9-869f-40af-93a4-4fcd1cf2f026,name,MP3 (MPEG-1 Audio Layer III)
+6fd41832-7c43-4d63-a09d-0171c53366de,name,MPI
+e5eb9c71-3407-4193-9b49-46637c13ea11,name,MPLS (Multiprotocol Label Switching)
+c6786d43-d654-4943-9a1d-36c1f1f59a92,name,MQTT
+f8457898-291b-4741-96e2-9e89d5f99f5a,name,Muck Rack
+af562770-1bb0-42fd-8a95-e01e977ec91b,name,MuleSoft Anypoint Platform
+60b323e7-70f9-4ef1-9a7e-cf4667602231,name,Mulesoft Anypoint Platform
+c33e4635-7473-43a0-8fa5-860092587195,name,Multichannel Customer Communication
+50a480b7-cca6-4e45-b985-3affd9473c59,name,Multichannel Support Management
+ccda080d-86ed-432a-8085-b7c9385f15d7,name,Multimedia Content Creation
+fca54eb2-567e-410a-a2fb-88d213832fa1,name,Multimodal and Multichannel Curriculum Design
+03375bd2-550f-4c28-8b63-e328fd26bd0a,name,Murex
+a616d6b2-3f50-4cf5-9680-19f4ffc8dd89,name,Museum Ethics and Legal Compliance
+b6d492a4-d2a3-46bb-9fec-deb7481e6917,name,Museum Operations and Facility Management
+d2f607b4-3d66-494b-bac2-b1f3b64e0162,name,MySQL
+747030c8-4378-4054-9e0a-071aed8878eb,name,MythX
+e6492332-67e8-49dd-ab00-16efc3017398,name,NACHA ACH Network
+b90edac2-2133-4eed-a235-74503ec367f0,name,Nagios
+78acce02-69ff-4ed7-9bad-455160019966,name,Nagios XI
+c2f47f74-a44e-474c-92d9-e1472e089a6d,name,Nanofluid Technology
+72c1e532-820b-44d4-8e40-3f2510969982,name,Nansen
+29528861-9758-40d3-8a69-e32a68059ce6,name,Nasdaq Boardvantage
+09447c11-90e0-412d-bc44-e16514c42494,name,NASM
+3c5f0354-7d1a-4ed2-af01-2613dc2d8d43,name,Nastran
+73285cf9-6678-43fd-a20e-143e3be3c387,name,Natural Language Processing

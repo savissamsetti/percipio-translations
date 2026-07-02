@@ -1,0 +1,501 @@
+id,key,message
+d1ff60cd-8b60-4ad1-9fbd-5b020984cfbc,name,Security Awareness and Training (NSC)
+f42b7d07-9e25-4e39-8ee8-f34bbd3d1571,name,Security Compliance and Auditing
+a13594cd-805c-4a42-91b9-93d7ec3f97d0,name,Security Design and Implementation
+276cdfdc-d8db-40df-a380-a5d2f07cdbfd,name,Security Governance and Policy Management
+4bffab62-316d-4c10-b87f-814b34cedd25,name,Security in DevOps (DevSecOps)
+98fc9e63-db59-4105-a728-71f56e57927e,name,Security Metrics and Reporting
+da97dfbb-f6cb-42b1-b2fa-8f3795a526ee,name,Security Monitoring and Event Management
+49a0d8bf-6861-4df1-8d5b-2fd75aaf931f,name,Security Operations and Monitoring
+13fe6607-6ad2-42e4-ba5d-3cb75323bdad,name,Security Policy Development and Governance
+bff8dda8-4e6a-4bf0-83f3-c4d2b2d979f5,name,Security Risk Assessment and Management
+6e3aaac6-b1a4-4d4d-9e78-6319bf84641d,name,Security Systems Management
+4a48129f-f8e8-4b36-ae1b-26380270c1cc,name,Security Testing
+e6547d68-d1bc-4b5b-b885-aecf4ca7d22b,name,Segger J-Link Debugger
+46b5abd5-c52b-4868-ba3f-d47b6732dc8b,name,Segment
+33897091-16fe-4321-9330-f6bc5deb4b2e,name,Segment (Twilio Segment)
+41bb5395-46a6-48f6-a737-146cb022f842,name,Selenium
+5384011a-0f1e-4c04-8de5-13de3da28201,name,Selenium WebDriver
+2c5d7fee-3e27-4516-84eb-f8a46aad63a1,name,Self-Service and Automation Enablement
+e53ab46e-d3da-4761-955e-d6a151defe23,name,Self-Service and Digital Support Solutions
+99315943-d100-41b6-9d96-175f645470f7,name,Semantic Web Application Development
+e5c35184-e9f0-49b2-8e07-48ea258a25ca,name,Semantic Web Reasoning and Inference
+a0505cca-afdd-4407-abf5-8402cdb38ac0,name,Semantic Web Technologies
+3cb25a07-dd7d-4afd-9741-ecf406b7dd4c,name,Semantics-Pragmatics Interface
+56126257-70cb-42cd-9dd7-bf4f718462d7,name,SEMrush
+3ff3414b-87ed-4a1e-8ff7-b0c005b72a69,name,Sensor Networks and IoT Integration
+3a6d3076-d4ba-4ff3-9628-2f0284222bd6,name,Sensor Technologies and Integration
+7cdbabec-396b-4aa6-b589-677d7817c40b,name,Sensory and Motor Physiology
+3c11d52b-2de7-415f-b25f-14ae13afa2a2,name,Serialization and Track and Trace
+961bfd1e-b536-41d3-bcc9-d100fef0eb55,name,Server Role Management
+9a19026e-b831-41a1-b444-d6cd71ed46ec,name,Service Automation and Orchestration
+6c58b7e5-90d8-4d73-a340-32aa9322b311,name,Service Design and Architecture
+486cbd5e-3d36-4cd6-9a09-a20dd77d6f8b,name,Service Desk and User Support
+1ddd440a-d091-4226-a345-ff5b59ddcd7d,name,Service Desk Operations
+8808c56e-182a-4181-8065-e659721646f5,name,Service Implementation and Operations Management
+d2accc31-a73b-41ea-b37b-94a4a84d7a13,name,Service Improvement and Continuous Feedback Loop
+8e19ef4b-1073-45e6-bcf6-307d42f43dfd,name,Service Level Agreement (SLA) Management
+a1f1c884-8bf6-4500-964d-558d2976c83a,name,Service Level Agreement Management
+711aa891-31e0-4d43-bdfa-0dae98b7ddb0,name,Service Level Management
+ef99b5e0-9a76-416c-9a69-6413fe9f0589,name,Service Mesh and Microservices Management
+5c31a55e-0aa7-4755-ae67-31b44ed2fa88,name,Service Monitoring and Incident Management
+547ba927-c7ff-4d13-9a64-80e1f0fc60a7,name,Service Planning and Program Design
+2d408a42-8f1f-4b4d-82f3-00ab4cafdbf8,name,Service Quality Assurance and Monitoring
+6c5fae67-ae5d-4cca-87f4-d8202998de4e,name,Service Supply Chain Management
+5182b608-cf88-41d6-be3d-00d107064a1a,name,Service Transition Management
+a8124c04-78ef-44eb-a820-c1bfe8f541f8,name,ServiceNow Change Management
+6497d58b-5ef5-40f3-90ce-05edd9ea94ca,name,ServiceNow Configuration Management Database (CMDB)
+2c3a8028-02e5-478e-aa80-6b460437516b,name,ServiceNow Customer Service Management
+28a57854-26f6-4cdb-9a31-eb4aafb76fe9,name,"ServiceNow Governance, Risk, and Compliance (GRC)"
+750a9d02-9cf0-46c8-8849-9773642fe7e2,name,ServiceNow GRC
+767d57f9-1e03-466a-a572-982dadfcc656,name,ServiceNow Incident Management
+d1dc5faa-fbca-4063-8c16-aea28665ba3c,name,ServiceNow IT Business Management
+f78d96de-b3da-4515-a7f8-1b5b75b79e16,name,ServiceNow IT Service Management
+525b5b17-c5c9-44dc-9234-f925a2445299,name,ServiceNow ITSM
+b304c306-03ec-4380-ae13-2a4c8926f0d6,name,ServiceNow Knowledge Management
+f9c7e12c-741a-4645-a79e-4f62808c7b5f,name,ServiceNow Orchestration
+69182933-0e90-4922-8ec4-4f53aa809971,name,ServiceNow Problem Management
+10dea67d-03bf-40d8-a7a5-6d3ddc23fc22,name,ServiceNow Quality Management
+56156f15-139d-47be-9cd5-babe5fd2cfc3,name,ServiceNow Risk Management
+d76d7ba0-9475-45bc-89cf-be2ab69d1d91,name,ServiceNow Security Incident Response
+d8f7d498-afc0-4f17-ac16-041f55dd8cd0,name,ServiceNow Security Operations
+bc4eff6f-3376-478d-b4d7-f8696569bcdc,name,ServiceNow Service Desk
+fb7131ce-4bb1-4479-a7fc-1cfeab9ae4c7,name,ServiceNow Service Level Management
+8dc48cfc-67f4-48b0-b634-f66a268ab5bd,name,ServiceNow Vendor Management
+2cffa11c-68b3-47bb-94f6-659ee145fff5,name,ServiceNow Vendor Risk Management
+4f80e32b-fbcf-4b98-bbb1-73c26455a634,name,Set and Costume Design
+ae8395a4-dfca-4f47-b2d5-35ba684ccce1,name,SharePoint
+ae6b2b0d-dbed-4bc6-bed2-1bf3b0df77c7,name,Shiny
+c547068d-ece6-4f8c-9a87-ff3962cb753c,name,Shipment Coordination and Documentation
+a0aaafc2-0801-47b9-b280-6c37cba1efce,name,Shopify
+1dd774d2-fcd3-4905-9eb4-8b582e5043f4,name,Shutdown and Turnaround Management
+754c22bd-2367-4816-b450-cb6680c4053d,name,Siemens Desigo CC
+774d59d5-d0e7-4faa-9eb1-e8a9de3b6db9,name,Siemens NX
+02b27452-5e68-4eef-9b14-dbb92f07bdde,name,Siemens Opcenter APS
+b5bf11fb-2e75-47a9-9e7e-3b9e7bfe404f,name,Siemens Opcenter Execution Pharma
+3c6548fd-264f-43aa-907c-b1c4eed9d94d,name,Siemens SIMATIC PCS 7
+a0e24e06-c146-46b4-90ef-b6b8ceb10640,name,Siemens SIMATIC STEP 7
+5eca80f0-0f3d-46bc-b791-54435048fe31,name,Siemens Tecnomatix Plant Simulation
+3c296d11-de6a-4918-9c77-3030700ba742,name,Siemens TIA Portal
+ea428517-e1e8-4f0c-9e53-3373aab59b5a,name,Siemens WinCC
+9fd25637-ee88-4fb1-889d-93da90adbfc0,name,Signal Detection and Risk Identification
+5e014313-0fde-49cf-9ac9-7872aafbe7c0,name,Signal Processing
+b67add1a-d6ce-4924-97e4-04a875d324a6,name,Signavio Process Manager
+ae3a4f56-ac3f-437f-8ba6-8880c8cb44bc,name,Silviculture Practices
+17dc5599-b338-4efa-908a-355ab5bf490a,name,SimaPro
+696b0033-a22b-4876-9ba2-bbccd5a97f31,name,Simcenter Testlab
+372523c4-f3f4-4272-b3d0-e8830d5182dd,name,SimCorp Dimension
+5f20a22a-4e26-49ea-9ef1-13d7a8d47a47,name,Simcyp Simulator
+699cde55-8bb1-45bd-8bad-57556975b08e,name,SIMD Programming
+1b068ea0-c454-4d16-9530-cf696f6aa97b,name,Similarity and Distance Measures
+1edb6a2f-5f14-4023-9490-9ee3c74694b8,name,Simulation and Modeling for Process Development
+a98e4bac-f04f-47d1-8efc-450bdfc3b78c,name,Simulink
+3671b018-7406-4f08-a081-4a4a6efa5115,name,SIP (Session Initiation Protocol)
+2f30aa95-9f5c-445f-a63c-d699520c9321,name,SIPp
+6dfa5129-cb8e-43da-bb0f-80d332dd92fb,name,Site Assessment and Investigation
+94756b18-6b19-42e0-8819-153484870db8,name,Site Preparation and Earthworks Management
+907fc7ea-ec1a-43bd-9ed9-d30285ed0044,name,Six Sigma Methodologies
+eb815211-ce58-4636-abdd-0661a010602f,name,Sketch
+cc3e2ce6-1fb9-4a7a-b393-0f463559d0aa,name,Slack
+224549df-826c-4d84-9ff8-b2736ee71a76,name,"Slip, Trip, and Fall Prevention"
+772b3369-8d97-4aa4-b778-efaefecfb1f4,name,Smaart
+cf953be8-2a79-4815-b7b4-6793b5a86ac6,name,Smart City Technologies Integration
+95f5d83d-66aa-4512-b334-4f599989953a,name,Smart Construction Systems and Digital Twins
+b479d05e-576d-40af-a7a4-4e346a544bac,name,Smart Contract Development
+3113d085-b7dd-4555-8381-d6ea376bb36d,name,Smart Factory and Industry 4.0 Technologies
+8af8b548-f47e-41a4-a64c-8d58a0678840,name,Smart Fleet Management Technologies
+d5aa162c-3a47-4c89-9ff9-f5b6b3774efb,name,Smart Manufacturing Systems
+8d46200d-8bd6-4b6b-94e3-ed0efee8efc4,name,SmartRecruiters
+e6c51301-01aa-4463-829e-61e046570767,name,Smartsheet
+eb966e6a-784f-4282-9975-09a799363b21,name,SmartSolve
+1785fab5-13d0-4cfa-8d7c-5a3789defb3b,name,Snapshot
+3f686789-3bb6-4815-83d0-1feba02147e2,name,Snort
+58b5d6c1-2098-4817-8d9d-c43a3cb1fced,name,Snowflake
+ac939b01-6fb9-4333-987b-6f012e8e6698,name,Snyk
+c1360621-bd3a-42e2-aba5-87120ba83d5b,name,SOAP
+1f3b3dc6-396f-4970-bdd0-97eb451f2e16,name,SOAP UI
+196d1745-c386-4a15-bf04-38b24d792fde,name,SoapUI
+d12bcc30-0664-4196-8088-b415e4e4a6ec,name,Social Media Management
+dba5baf2-39bb-4926-9111-0b707f3a8907,name,Sociopolitical Analysis
+92487bd7-89fb-49b3-b9d4-a414466affda,name,Sociotechnical Systems Analysis
+64f55967-7c0e-45fc-bade-358b831c7b46,name,Software Architecture and Design
+e4952cde-8619-463a-94b0-cd1be127f6f4,name,Software Build and Packaging
+e9bc0c77-067d-4c40-818c-ed3fde193f4b,name,Software Configuration Management
+7a86212c-e807-4556-93f1-cc9fcf29949c,name,Software Deployment and Release Management
+0cad4353-382d-493e-9aff-10ed4f662c38,name,Software Development for Telecommunication Products
+3d487f75-2bba-403a-81f2-4a9e74db5dfb,name,Software Documentation and Technical Writing
+4ebc640b-660f-4b3d-99df-f3778ac5e9cf,name,Software Engineering Team Management
+a6e418e5-3ce0-4c05-a605-7de172eedd16,name,Software Integration
+9feb9339-e0ec-4b41-8dd8-08fca867ca92,name,Software Maintenance and Support
+2f0d9bbc-53df-4304-b940-84a750389236,name,Software Obfuscation and Protection
+e2bef87c-843d-4120-bbd0-28c35e010bc7,name,Software Performance Optimization
+39258c62-e236-496e-82cf-e916235eb25b,name,Software Risk Management
+6edd0617-4818-41c2-b1c0-ff773ace44e8,name,Software Security Practices
+4e2beb8c-8c19-42d7-99dc-cdc14f129706,name,Software Testing and Automation
+82484119-775d-4359-91c7-f0101788f740,name,Software Usability and User Experience (UX)
+1115b11c-8ef4-484c-9c32-fad07787f896,name,Software-Defined Networking
+a00cc044-daf3-4eaf-96d2-76879b7c3e34,name,Soil Conservation and Management
+971c57e3-9ac3-40fe-9284-9818b918368e,name,Soil Conservation and Management for Environmental Sustainability
+9799d1c2-eb5c-4fd5-a4ce-03c2b6d612bb,name,Soil Science and Soil Management
+e485ea3f-79bd-4821-8116-b5439a8b252e,name,Solana CLI
+769625da-9e55-497e-8c07-0d9cf19d61d0,name,SolarWinds Network Configuration Manager
+30f64802-5567-4424-9da4-07cdfc5c15b4,name,SolarWinds Network Performance Monitor
+e9b4178c-1711-436c-a0e5-eee360ee705c,name,Solid State Lighting
+e583ae41-51ea-46b7-bf08-a5bb9b748309,name,Solidity
+26e8066b-2915-439f-a9e2-e92556be452b,name,SolidWorks
+ef5e902b-5e02-4f27-add7-4834bd735ba2,name,Solution Architecture Design
+7fe9b51c-ceaf-4c82-ac31-2203cb9c1366,name,Sonar Signal Processing and Analysis
+272cd154-0ce5-4251-9afd-27e38197953c,name,Sonar System Design
+87962593-2623-4a66-a66c-eb43e072f2c7,name,SonarQube
+c5484837-b23d-4baf-8229-fe002aa78a80,name,Sound Design and Engineering
+017c1879-4d5e-4fd7-b585-1f53b94138cd,name,Space Planning and Utilization
+498a0262-5584-4a50-9681-c786833d9470,name,Space Planning and Workplace Design
+f1ca3d36-61b2-4de9-9798-27ab5aad50fc,name,spaCy
+b248b4e7-8f3f-4f05-b25f-9d14c03bb219,name,SPARQL
+f7f6ca61-cdf3-4f46-b2c9-2dfae5154834,name,Sparx Systems Enterprise Architect
+1e4fa529-433b-4779-b3bf-7ab90d426db7,name,Spectrum Management and Cognitive Radar
+ad1d9fee-ce94-4925-b8b8-1a9029eba3d9,name,Spectrum Management and Frequency Planning
+c3d4b3a3-7641-47e7-8516-3f728dc05a82,name,Spectrum Monitoring and Interference Management
+55e31b2d-34c0-477f-bfb6-eabfe9af5646,name,Spectrum Monitoring and Management Systems (SMS) by Rohde & Schwarz
+bc1329e5-52fd-4828-a129-a256ccb194ab,name,Spectrum Planning and Management
+300b5c2c-6618-4d4f-80d7-c338def916b7,name,Sphera
+3017971d-795f-4b75-b1ad-3771c2b63260,name,Sphera Energy Management Software
+8ab42336-667b-43cd-b2e7-bf55fe96541b,name,Sphera Environmental Management
+bea6de20-1066-41f4-91e6-d1589b25e97b,name,Sphera Environmental Management Software
+ee1f0a88-d991-44f8-b380-973048f96437,name,SpheraCloud
+03f59aee-f581-46a7-8dd3-22e8ecda1bdd,name,Sphinx
+408aaa3c-fb0c-4054-8ad6-539335e83dc9,name,Spigit
+10d618da-10b7-4112-bebd-6e2bf4b5e2c4,name,SPIN
+140f672e-70bf-4d9f-a79d-2d644768744d,name,Spin Dynamics
+177df9e9-a431-4528-8ced-5192e140e7e1,name,Spinnaker
+81b07124-4e4e-494c-990d-31207c8b3c7b,name,Spirent TestCenter
+b175c5e3-ab56-46df-9e3d-9ef5fb9cf159,name,Splash
+f1666e3c-a06b-49a7-9970-a1657c35cfb2,name,Splunk
+68fffc29-529b-4849-99b1-21d3935dccf4,name,Splunk Enterprise Security
+65456c02-2d23-4148-9827-1a2260fc1d13,name,Splunk IT Service Intelligence
+705ee76c-0aff-46fb-b109-96a350d06a93,name,Splunk Phantom
+8634f155-bd0e-4492-adc2-70fdee29b693,name,Sports Biomechanics and Movement Analysis
+4f450624-5f4f-4326-adc0-f6de948b9c53,name,Sports Coaching and Instruction
+53ff1ce4-2a2d-4f30-bdd0-1f3e401a214a,name,Sports Communication and Stakeholder Engagement
+45cec715-3a75-4416-b459-cfd21ba31b80,name,"Sports Ethics, Integrity, and Anti-Doping"
+9e4d0c06-d31a-4a33-ab5d-2683d8756d01,name,Sports Facility and Event Management
+397b5e24-53dd-4b87-9dbe-9064738edfa6,name,Sports Nutrition and Hydration
+e28ca00b-af1c-43ed-a48e-d7b14d73a4a1,name,Sports Officiating and Rules Enforcement
+63df818e-ae16-4ce2-ac0f-8da291a874ac,name,Sports Program Planning and Administration
+abad23dc-31db-4855-9d45-c8326b423359,name,Sports Psychology and Mental Performance
+992d080c-4968-4e56-b7ff-2fb816356b0c,name,Sports Technology and Equipment Management
+f25c7459-6d42-44f6-8959-4b526072df94,name,Spotfire
+63ded742-5a8d-454a-b675-6b1c49b878ef,name,Spring Boot
+4702bf30-be71-4021-b88f-46087b314f74,name,Spring Framework
+490f24d7-6157-4d7b-bff8-8ec001e45d36,name,Sprinklr
+cb4c4fae-4ee4-4355-9dda-f0c07cf90df5,name,Sprout Social
+46a1b13d-ee46-4462-b8c2-e252adb702e9,name,SPSS
+aeb1920f-aa79-44b0-aba8-d334a85aac02,name,SQL
+cdfb1ef8-155e-431e-9cc9-3e95b80bfadf,name,SQL for Data Querying
+e00d27e0-ee75-4572-a00e-0d2aa4e9cb13,name,Square
+35ed1bb8-2296-4125-9390-5b68c70be4fc,name,srsRAN
+b7842b37-05bf-48a9-ae27-15c900fea45d,name,Stability Testing and Shelf-Life Assessment
+e6a51f6b-08c6-45b6-964b-b027c6af2c65,name,Stable Baselines3
+413a398f-0bfa-4dc6-8b8d-2acb2172b86d,name,Stable Diffusion
+cad44de7-7502-4188-932d-dfedb8ffe101,name,Staffing Solutions and Vendor Management
+0c7fe067-9b5e-41af-9442-82ac752a784f,name,Stage Production Management
+690b1236-c71c-44c3-866c-8c40c68a45dc,name,Stakeholder Analysis and Engagement
+954404a7-dcfd-4125-80da-eef21dcc527b,name,Stakeholder Analysis and Management
+01fc4601-19c9-4c3e-afdc-9e3d2b7c4ee6,name,Stakeholder Collaboration and Communication
+af009b94-715e-4540-ad4d-61157bd3ef71,name,Stakeholder Communication and Collaboration
+9f7a73fc-47c4-43df-b0b3-3770d0cbd5e1,name,Stakeholder Communication and Collaboration for Supply Chain and Logistics
+fbfb0cfa-5b73-4865-b5f0-eb106cca2803,name,Stakeholder Communication and Liaison
+3d2e8301-e4ea-449a-a62a-6e5a47ef0fd9,name,Stakeholder Communication and Management
+bfe631f0-8877-4ba1-982b-9d6199c2c664,name,Stakeholder Communication and Reporting
+fa9b0671-ab68-42c5-9153-8d5023732dfc,name,Stakeholder Communication and Reporting (CGR)
+4e97dca3-f40f-4670-b047-7ea3159cb7cc,name,Stakeholder Communication and Reporting for Regulatory Compliance and Safety
+40be4fe2-94bc-48a5-8ffc-2940f9e666c5,name,Stakeholder Communication and Training
+2d0628cb-41fc-417a-8e2a-b931d84bc8bd,name,Stakeholder Communication and Training for Regulatory Compliance
+deb10a49-1771-4755-8b53-31de68db29c9,name,Stakeholder Engagement and Collaboration
+3446c609-847e-48bb-9d11-343cabd3191e,name,Stakeholder Engagement and Collaboration for Regulatory Compliance
+45400452-1a57-4d6d-aa54-7ae4753d5f7d,name,Stakeholder Engagement and Communication
+a70b17b7-f979-458e-92e8-f9e3452b9f82,name,Stakeholder Engagement and Communication
+96e96a24-f659-4a23-bd4a-b1a0cfc81a93,name,Stakeholder Engagement and Communication for Budgeting and Public Financial Management
+b12724ed-453d-4dbb-9ec2-24e93662caa2,name,Stakeholder Engagement and Communication for Data Analytics
+9213c746-0e2e-4dc5-b4a2-42667003d30d,name,"Stakeholder Engagement and Communication for Educational Policy, Compliance, and Accreditation"
+d6306c83-621f-4af8-a5ae-8bee3e282407,name,Stakeholder Engagement and Communication for Regulatory Compliance
+23a3cefd-c303-4fc4-b88f-8096f814579d,name,Stakeholder Engagement and Communication for Sustainability and Environmental Risk Management
+6a944e7c-a918-4c83-94d1-06bbb680ca2f,name,Stakeholder Engagement and Communication for Transportation Infrastructure
+2ab42196-3a67-4ad8-8241-c1f63445b7c1,name,Stakeholder Engagement and Consultation
+f22a1021-2a87-4686-b0bc-9d27e4dd2c49,name,Stakeholder Engagement and Environmental Communication
+c8eb4f57-78c7-4edd-930b-d7f026189803,name,Stakeholder Engagement and Regulatory Liaison
+16c634b0-92b2-4ce4-b867-b168cde61877,name,Stakeholder Engagement and Relationship Management
+6562e864-7bc7-43b2-b1d7-9a0f73bed610,name,Stakeholder Influence and Negotiation
+72309fd1-2be6-4052-99ed-83d6d6c85c9f,name,Stakeholder Management and Communication
+cabff365-5ff8-496d-af0e-0011a36467ae,name,Standard Work and Process Documentation
+5cbbed89-cab9-47a9-8ad4-5030b4ab63c7,name,"Standards, Codes, and Regulatory Compliance for Materials"
+f46554b7-9480-4443-87aa-4e4cb887e46f,name,Stardog
+4dbdef27-7d4f-41c5-ae18-82eee25200ef,name,Stata
+79d09238-f878-4fa5-9f48-e3413f3aa889,name,Statistical Analysis
+4172c2cc-52a3-43fd-94e1-b210e43f406d,name,Statistical Analysis and Biostatistics
+b37681ef-f995-4bc5-80d6-35a052138e6a,name,Statistical Analysis and Biostatistics
+4b7a5bd9-eb99-4445-b8a1-1313bca3caf9,name,Statistical Analysis and Data Interpretation for Medical Devices
+fd59aaa9-7cae-45da-98cc-5d753f349072,name,Statistical Analysis and Modeling
+ad485753-f0e4-407c-8216-6d4543e0647b,name,Statistical and Educational Data Analysis
+6523f2a4-bf93-40c7-8e61-77bb68538e5a,name,Statistical Optics
+b880f3bf-c1e9-47fa-8131-d1159a2539d4,name,Statistical Physics
+67656d55-6400-4cdf-8dec-8d31f27bbd76,name,Statistical Process Control and Analysis
+93918635-b487-47ee-ab74-63bd8d9ba3a1,name,Statistical Quality Control and Data Analysis
+37bd4e27-9480-4a71-92df-8cc4c95ca47f,name,Stella Architect
+28751209-f0bf-41c2-93d7-273067164c2f,name,Sterile Manufacturing and Biologics Production
+195cd848-d21e-4fc7-91db-d63153820df1,name,Stock Assessment and Population Dynamics
+e621b063-51fd-499b-9ddd-a10e0a6d94cf,name,Stock Replenishment Strategies
+83a66a05-1e62-4e6b-b553-ed41b57992c5,name,Storage and Post-Harvest Handling
+f489bcf1-c83c-45e5-8bee-8c2202edf552,name,Store-Level OSHA Compliance
+99f8877f-2aaf-42c9-bd98-835593c5b300,name,Storybook
+560dd6dc-4a8d-4ca8-b3ce-7b5d67e4293b,name,Storytelling for Business
+aae649ef-49bb-451a-9e18-659cd527852e,name,Strategic Communication and Reporting
+05f68ad4-5964-4850-9b6c-c5fd7a57fd8d,name,Strategic Cost Management and Optimization
+6ced087e-994b-4f50-ba75-3f0a0caa9c2a,name,Strategic Leadership and Governance
+474291cb-6c89-47e0-8028-885396c17b0f,name,Strategic Partnership and Alliance Management
+bfbb1b31-559e-46c7-a020-1ac1a18e6522,name,Strategic Partnership and Alliance Management (SP)
+16c0800a-fa3b-4523-86a5-9b064d95ae0e,name,Strategic Policy Planning
+97b3bd76-7061-4397-a266-98d09a3772f3,name,Strategic Project Portfolio Management
+00f936fc-8ca2-40fc-b740-e2d66d271d2b,name,Strategic Resource Allocation
+6fcc9697-e6c8-4783-8189-8fa2802ac9e9,name,Strategic Risk Assessment
+9fe5af08-3671-408d-91f2-9d8e031d1f24,name,Strategic Sourcing and Supplier Selection
+f07e12dc-720e-4dec-8904-aa11cab5e4be,name,Strategic Technology and Digital Enablement
+1ce6abb3-5dc0-40a3-8594-25b1e3956721,name,Strategic Thinking and Planning
+4f284a66-cfaa-4373-ab5e-80bbd68c419d,name,Stress Testing and Scenario Analysis
+81d5acc8-8a2e-4d2f-bdf6-0ec9f4d0a338,name,Stripe
+1c4ab51b-4e20-4e90-bbc1-fda7fe73a001,name,Structural Assembly and Erection
+f961c474-9956-4de4-ada5-e3634eac5146,name,Structural Design
+d28e5906-2369-4907-95ef-f38882f319a0,name,Structural Health Monitoring
+00b5ff7c-6a97-41b5-805f-4f67faa3bbd6,name,Structural Resilience Design
+f5595290-8789-4be4-82c5-9c22cca78f53,name,Student Engagement and Motivation Techniques
+29c5371e-8eec-4182-a013-969652240f13,name,Subject Matter Expertise and Curriculum Alignment
+7d3d8cf6-419e-4764-b8a5-313967dbe72e,name,Substation Engineering
+b620d457-9eda-4998-8cca-06df734e6e05,name,Substrate
+53c6a9a6-f276-4d32-9a56-504040e514a4,name,Subsurface Geological Modeling
+3a4747d4-2a19-44ea-ad84-83ee2316b32b,name,Success Studies
+2a5e10f2-7d06-4afe-963a-e247549f4295,name,Succession Planning and Talent Management
+6dac89c3-7b2a-4e2b-a1d6-023fddaa6426,name,SugarCRM
+17309d73-d54e-4931-8226-80d443f387b8,name,Supplier and Carrier Coordination
+9f4c8ce1-08ed-40ae-adac-02b41cf1ded4,name,Supplier and Material Quality Management
+7b67e52d-e106-4424-9403-34ff12b3d3a9,name,Supplier and Subcontractor Quality Management
+83000988-5c3f-4af3-a8dc-3453f11232bb,name,Supplier and Vendor Management
+c98fc96f-d1a9-4516-b516-4f0da831cf78,name,Supplier and Vendor Management (SC)
+b5137503-ad19-4bc9-b4b6-1f4857bfa0b8,name,Supplier Relationship Management
+9e20185a-1051-46ff-80ae-6bcde53aac6f,name,Supplier Relationship Management for Healthcare Supply Chain
+1e93afb4-e3b8-472b-92bd-b95aaa22538c,name,Supply Chain and Inventory Management
+4b99734e-fae8-44c3-a4f0-97c467d789d3,name,Supply Chain and Inventory Management for Pharmaceuticals
+ee26c0e4-1b7d-4b1e-a67a-a0c1844b8930,name,Supply Chain and Logistics for Agricultural Machinery
+e42178ab-d647-42fb-92da-b295eb8b70f3,name,Supply Chain and Logistics Management
+d1e87f46-d820-4ec4-954b-e15b5523c6de,name,Supply Chain and Production Planning for Medical Devices
+22cb8a71-8078-4232-8dac-f13c9fa232c6,name,Supply Chain Coordination and Communication
+02930f9e-3280-47f3-a1aa-08cbb4ad6a4a,name,Supply Chain Coordination for Manufacturing
+e5b7ffb0-4d93-45ab-90e5-e7ab13de8fc8,name,Supply Chain Data Analysis and Reporting
+0fc059fe-0d62-4db6-9521-77b52478ee55,name,Supply Chain Data Analytics and Reporting
+42752f0e-a88e-4608-89be-d307d3b54925,name,Supply Chain Information Systems and Technology
+3bd7d50b-0b2c-4747-a3e0-b2f17ce38f0a,name,Supply Chain Optimization and Analytics
+c3f902c0-000b-49ff-a4c0-7823aa30f13b,name,Supply Chain Risk Management
+6cd9ad36-c7f6-4ca3-a65f-7de62b25b786,name,Supply Chain Strategy and Integration
+ee4e22ff-0bdd-42dd-b957-c688a8a0b4bb,name,Supply Chain Sustainability and Environmental Risk
+13fb2fed-8a90-4b7a-8487-9627d9af13ba,name,Supply Chain Technology and Systems Integration
+39ee9050-c564-4b54-9363-75a6622e254f,name,Surface Mining Operations
+e541f337-c8d2-478b-a3c6-f08dab4649b8,name,Suricata
+4f25c5ec-67d5-4054-a3eb-1fdd3ef220c8,name,Survey Design and Analysis
+a835f1ea-3fe1-4b4d-a04e-eb70f06b7856,name,Surveying and Geotechnical Engineering
+2f4e159e-2607-4ace-9fa1-8c5533d5ce4f,name,SurveyMonkey
+6d60d216-5609-400d-b141-01ad970153db,name,"Sustainability Accounting Software (e.g., Enablon)"
+7e2817e9-bf49-4684-aa95-21efcfb57c36,name,Sustainability Analytics and Digital Tools
+da7e47ba-6003-42bb-954c-9ef3d020e6fc,name,Sustainability and Corporate Social Responsibility Strategy
+35995189-f2b7-450c-bedd-7e579315b976,name,Sustainability and Energy Management
+fcaeccd5-c744-4cfc-8120-e41a2b34896e,name,Sustainability and Environmental Compliance
+7da4c771-2325-4546-afee-4ea238f0256d,name,Sustainability and Environmental Compliance in Spectrum Use
+5a409aed-00a5-49fa-9588-f811c45545c4,name,Sustainability and Environmental Considerations in Service Delivery
+387a1ef4-2206-4821-a0f1-de2a14f8fa81,name,Sustainability and Environmental Impact Assessment
+5604711b-0fea-4a33-bee2-797abad1888e,name,Sustainability and Environmental Impact Assessment for Waste Collection and Management
+1a7139c2-e3f3-4220-b642-e7ab865c4748,name,Sustainability and Environmental Impact Management
+febd7629-8887-463b-8536-d6ac1cec17ad,name,Sustainability and Environmental Impact Management for Logistics Planning and Supply Chain Coordination
+c77c94dd-3689-428d-bc2f-bee9e47b5456,name,Sustainability and Environmental Impact of Materials
+326fefe9-8cb6-4598-8fe5-734f76f3358e,name,Sustainability and Environmental Management
+74edd877-d975-4787-af94-16f349f24d53,name,Sustainability and Environmental Policy Analysis
+fbf81751-d4e3-4e06-9245-290dc2724628,name,Sustainability and Environmental Risk Management
+e74b4bae-a633-4ffd-bbdb-b0c7e9493b89,name,Sustainability and Environmental Stewardship
+c4d9603c-1efd-4683-8433-e0b17e1c7a0a,name,Sustainability and Environmental Stewardship in Logistics
+c7d12dc3-1fba-444b-a862-570c35f4ea0d,name,Sustainability and Environmental Strategy in Production
+eab4b1d1-9f85-4078-8f21-ea49ed34066b,name,Sustainability and ESG Governance
+4f315322-cb0d-41ac-b5a0-9c4893fe2876,name,Sustainability and ESG Positioning
+be027c0d-92d3-493b-9557-0e4593424989,name,Sustainability and Green IT in Digital Transformation
+d300294f-0b4d-4f9a-89ac-5881b56df887,name,Sustainability Assessment and Reporting
+896d91d6-50b1-4bd5-a115-d49de23ce604,name,Sustainability Assessment and Reporting for Environmental Sustainability
+2a516d86-88f8-4db9-8b26-87d9950afeaa,name,Sustainability Compliance
+fcd924f7-36a3-40eb-ab04-a9b6bb86a7d1,name,Sustainability Data Analysis and Reporting
+4661ab26-99e2-49e7-8b36-69dda42f90da,name,Sustainability Data Management and Reporting
+e7fa223d-a1b8-4929-b392-f0b723314b0c,name,Sustainability in Digital Transformation
+a1ff6860-21cd-4fdc-af47-4df073d39c05,name,Sustainability Metrics and Key Performance Indicators (KPIs)
+fdfee5ec-9c26-48ba-a3d6-ca4a73445da8,name,Sustainability Performance Measurement and Continuous Improvement
+5b16a613-4ed7-4b17-b2d7-dc0268ca5418,name,Sustainability Policy Development and Implementation
+bdf92ac4-5d58-43e0-9887-166f454f44f2,name,Sustainability Practices in Cultural Heritage
+da20da83-9e28-4ecc-9a6f-efd84110cdf8,name,Sustainability Practices in Digital Innovation
+7629afad-71fc-4977-b3f4-2df0581a3925,name,Sustainability Program Design and Implementation
+e33ff4d0-efa1-41b6-ac2a-e66bc561e3e9,name,Sustainability Program Development and Management
+783f682e-0259-4e02-bfe4-adaa541e9c6a,name,Sustainability Project Planning and Management
+69a2c38e-ad41-49cb-b822-ac646ba75eaf,name,Sustainability Reporting and Documentation
+8683d0e1-06ec-4dd9-a7f7-233dd59473e3,name,Sustainability Reporting and Metrics
+c0b96d1c-ea74-4822-b315-9b24214348d4,name,Sustainability Reporting and Performance Measurement
+4d1acd4a-d205-41ce-887a-6a242dfaca71,name,Sustainability Risk Assessment and Management
+5bb0ec32-8f2f-44c5-a8b0-acac08758892,name,Sustainability Strategy Development
+a0743761-ab2c-4234-8a7b-97ca2f5616c6,name,Sustainability Strategy Development and Implementation
+15d594f7-952d-4938-8dea-a65a84223e32,name,Sustainability Strategy Development for Transportation and Warehousing
+066a88e4-3079-48b6-bbb3-c66d6a9feb51,name,Sustainability Training and Capacity Building
+5b65f344-a7ac-492e-8c2e-785c87b171c2,name,Sustainable Agricultural Machinery Practices
+b8308704-f81e-40f5-9d0b-be737906fee4,name,Sustainable Agriculture and Agroecology Practices
+086d247e-7973-4f71-a027-d619e67b55e6,name,Sustainable and ESG Investing
+2fa205d4-9d41-4fdd-a250-e23156ad815d,name,Sustainable and Ethical Procurement
+9202dc51-db75-4d59-89ee-d89da67da3c2,name,Sustainable Design Principles
+83085ee5-8ffa-4453-bba0-4eca8350cbee,name,Sustainable Event Planning
+205aac7d-637b-4546-bfe9-149acadf61c9,name,Sustainable Facilities and Operations Management
+cb58b69c-f28e-452b-a5ae-ed7c2c8bd23c,name,Sustainable Facility Design and Architecture
+1a2dd717-2989-40f9-b03c-c73cb0552399,name,Sustainable Farming Practices
+8a7ced62-04af-479b-8254-97890821d1d1,name,Sustainable Finance Product Development
+04f3e393-bbfc-4442-bc86-48b82622656c,name,Sustainable Finance Regulatory Compliance
+a28f3627-5083-46d4-a482-fceae0c820b2,name,Sustainable Fleet and Vehicle Management
+8ecbea57-e6d2-4e38-aadf-4064b3817a67,name,Sustainable Forest Management Practices
+6a6bbe38-579e-4970-93fd-99ac52a9abfc,name,Sustainable Harvesting Practices
+679e4688-0e50-4a54-8b34-5802e1f0a0cb,name,Sustainable Insurance Practices and Environmental Risk Management
+cc385053-d1e0-4f9f-8526-0fbf9f068ed7,name,Sustainable Land Use Planning
+9bf33c88-1da9-4386-a466-8171e82dfbdc,name,Sustainable Livestock Management Practices
+eeb48d2b-264f-4268-9a50-4f51fcbbfe85,name,Sustainable Logistics Planning
+e9e6e21d-fa72-44c1-9250-c98bdabc4b33,name,Sustainable Manufacturing Practices
+df7fa339-d95a-42ab-b30c-9bd4f6b15fd5,name,Sustainable Material Selection
+84917b02-7908-40c6-953f-a923f0c31eed,name,Sustainable Packaging and Materials Management
+d0a427f5-b708-43a3-9c74-e7da5f7aeb32,name,Sustainable Procurement and Supply Chain Management for Healthcare Environmental Sustainability
+a364a5ae-2682-44ef-8f95-094b6d2cfbb1,name,Sustainable Resource Economics and Valuation
+1c1fb7f7-b7f9-47ba-a82c-3c91c16995d7,name,Sustainable Resource Management
+966ddeab-3a10-4395-b2b9-32fff458f4cf,name,Sustainable Resource Supply Chain Management
+65d8df02-d7e5-43ca-81ea-d432f0bc7553,name,Sustainable Supply Chain and Resource Efficiency
+d67b9352-bd7a-46ce-a4af-6282cdefe33c,name,Sustainable Supply Chain Management
+24d01eaf-58e8-47dd-a9eb-eaa77a60bf58,name,Sustainable Urban and Land Use Planning
+16e2ff98-4413-4fed-a192-7960af624024,name,Sustainable Urban Development
+429fae57-41df-4aa0-907f-e637c71b195e,name,Swagger
+05fa39bf-1346-4d33-b1bc-30a648847c37,name,Swagger (OpenAPI)
+c2034040-fd01-45a2-9e88-9bc6067b3dbd,name,Swift
+e730880a-a5c2-46a2-8c4a-279e51a2125e,name,SWIFT
+0ef8b291-8eda-4d47-9a9c-ffb2b9f43158,name,SWIFT Alliance Access
+db0e7e2b-7835-4182-ad1a-c3d41745df21,name,Symantec Data Loss Prevention (DLP)
+e78d35eb-15f3-46ba-abd6-9c52072e443e,name,Symbility
+75cd0e87-0491-46c5-9a09-619b72b5a092,name,Synopsys Sentaurus Device
+2c807580-9615-4ee0-a451-7ba5fe3a775a,name,SysML
+13d7050b-787e-41b5-87c2-f195e1bf381c,name,Systech
+8aec7235-3e30-4e5f-8127-af7a54396d81,name,Systech Packaging Serialization Software
+9b913a36-0f8e-4155-b5fd-2c703e5fafc7,name,System Architecture and Integration
+bc9ef79e-4e12-4368-8d47-18c2b215d7ad,name,System Integration and Interoperability
+4e6ad532-89fd-4273-86a8-c534f41ef433,name,System Integration Architecture
+707a12c0-c34d-4afd-bffd-5aedb8284ab9,name,Systematic Literature Review and Meta-Analysis
+8e637d0d-0e59-4d82-b911-52aa5208bd0d,name,Systematic Literature Review and Meta-Analysis for Medical Research
+2aa5e525-e087-4194-b9ea-8e335c202589,name,Systemd
+6190450d-8421-4874-95e3-53ac3cf89846,name,Systemic Risk Monitoring and Mitigation
+8dc9ec45-76b2-458d-af59-5e7dde32a2d4,name,Systems Modeling Language (SysML)
+f018e8a1-1f85-42a3-b364-8d6e8aaa5dd3,name,Systems Thinking and Complexity Management
+967c74d2-7916-4e59-897b-776eee83aa45,name,Tableau
+893085c8-e2ea-4df4-8230-a60d2b281c7c,name,Tableau Prep
+fc5d3aab-2cbf-438f-8705-c6ba7e6bf6c4,name,Tactical and Strategic Sports Planning
+c1986ba7-891b-402c-8776-0730a974b971,name,Talend
+ae1a94eb-7c87-42cd-bc62-2762d1b7c31b,name,Talend Data Fabric
+fb905a81-e78a-423e-b0d6-8e4b7e78b2f0,name,Talend Data Integration
+797e0e5c-5650-4653-8479-52e6a34af287,name,Talend Data Quality
+1fdc31da-8f84-478f-8918-d30bc4e52d8e,name,Talent Acquisition and Recruitment
+7a0d981f-1508-4c2a-9231-e7e471c68ad8,name,Talent Acquisition and Recruitment (WDHC)
+6a27269e-be88-4051-95d8-9223f23ac20e,name,Talent Acquisition and Recruitment for Employment and Workforce Services
+7280a88f-25af-4a88-a7c1-906901d09aa8,name,"Talent Development, Coaching, and Succession Planning"
+5b4c0526-91c6-4b47-8b47-8520ef221ad1,name,TalentLMS
+a053a560-c13c-4273-81a8-77abd1d2346c,name,Talkdesk
+1f05dffa-50ee-4db5-85d0-c08c62c0ba9e,name,Target Identification and Validation
+cab8562d-8299-4fc9-9721-e72001deac73,name,Tax Management and Compliance
+5e49efb3-a7ad-485b-b9ef-aab59b04e3dd,name,Taxation and Regulatory Impact Analysis
+57e8cae1-fb20-42f2-bcaa-4b783c2bd974,name,TCP/IP Protocol Suite
+52e9dabe-35bf-4f74-99a5-1a296d70344a,name,Team Leadership and Motivation
+aa1fca31-cab9-4d69-9658-7bc48927a4d5,name,TeamMate Audit
+e85b0539-8cd1-46ca-ab4d-75b61de5b4d5,name,TeamMate Audit Management
+506d7d96-84ab-4566-9192-79c71cd1e64d,name,Teammate+ (Wolters Kluwer)
+2b597aa5-261c-422b-91f0-81105b066ecc,name,TeamMate+ Audit Management
+9001beae-66fa-48bd-8cbf-edfd504d4bdf,name,Tecan FluentControl
+66687286-e6fb-479a-a639-896cfadb0ebe,name,Technical Documentation and Reporting
+c5d22b6c-4185-456a-94aa-712e5f886141,name,Technical Documentation and Training for Agricultural Machinery
+09ef508f-e35e-4566-ad0f-0d8c8165d81d,name,Technical Equipment Operation and Maintenance
+96a41ffd-7cab-4b3f-b4d0-fc97f3791893,name,Technical Support and Troubleshooting
+e1f7a7d4-7b19-44f6-8014-222b965a472f,name,Technical Support and Troubleshooting (CS)
+19792947-f914-4539-bea3-7c50c0efdb04,name,Technical Support and User Training
+ae002dce-db37-4c2a-a318-709dd6ab34ba,name,Technology and Compliance Tools Utilization
+5e80c718-df5d-4fc4-a3ed-f36742f59825,name,Technology and Equipment Operation for Quality Control
+7986c206-16bb-4ad0-bc9e-12b7237347bf,name,Technology and Systems for Underwriting and Claims
+3451d7e2-cbe1-493f-ab5c-d124ee03bed3,name,Technology and Systems Integration for Product Development
+299dadbe-cb9c-4dd9-811a-43b0c93b2f45,name,Technology and Systems Integration in Supply Chain
+9fa0eaeb-0f86-4e90-a087-04ba602152ce,name,Technology and Systems Utilization
+3572966e-d7a6-4223-bc2c-e3a2e5a9383d,name,Technology Governance and Compliance
+ff44c0ef-1c0e-4002-a9e5-61e788131b8d,name,Technology Integration in Assessment
+9a0cb080-d8fc-46ea-bde1-098ccf77f10f,name,Technology Project Management
+59eaab83-68bb-4d50-8368-51487307e5ad,name,Technology Risk Management
+d0704a20-46d2-4858-927b-152858b30013,name,Technology Utilization in Investment Management
+a370c695-1f12-4ed4-97bc-663200779da1,name,Technology Utilization in Program Operations
+2d2e9ba5-d662-4e02-93d0-db5daaab924d,name,Technology Utilization in Public Service Delivery
+4ead333d-a7dc-4a19-a42b-e9b37e8432d1,name,Technology Vendor and Partner Management
+986feffd-f54b-4984-8521-5ada6abec956,name,Telecommunication Market Analysis and Trends
+5fd5fe44-16ee-4f09-b247-c60cdd1898c5,name,Telecommunication Network Testing and Validation
+f332e877-eade-4c47-980c-278702432d7d,name,Telecommunication Policy Development
+a3cb31f8-c0ca-4dcb-9d70-2cb2804a30fc,name,Telecommunication Protocol Security
+fbf1b8af-3196-4e56-a006-64f9556f18b6,name,Telecommunication Protocols and Standards
+3705578e-990e-4e72-b4e3-6a7156efd394,name,Telecommunication Service Assurance
+3b8fd670-11ce-4fa7-9715-3d759cf154f1,name,Telecommunication Standards and Protocols for Emerging Technologies
+3279eabd-a29b-47fc-ab28-0a20e23a6655,name,Telecommunication Standards and Protocols Knowledge
+f864babe-f5e5-408b-b49b-b4df591f5e68,name,Telecommunication Systems Integration
+84e242dd-085e-4208-ab99-53ded0aef146,name,Telecommunication Systems Maintenance
+6bfe5f15-05a3-483e-b155-464c95b83a7c,name,Telecommunication Technology Research
+e016dab3-4b77-428a-ad56-e309f110ed17,name,Telecommunication Testing Tools and Platforms
+2835a843-527f-41ff-80c9-540f37947841,name,Telemedicine Systems Design and Management
+6d8ecef9-1e52-4b5c-9c0b-8a08859b83a3,name,Temenos T24
+b4f6e12d-8753-488f-b2ee-6d53c9be3528,name,Temperature Control and HACCP
+a26eadcb-41eb-4703-ac9a-380094e2ecc6,name,"Temperature Data Logger Devices and Software (e.g., ELPRO)"
+6c553ca8-bf0f-457f-ad73-c4aa0b15afc9,name,Tenable Nessus
+913dda76-f8b3-4111-8940-4d011c19dcab,name,Tenable.io
+40b39f74-e745-4f34-8a0e-08b16dadf472,name,Tendermint Core
+356843c4-f7a9-40cf-b3f3-3437cf2cdaff,name,TensorBoard
+ff2959f8-f2d8-489a-865b-b45fe3d9e63e,name,TensorFlow
+db020392-e4d7-437e-9506-2d8325ecae28,name,TensorFlow Agents (TF-Agents)
+3686df39-bdf4-4c5b-aab7-90bdc7863ceb,name,TensorFlow Serving
+9e6c0a7e-eaeb-4589-912c-22f02b27c48c,name,Terminal and Bulk Storage Operations
+4955a4c8-a181-46d6-a097-d4772470b835,name,Terraform
+9bc45874-02f2-4c40-adf5-c09997d4c14d,name,TerrAlign
+99e92be1-94d3-44f3-adf5-44542c3dad49,name,Terranova Security
+3afb6f3a-2037-438d-8824-8dc9741488d6,name,Territory and Account Planning
+f6bd7cfa-db22-4ea0-a7c9-e4a28b658fa3,name,Test Automation Framework Development
+d5ee1d6d-afc7-43ec-a371-ab58485c0e3c,name,Test Case Design and Development
+f9a38674-1171-47de-84d2-53bf481b038a,name,Test Environment and Data Management
+912830b8-b9b5-4d2a-9d1a-8476f6aad667,name,Test Planning and Strategy
+ae05d4e9-2d17-4714-b570-404cd2c4c2e8,name,Test Process Improvement and Quality Assurance
+dbb9a659-a344-4d98-b88b-883a4cd09a82,name,Testing and Quality Assurance in DevOps
+dd436d93-8945-4361-a4cd-24c0a8d394c1,name,Testing and Validation of Telecommunication Products
+83057307-8e31-4a88-a603-a426c1789241,name,TestLink
+0f26cb1d-679e-44b7-81b2-807749959af8,name,TestNG
+75758672-095b-488c-8186-fe40019d326a,name,TestRail
+4209802a-e77c-4c8b-854e-52eabea35a1f,name,Thales CipherTrust
+bab575fc-e609-4e2c-99d7-4a7c7740a54f,name,The Sleuth Kit
+740c7279-2a36-48d0-9350-776e6831df05,name,The Trade Desk
+9fb616fb-d6ed-41d0-914e-2aaded79f2c1,name,TheHive
+854f55b9-ace8-4866-be4f-e370beb7c0a5,name,Themida
+699fe1cc-2385-407c-8044-27ad0476ed67,name,Therapeutic Area Expertise
+da6261da-dbde-4448-89e8-15a447040eb6,name,Therapeutic Interventions and Treatment Planning
+82f62630-5f7e-42e6-9312-409e117e3252,name,Thermo Fisher SampleManager LIMS
+33cefd4d-14b4-48be-9f2c-20e2d2751094,name,Thermo Scientific Xcalibur
+63053f97-4002-46fe-8226-710363c01da6,name,Thermodynamics
+89f421dc-b3c0-4f76-a60f-5c74284b9265,name,Thin Film Processing
+6813b5cf-49db-4ef2-836f-84cae43d0d32,name,ThingsBoard
+24e20b79-5253-40ff-b495-ff62704ec34c,name,Third-Party and Vendor Compliance Management
+cd9e35ca-a226-4368-9433-bd034546d915,name,Third-Party and Vendor Risk Management
+fe63191b-8fd7-49f1-b68c-fd2f3a0dab42,name,Third-Party Risk Management
+fa78e1ae-9bbc-4b69-b539-f7e2f8e964cc,name,Thomson Reuters CLEAR
+422341be-2670-46ab-8f75-66c663d3572b,name,Thomson Reuters Compliance Learning
+7d93ed6d-3612-484c-8083-03c0b4a3e4cd,name,Thomson Reuters ONESOURCE
+edfce90e-2286-4430-a183-5cbf649abc33,name,Thomson Reuters Regulatory Change Management
+51c7b713-7393-49f0-9ce2-521a428843da,name,Thomson Reuters Regulatory Intelligence
+ef6c78e7-4703-45d6-a9e3-0fc93cebdadd,name,Thomson Reuters Westlaw
+0011ecf2-1ba6-4a81-a1be-75794d4271e8,name,Thought Leadership
+1ef05538-fb6c-4670-96a4-a7f665ba64f0,name,Threat Intelligence and Analysis
+f5bbaf10-aa25-47fb-9bf3-7929f381090b,name,Threat Intelligence and Vulnerability Management
