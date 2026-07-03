@@ -1,0 +1,30 @@
+
+https://use1-stage-ai-localization-interaction-builder-consumer.stage.percipio.com/api-docs/#
+
+ai-localization-stage/xK9#mNp$vR2xL4w5Hj8q
+
+Service Name used: knowledge-graph-builder
+
+Use the below cURL to get Status:
+curl -X 'GET' \
+  'https://use1-stage-ai-localization-interaction-builder-consumer.stage.percipio.com/translations/translateAsync/jobId/3fad9d14-5f8b-4f2a-9be6-ae0e574bbe72?responseFormat=json' \
+  -H 'accept: application/json' \
+  -H 'x-service-name: knowledge-graph-builder'
+
+
+JobIds pending for Skill Names
+=======================================================
+9f51ce71-e3d7-46d9-b499-3a238ea366a2 - 5th File
+8c08f83e-1e73-4a93-a7d0-ffa993e66815 - 6th File
+3fad9d14-5f8b-4f2a-9be6-ae0e574bbe72 - 8th File
+
+Master Environment
+==========================================================
+https://ai-localization.master.squads-dev.com/api-docs/#/
+
+ping /Pong321!
+
+Descriptions pending
+==========================================================
+Need to generate translations for the descriptions
+use Skill_Families_desc.json file to upload to localization service. It is in outpu-json folder
